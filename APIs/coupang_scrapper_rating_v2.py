@@ -1,0 +1,17 @@
+import requests
+
+url = "https://www.coupang.com/next-api/products/vendor-items?productId=8230650647&vendorItemId=87687654341&landingItemId=23687652709&landingProductId=8230650647&landingVendorItemId=87687654341&defaultSelection=&deliveryToggle=true"
+
+payload = {}
+headers = {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0',
+  'Accept': 'application/json, text/plain, */*',
+  'Accept-Language': 'en-US,en;q=0.5',
+  'Accept-Encoding': 'gzip, deflate, br, zstd',
+  'Sec-Fetch-Site': 'same-origin',
+  'Cookie': 'PCID=17539779639089613749852; _abck=EBFB1D29527206B4292444EFF0103186~-1~YAAQ3U/eF7az8jyYAQAAMsY7YQ5T71IiU8RSjEK+MTQr9vHS1bpgnQCyzrBzD6+jgFDoZv8wl62uRtDAlkidme+dG8bTY41qePPcROuJ1Ss3R2siLfmCxQc+1/py9ezlt1yWkPHz121VvhKXenUfGsEXKKSWG3wG/vVKNruuEzcecERoxJI7f/aPHJTeiNLzzGE5d5SPGLsO5wMzXjMsGI2ttVnzIdDV7HJm6VNGscgLuYd1gxeQk9wYPMhzn/2hWc6yWbTxGWfS8P6TLI13D/32BWd54gDmiOffpv2pb21CHmfJ70IqXMVPr1dhHAY4zO6fvKByQV8S9QR3zjn4G+UQN4lNrvpzTbReIoIvUWEBrXEqKWu4ZDl1uruV/0TvJ+DQZU1f2CaypZfjU0LGjhEGtx6xLk0+VAeevdsF5WC0gNEgaOTW2q8Swa9EByDCKEaFn9QWnITGhNVnDYPe4z3gUbsbhrVXLlyXUf3Yhnl85RmAqgblDsQJCeKewmUHI9eOQY8t7w/psohbsXw2WmQAj4xK6OE0Jna8fBC0Pa21mluQrRBUhxksbvGVO6WWKd0QZcmKC/z5UJ8tpFb/C2l7gvZlMw5AabmCR9BT5tpcR/Q/QkJNo7JdyH1qRoqXS8A0knCbWrDJ2GA=~-1~-1~-1; bm_s=YAAQGWncFwYkjz2YAQAAlZZBYQN473CvjLpFoNvu18PtDnEcbG0MeToqTEE214quskoFDetMnj+QENAcOkETB+RnjbliGWEzOr3OyY9RcOJoDxH62mhDQKeuAneALrkrLojEH0zjo96edFqtfs+d3L40zOyVLfQJorMaNcs8bpBnAKcD4enDASqvPENjczBK89Ducu5IY73Zz264OjIZYE42DKOdoOrxP8YwHJYhQKNRFVw9AXh5gx2ePEislpT9j63wJHoY5D+X6H4DDp639Ot4LrsYBVnrOaCoCsmFG+lW0LePUAnl1iTI+XwnKQ4HaDcWbioabRlbToGuyV0/YZDghMaZlfBZ0rCUZl5E7bR0Akh7zEDMljQpGDVFryFDkdLCzWEWbPISsE8nMwmJIZiwKKS/zU8I4kkVCM/xRrqhXFpKi++i3Y03qus4STkEPWJbzJopWCGejPH9wi8+sp5Iqp+T1LKZGDU3c1tiAcnfsIsQwDBGq33OuZ2JnEziKHwmKRcxQCnPeczfo8oZqCT9oop73E/MVVbijd5TyOW5CILPstr6; bm_ss=ab8e18ef4e; bm_sv=9B02D2284D7FF9D72D172FFBAFEC51CE~YAAQhU/eF3D34FSYAQAAX7k7YRwD5XArsY+2ZcCl0PMSQcKHmoV7oeFcckDOhAbx5MMpv0ogGIk4+zPTEmOErxLbD9da8feGSTeRTZzuejCDJH29DvpDNisWB74880wUG4m4PBe77eDRkYyuM5qq0PTJMI/Q3uRVKRmluMf9j946NCovzl5OdmNiw5n6kVo5IV3SuQBwcNGofyeFVTlBJeJ36BaRlAsc4O8/1f7Uoy3u5Urbu2If92mh2oLOUQvIkQ==~1; bm_sz=7CA8DA45030F6CAE728409C6C32FB236~YAAQxU/eF1jj0TSYAQAA8BgQYRzCYu5QzJjbxsLrvbJpOhBe7wDGtWVy4A+iWXTXH15dnQgWPzSBx60OjzLajbm9qK8wrgWtTJkJpQotZ+ojrkS6E86LmLDbjFVfjxkArFZ+7TqNpNqjJGhH7wvVX9mzUGlpUU2QHmglvHdyIfg726DxvY7QLoJFSujkuX+65IdT/xQ9FiN5NVcymCoNitrbNNh4NbIG6jxmmhOgy1XLniZfuNzG2r1t9nX7iWASf3tg3URmhMUygNLgoPPjrFRWxJUQkVN75L8VHL9C/uPrVFgpyG9tNTXw52dbdL6a64rW+WHm69jprhuNHVTOTT/26PHbzpCmAoNhxUu8~3753009~3160386; x-coupang-accept-language=ko-KR; x-coupang-target-market=KR'
+}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+
+print(response.text)

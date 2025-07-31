@@ -1,0 +1,2 @@
+# rating 
+https://www.coupang.com/next-api/review?productId=8230650647&page=1&size=10&sortBy=ORDER_SCORE_ASC&ratingSummary=true&ratings=&market=

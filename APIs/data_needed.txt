@@ -1,0 +1,21 @@
+Country Code = [0].input_obj.er
+Category = [0].input_obj.Category
+Brand = ''
+Product = [0].itemName
+Flavour = ''
+Price = [0].quantityBase[0].moduleData[0].priceLogData.finalPrice
+Rating = [0].rating.rData.ratingSummaryTotal.ratingAverage
+Page URL = [0].input_obj.URL
+Review Date = [4].review_date
+Message = ''
+Website Name = "https://www.coupang.com/"
+Site Type = "https://www.coupang.com/"
+
+
+
+[0].rating.rData.paging.contents[0].reviewId
+[0].rating.rData.paging.contents[0].productId
+[0].rating.rData.paging.contents[0].rating
+[0].rating.rData.paging.contents[0].title
+[0].rating.rData.paging.contents[0].content
+[0].rating.rData.paging.contents[0].reviewAt

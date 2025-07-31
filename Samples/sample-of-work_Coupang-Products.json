@@ -1,0 +1,2576 @@
+{
+  "code": 200,
+  "msg": "SUCCESS",
+  "data": {
+    "products": [
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "11,780",
+          "lowestPrice": "11,780",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "11,780",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 11780,
+          "finalPriceForBtc": 11780,
+          "priceWithIdForBtc": 11780,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 XO 물만두 새우 (냉동), 306g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/spfltn0u/741eec2a028846099738996a009d4c8d.jpg",
+          "oriDefaultUrl": "rs_quotation_api/spfltn0u/741eec2a028846099738996a009d4c8d.jpg",
+          "completeHttpUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/spfltn0u/741eec2a028846099738996a009d4c8d.jpg",
+          "groupTitle": "오뚜기 XO 물만두 새우 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 589원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,925",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 15,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8870977662?itemId=25880969979&vendorItemId=92866985106&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8870977662&vendorItemId=92866985106&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+XO+%EB%AC%BC%EB%A7%8C%EB%91%90+%EC%83%88%EC%9A%B0+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/spfltn0u/741eec2a028846099738996a009d4c8d.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 92866985106,
+        "productId": 8870977662,
+        "itemId": 25880969979,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2025-06-26T03:20:07.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8870977662&viid=92866985106",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8870977662%26viid%3D92866985106&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 11780,
+          "finalPrice": 11780,
+          "priceWithID": 11780,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 155,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "3,550",
+          "lowestPrice": "3,550",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "3,550",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 3550,
+          "finalPriceForBtc": 3550,
+          "priceWithIdForBtc": 3550,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 가뿐한끼 닭가슴살 만두 김치 (냉동), 180g, 1개",
+          "description": "",
+          "defaultUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zxh0lz5n/d5bb2ae4dd8d4db2a379008c9db16919.jpg",
+          "oriDefaultUrl": "rs_quotation_api/zxh0lz5n/d5bb2ae4dd8d4db2a379008c9db16919.jpg",
+          "completeHttpUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zxh0lz5n/d5bb2ae4dd8d4db2a379008c9db16919.jpg",
+          "groupTitle": "오뚜기 가뿐한끼 닭가슴살 만두 김치 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 178원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,972",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 256,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8648022730?itemId=25100698398&vendorItemId=92103799229&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8648022730&vendorItemId=92103799229&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EA%B0%80%EB%BF%90%ED%95%9C%EB%81%BC+%EB%8B%AD%EA%B0%80%EC%8A%B4%EC%82%B4+%EB%A7%8C%EB%91%90+%EA%B9%80%EC%B9%98+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zxh0lz5n/d5bb2ae4dd8d4db2a379008c9db16919.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 92103799229,
+        "productId": 8648022730,
+        "itemId": 25100698398,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2025-03-14T06:31:10.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8648022730&viid=92103799229",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8648022730%26viid%3D92103799229&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 3550,
+          "finalPrice": 3550,
+          "priceWithID": 3550,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 418,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "3,550",
+          "lowestPrice": "3,550",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "3,550",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 3550,
+          "finalPriceForBtc": 3550,
+          "priceWithIdForBtc": 3550,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 가뿐한끼 닭가슴살 만두 오리지널 (냉동), 180g, 1개",
+          "description": "",
+          "defaultUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/mrw1klp9/7d29028c875041e1a2ebb50fb7cf7602.jpg",
+          "oriDefaultUrl": "rs_quotation_api/mrw1klp9/7d29028c875041e1a2ebb50fb7cf7602.jpg",
+          "completeHttpUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/mrw1klp9/7d29028c875041e1a2ebb50fb7cf7602.jpg",
+          "groupTitle": "오뚜기 가뿐한끼 닭가슴살 만두 오리지널 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 178원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,972",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 174,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8648022718?itemId=25100698371&vendorItemId=92103799198&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8648022718&vendorItemId=92103799198&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EA%B0%80%EB%BF%90%ED%95%9C%EB%81%BC+%EB%8B%AD%EA%B0%80%EC%8A%B4%EC%82%B4+%EB%A7%8C%EB%91%90+%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/mrw1klp9/7d29028c875041e1a2ebb50fb7cf7602.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 92103799198,
+        "productId": 8648022718,
+        "itemId": 25100698371,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2025-03-14T06:31:10.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8648022718&viid=92103799198",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8648022718%26viid%3D92103799198&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 3550,
+          "finalPrice": 3550,
+          "priceWithID": 3550,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 69,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "8,190",
+          "lowestPrice": "8,190",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "8,190",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 8190,
+          "finalPriceForBtc": 8190,
+          "priceWithIdForBtc": 8190,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 X O 딤섬 샤오롱바오 만두 (냉동), 330g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/wj5w9bzf/05445a618052497bbd7007edd517edbb.jpg",
+          "oriDefaultUrl": "rs_quotation_api/wj5w9bzf/05445a618052497bbd7007edd517edbb.jpg",
+          "completeHttpUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/wj5w9bzf/05445a618052497bbd7007edd517edbb.jpg",
+          "groupTitle": "오뚜기 X O 딤섬 샤오롱바오 만두 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 410원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,241",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 178,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8412903806?itemId=24326364764&vendorItemId=91342047664&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8412903806&vendorItemId=91342047664&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+X+O+%EB%94%A4%EC%84%AC+%EC%83%A4%EC%98%A4%EB%A1%B1%EB%B0%94%EC%98%A4+%EB%A7%8C%EB%91%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/wj5w9bzf/05445a618052497bbd7007edd517edbb.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 91342047664,
+        "productId": 8412903806,
+        "itemId": 24326364764,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-10-23T04:32:19.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8412903806&viid=91342047664",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8412903806%26viid%3D91342047664&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 8190,
+          "finalPrice": 8190,
+          "priceWithID": 8190,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 93,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "8,190",
+          "lowestPrice": "8,190",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "8,190",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 8190,
+          "finalPriceForBtc": 8190,
+          "priceWithIdForBtc": 8190,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 X O 딤섬 새우 하가우 만두 (냉동), 300g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zkelmmgu/7ca623a907ea42d5a8d290f1c5834265.jpg",
+          "oriDefaultUrl": "rs_quotation_api/zkelmmgu/7ca623a907ea42d5a8d290f1c5834265.jpg",
+          "completeHttpUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zkelmmgu/7ca623a907ea42d5a8d290f1c5834265.jpg",
+          "groupTitle": "오뚜기 X O 딤섬 새우 하가우 만두 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 410원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,365",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 338,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8412903809?itemId=24326364769&vendorItemId=91342047679&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8412903809&vendorItemId=91342047679&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+X+O+%EB%94%A4%EC%84%AC+%EC%83%88%EC%9A%B0+%ED%95%98%EA%B0%80%EC%9A%B0+%EB%A7%8C%EB%91%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zkelmmgu/7ca623a907ea42d5a8d290f1c5834265.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 91342047679,
+        "productId": 8412903809,
+        "itemId": 24326364769,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-10-23T04:32:19.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8412903809&viid=91342047679",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8412903809%26viid%3D91342047679&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 8190,
+          "finalPrice": 8190,
+          "priceWithID": 8190,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 185,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "8,190",
+          "lowestPrice": "8,190",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "8,190",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 8190,
+          "finalPriceForBtc": 8190,
+          "priceWithIdForBtc": 8190,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 X.O.딤섬 마라창펀 (냉동), 330g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zjbjviuf/b8ea94c6f1474734bec26b2d6a2f0d77.jpg",
+          "oriDefaultUrl": "rs_quotation_api/zjbjviuf/b8ea94c6f1474734bec26b2d6a2f0d77.jpg",
+          "completeHttpUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zjbjviuf/b8ea94c6f1474734bec26b2d6a2f0d77.jpg",
+          "groupTitle": "오뚜기 X.O.딤섬 마라창펀 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 410원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,241",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 41,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8415067025?itemId=24334162659&vendorItemId=91349740407&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8415067025&vendorItemId=91349740407&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+X.O.%EB%94%A4%EC%84%AC+%EB%A7%88%EB%9D%BC%EC%B0%BD%ED%8E%80+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/zjbjviuf/b8ea94c6f1474734bec26b2d6a2f0d77.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 91349740407,
+        "productId": 8415067025,
+        "itemId": 24334162659,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-10-24T06:38:11.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8415067025&viid=91349740407",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8415067025%26viid%3D91349740407&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 8190,
+          "finalPrice": 8190,
+          "priceWithID": 8190,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 71,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "7,980",
+          "lowestPrice": "7,980",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "7,980",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 7980,
+          "finalPriceForBtc": 7980,
+          "priceWithIdForBtc": 7980,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 순후추 교자 (냉동), 324g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/okihbxjz/10e585758b9743b98cd022284ebfdc45.jpg",
+          "oriDefaultUrl": "rs_quotation_api/okihbxjz/10e585758b9743b98cd022284ebfdc45.jpg",
+          "completeHttpUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/okihbxjz/10e585758b9743b98cd022284ebfdc45.jpg",
+          "groupTitle": "오뚜기 순후추 교자 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 399원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,231",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 164,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8239324559?itemId=23712964724&vendorItemId=90737916117&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8239324559&vendorItemId=90737916117&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EC%88%9C%ED%9B%84%EC%B6%94+%EA%B5%90%EC%9E%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/okihbxjz/10e585758b9743b98cd022284ebfdc45.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90737916117,
+        "productId": 8239324559,
+        "itemId": 23712964724,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-07-18T06:37:23.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8239324559&viid=90737916117",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8239324559%26viid%3D90737916117&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 7980,
+          "finalPrice": 7980,
+          "priceWithID": 7980,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 27,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "8,480",
+          "lowestPrice": "8,480",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "8,480",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 8480,
+          "finalPriceForBtc": 8480,
+          "priceWithIdForBtc": 8480,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 카레 군만두 (냉동), 300g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/sdewfsae/cbeb2c33fc4842928b469ab663cecead.jpg",
+          "oriDefaultUrl": "rs_quotation_api/sdewfsae/cbeb2c33fc4842928b469ab663cecead.jpg",
+          "completeHttpUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/sdewfsae/cbeb2c33fc4842928b469ab663cecead.jpg",
+          "groupTitle": "오뚜기 카레 군만두 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 424원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,413",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 136,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8239324566?itemId=23712964757&vendorItemId=90737916146&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8239324566&vendorItemId=90737916146&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EC%B9%B4%EB%A0%88+%EA%B5%B0%EB%A7%8C%EB%91%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/sdewfsae/cbeb2c33fc4842928b469ab663cecead.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90737916146,
+        "productId": 8239324566,
+        "itemId": 23712964757,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-07-18T06:37:23.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8239324566&viid=90737916146",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8239324566%26viid%3D90737916146&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 8480,
+          "finalPrice": 8480,
+          "priceWithID": 8480,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 40,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "4,360",
+          "lowestPrice": "4,360",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "4,360",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 4360,
+          "finalPriceForBtc": 4360,
+          "priceWithIdForBtc": 4360,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 버블만두 고기 (냉동), 168g, 1개",
+          "description": "",
+          "defaultUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/tgoz2wth/d3704af3e7bd4a9f95b32aae206ae873.jpg",
+          "oriDefaultUrl": "rs_quotation_api/tgoz2wth/d3704af3e7bd4a9f95b32aae206ae873.jpg",
+          "completeHttpUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/tgoz2wth/d3704af3e7bd4a9f95b32aae206ae873.jpg",
+          "groupTitle": "오뚜기 버블만두 고기 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 218원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "2,595",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 14,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8251885714?itemId=23758329006&vendorItemId=90782768101&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8251885714&vendorItemId=90782768101&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%B2%84%EB%B8%94%EB%A7%8C%EB%91%90+%EA%B3%A0%EA%B8%B0+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/tgoz2wth/d3704af3e7bd4a9f95b32aae206ae873.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90782768101,
+        "productId": 8251885714,
+        "itemId": 23758329006,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-07-24T04:41:01.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8251885714&viid=90782768101",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8251885714%26viid%3D90782768101&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 4360,
+          "finalPrice": 4360,
+          "priceWithID": 4360,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 62,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "4,880",
+          "lowestPrice": "4,880",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "4,880",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 4880,
+          "finalPriceForBtc": 4880,
+          "priceWithIdForBtc": 4880,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 버블만두 김치 (냉동), 168g, 1개",
+          "description": "",
+          "defaultUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/tcq4ju4v/2bc5f3a7619149cfa4590555e3114a64.jpg",
+          "oriDefaultUrl": "rs_quotation_api/tcq4ju4v/2bc5f3a7619149cfa4590555e3114a64.jpg",
+          "completeHttpUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/tcq4ju4v/2bc5f3a7619149cfa4590555e3114a64.jpg",
+          "groupTitle": "오뚜기 버블만두 김치 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 244원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "2,905",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 27,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8251885713?itemId=23758329005&vendorItemId=90782768096&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8251885713&vendorItemId=90782768096&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%B2%84%EB%B8%94%EB%A7%8C%EB%91%90+%EA%B9%80%EC%B9%98+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/tcq4ju4v/2bc5f3a7619149cfa4590555e3114a64.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90782768096,
+        "productId": 8251885713,
+        "itemId": 23758329005,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-07-24T04:41:01.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8251885713&viid=90782768096",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8251885713%26viid%3D90782768096&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 4880,
+          "finalPrice": 4880,
+          "priceWithID": 4880,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 36,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "7,980",
+          "lowestPrice": "7,980",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "7,980",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 7980,
+          "finalPriceForBtc": 7980,
+          "priceWithIdForBtc": 7980,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 맛있는 왕교자 김치 (냉동), 468g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vlbbvkdt/d243febdfddd4d8a8da8a0c4330b4067.jpg",
+          "oriDefaultUrl": "rs_quotation_api/vlbbvkdt/d243febdfddd4d8a8da8a0c4330b4067.jpg",
+          "completeHttpUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vlbbvkdt/d243febdfddd4d8a8da8a0c4330b4067.jpg",
+          "groupTitle": "오뚜기 맛있는 왕교자 김치 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 399원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "853",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 82,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8278867548?itemId=23866512762&vendorItemId=90889633029&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8278867548&vendorItemId=90889633029&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%A7%9B%EC%9E%88%EB%8A%94+%EC%99%95%EA%B5%90%EC%9E%90+%EA%B9%80%EC%B9%98+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/vlbbvkdt/d243febdfddd4d8a8da8a0c4330b4067.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90889633029,
+        "productId": 8278867548,
+        "itemId": 23866512762,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-08-09T02:19:13.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8278867548&viid=90889633029",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8278867548%26viid%3D90889633029&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 7980,
+          "finalPrice": 7980,
+          "priceWithID": 7980,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 32,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "3,350",
+          "lowestPrice": "3,350",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "3,350",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 3350,
+          "finalPriceForBtc": 3350,
+          "priceWithIdForBtc": 3350,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 맛있는 교자만두 고기 (냉동), 380g, 1개",
+          "description": "",
+          "defaultUrl": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/kzdkzfmb/db7acc9ee0a24ba1ad8ed23d3093272e.jpg",
+          "oriDefaultUrl": "rs_quotation_api/kzdkzfmb/db7acc9ee0a24ba1ad8ed23d3093272e.jpg",
+          "completeHttpUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/kzdkzfmb/db7acc9ee0a24ba1ad8ed23d3093272e.jpg",
+          "groupTitle": "오뚜기 맛있는 교자만두 고기 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 168원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "882",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 110,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8133290691?itemId=23100199978&vendorItemId=90133544195&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8133290691&vendorItemId=90133544195&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%A7%9B%EC%9E%88%EB%8A%94+%EA%B5%90%EC%9E%90%EB%A7%8C%EB%91%90+%EA%B3%A0%EA%B8%B0+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/kzdkzfmb/db7acc9ee0a24ba1ad8ed23d3093272e.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90133544195,
+        "productId": 8133290691,
+        "itemId": 23100199978,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-05-29T07:21:56.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8133290691&viid=90133544195",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8133290691%26viid%3D90133544195&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 3350,
+          "finalPrice": 3350,
+          "priceWithID": 3350,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 52,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "5,600",
+          "lowestPrice": "5,600",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "5,600",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 5600,
+          "finalPriceForBtc": 5600,
+          "priceWithIdForBtc": 5600,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 맛있는 찹쌀 군만두 고기 (냉동), 300g, 1개",
+          "description": "",
+          "defaultUrl": "//thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/55t9tlfe/334edeac8b3e419980477e81859a9c30.jpg",
+          "oriDefaultUrl": "rs_quotation_api/55t9tlfe/334edeac8b3e419980477e81859a9c30.jpg",
+          "completeHttpUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/55t9tlfe/334edeac8b3e419980477e81859a9c30.jpg",
+          "groupTitle": "오뚜기 맛있는 찹쌀 군만두 고기 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 280원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,867",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 42,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8133290742?itemId=23100200161&vendorItemId=90133544352&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8133290742&vendorItemId=90133544352&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%A7%9B%EC%9E%88%EB%8A%94+%EC%B0%B9%EC%8C%80+%EA%B5%B0%EB%A7%8C%EB%91%90+%EA%B3%A0%EA%B8%B0+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/55t9tlfe/334edeac8b3e419980477e81859a9c30.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90133544352,
+        "productId": 8133290742,
+        "itemId": 23100200161,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-05-29T07:21:57.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8133290742&viid=90133544352",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8133290742%26viid%3D90133544352&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 5600,
+          "finalPrice": 5600,
+          "priceWithID": 5600,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 32,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "15,950",
+          "lowestPrice": "15,950",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "15,950",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 15950,
+          "finalPriceForBtc": 15950,
+          "priceWithIdForBtc": 15950,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 맛있는 찹쌀 군만두 고기 (냉동), 300g, 3개",
+          "description": "",
+          "defaultUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qb9ep7my/2bf5f70a68cc4fe0baa60b7aa8a7a312.jpg",
+          "oriDefaultUrl": "rs_quotation_api/qb9ep7my/2bf5f70a68cc4fe0baa60b7aa8a7a312.jpg",
+          "completeHttpUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qb9ep7my/2bf5f70a68cc4fe0baa60b7aa8a7a312.jpg",
+          "groupTitle": "오뚜기 맛있는 찹쌀 군만두 고기 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 798원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,772",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 42,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8133290742?itemId=23100200163&vendorItemId=90133544363&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8133290742&vendorItemId=90133544363&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%A7%9B%EC%9E%88%EB%8A%94+%EC%B0%B9%EC%8C%80+%EA%B5%B0%EB%A7%8C%EB%91%90+%EA%B3%A0%EA%B8%B0+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/qb9ep7my/2bf5f70a68cc4fe0baa60b7aa8a7a312.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 90133544363,
+        "productId": 8133290742,
+        "itemId": 23100200163,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-05-29T07:21:57.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8133290742&viid=90133544363",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8133290742%26viid%3D90133544363&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 15950,
+          "finalPrice": 15950,
+          "priceWithID": 15950,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 8,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "7,980",
+          "lowestPrice": "7,980",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "7,980",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 7980,
+          "finalPriceForBtc": 7980,
+          "priceWithIdForBtc": 7980,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 참깨만두 (냉동), 396g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/02/20/9/3/fda3556f-3cab-4345-80dd-98937452e5c4.jpg",
+          "oriDefaultUrl": "retail/images/2024/02/20/9/3/fda3556f-3cab-4345-80dd-98937452e5c4.jpg",
+          "completeHttpUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/02/20/9/3/fda3556f-3cab-4345-80dd-98937452e5c4.jpg",
+          "groupTitle": "오뚜기 참깨만두 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 399원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,008",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 4.5,
+          "ratingCount": 99,
+          "ratingRatio": 90
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/7907292276?itemId=21688888662&vendorItemId=88738735066&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=7907292276&vendorItemId=88738735066&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EC%B0%B8%EA%B9%A8%EB%A7%8C%EB%91%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/02/20/9/3/fda3556f-3cab-4345-80dd-98937452e5c4.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 88738735066,
+        "productId": 7907292276,
+        "itemId": 21688888662,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2024-02-20T00:45:52.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=7907292276&viid=88738735066",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D7907292276%26viid%3D88738735066&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 7980,
+          "finalPrice": 7980,
+          "priceWithID": 7980,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 6,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      },
+      {
+        "priceArea": {
+          "originalPrice": "0",
+          "salesPrice": "12,950",
+          "lowestPrice": "12,950",
+          "instantDiscountPrice": "0",
+          "criteriaPriceInfo": "",
+          "basePrice": "0",
+          "price": "12,950",
+          "discountRate": 0,
+          "instantDiscountDescription": "",
+          "currencyPrefix": "",
+          "currencyPostfix": "원",
+          "discountDescription": null,
+          "salesPriceForBtc": 12950,
+          "finalPriceForBtc": 12950,
+          "priceWithIdForBtc": 12950,
+          "hasCouponForBtc": false,
+          "instantDiscount": false,
+          "discount": false
+        },
+        "imageAndTitleArea": {
+          "title": "오뚜기 맛있는 제주 메밀전병 만두 (냉동), 360g, 2개",
+          "description": "",
+          "defaultUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/fllwo5mo/6343211161b64623bfd7789d70c9d1b2.jpg",
+          "oriDefaultUrl": "rs_quotation_api/fllwo5mo/6343211161b64623bfd7789d70c9d1b2.jpg",
+          "completeHttpUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/fllwo5mo/6343211161b64623bfd7789d70c9d1b2.jpg",
+          "groupTitle": "오뚜기 맛있는 제주 메밀전병 만두 (냉동)",
+          "adultImageReplaced": false
+        },
+        "soldoutArea": {
+          "soldOutText": "일시품절",
+          "soldout": false
+        },
+        "rocketArea": {
+          "badgeImage": {
+            "iconUrl": "//image6.coupangcdn.com/image/badges/falcon/v1/aos/xxxhdpi/rocket_fresh.png",
+            "iconWidth": null,
+            "iconHeight": null,
+            "type": "FALCON_FRESH",
+            "cmsName": "BADGE_IMAGE_FALCON_FRESH"
+          },
+          "show": true,
+          "rocketLuxury": false
+        },
+        "subscriptionPriceArea": null,
+        "cashBackArea": {
+          "iconUrl": "//image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+          "cashRewardText": "최대 648원 적립"
+        },
+        "ccidArea": null,
+        "promisedDeliveryDateArea": {
+          "contents": [
+            {
+              "text": "내일(화) 새벽 ",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            },
+            {
+              "text": "도착 보장",
+              "size": 14,
+              "color": "#008C00",
+              "bold": false
+            }
+          ]
+        },
+        "usedProductArea": {
+          "usedProductInfo": null,
+          "usedProductPrice": [],
+          "usedOnlyItem": false
+        },
+        "instantDiscountBundlePriceArea": {
+          "price": "1,799",
+          "cnt": "100",
+          "unitDescription": "g"
+        },
+        "eligibleFalconArea": null,
+        "telcoBadgeArea": null,
+        "afterServiceArea": null,
+        "benefitBadgeArea": null,
+        "deliveryBadgeArea": {
+          "badgeAreaContents": [
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            },
+            {
+              "css": "",
+              "title": null,
+              "iconUrl": "",
+              "type": "ROCKET_FRESH",
+              "discountInfo": null,
+              "freeDeliveryStandard": null
+            }
+          ]
+        },
+        "deliverySpeedBadgeArea": null,
+        "topBrandArea": null,
+        "topBadgeAreas": [],
+        "brandAuthenticityBadge": null,
+        "couponArea": null,
+        "reviewArea": {
+          "ratingAverage": 5.0,
+          "ratingCount": 26,
+          "ratingRatio": 100
+        },
+        "bestPriceArea": null,
+        "bizOnlyArea": null,
+        "link": "/vp/products/8561339055?itemId=24793412740&vendorItemId=91801220176&sourceType=brandstore&vendorId=A00054860&storeId=109702&searchId=f2b8db788a1043048d937222a8081d11",
+        "mlink": "coupang://product?sourceType=brandstore&pId=8561339055&vendorItemId=91801220176&searchId=f2b8db788a1043048d937222a8081d11&src=1139998&spec=10799999&lptag=A00054860&wPcid=17537082094358422061820&redirect=landing&title=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EB%A7%9B%EC%9E%88%EB%8A%94+%EC%A0%9C%EC%A3%BC+%EB%A9%94%EB%B0%80%EC%A0%84%EB%B3%91+%EB%A7%8C%EB%91%90+%28%EB%83%89%EB%8F%99%29&sdpImageUrl=https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/fllwo5mo/6343211161b64623bfd7789d70c9d1b2.jpg",
+        "offsiteGmLink": null,
+        "vendorItemId": 91801220176,
+        "productId": 8561339055,
+        "itemId": 24793412740,
+        "unitPrice": "",
+        "priceLabel": null,
+        "salesStartDate": "2025-01-20T07:55:50.000Z",
+        "isFreeExposurePromotion": null,
+        "productType": "PRODUCT",
+        "ueLoggingArea": null,
+        "shopHomeLink": null,
+        "storeInfoArea": {
+          "storeId": 109702,
+          "vendorId": "A00054860",
+          "logoUrl": "https://image11.coupangcdn.com/image/cmg/oms/banner/24277f7c-131b-43d6-bea5-a14fbacc0ca3_270x270.png",
+          "displayName": "오뚜기",
+          "link": "https://shop.coupang.com/vid/A00054860?pid=8561339055&viid=91801220176",
+          "mlink": "coupang://webview?url=https%3A%2F%2Fshop.coupang.com%2Fvid%2FA00054860%3Fplatform%3Dm%26pid%3D8561339055%26viid%3D91801220176&tab=Y&title=%E2%80%81&auth=false&pushEvent=true&allowsInlineMediaPlayback=Y&hideNavigationBar=Y",
+          "maxDiscountAmount": null,
+          "maxDiscountAmountText": null,
+          "uiVersion": null
+        },
+        "rluxBrandInfo": null,
+        "freebiesInfo": null,
+        "wowBenefitArea": null,
+        "divisionType": "GOODS",
+        "btcInfo": {
+          "freeShipOverAmountEx": 19800,
+          "salesPrice": 12950,
+          "finalPrice": 12950,
+          "priceWithID": 12950,
+          "hasCoupon": false,
+          "deliveryFee": 2500,
+          "outboundShippingPlaceId": 0,
+          "batchShipment": true,
+          "rocketDelivery": true
+        },
+        "stockQuantity": 21,
+        "promotionClosingArea": null,
+        "attributes": null,
+        "valid": true,
+        "adult": false,
+        "rocketMerchant": false,
+        "coupangGlobal": false
+      }
+    ],
+    "totalCount": 16,
+    "validCount": null,
+    "token": null,
+    "searchId": null,
+    "sortingDescription": null,
+    "topCuratedProducts": null,
+    "nonFilterByShippingConsolidation": null
+  },
+  "extra": null
+}
