@@ -1,0 +1,262 @@
+[
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8375153940?itemId=23546948891&vendorItemId=90573112332&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=27&searchRank=27"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "officialBrandName": null,
+            "whiteBrandLogoUrl": null,
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": "\uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8 \u00b7 1\uac1c",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/736a/04ea7ca60324404c040ba900f932f53fa399b89e57059369019cc69a44c3.jpg",
+                "origin": "//image7.coupangcdn.com/image/vendor_inventory/736a/04ea7ca60324404c040ba900f932f53fa399b89e57059369019cc69a44c3.jpg",
+                "preloadImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/736a/04ea7ca60324404c040ba900f932f53fa399b89e57059369019cc69a44c3.jpg",
+                "thumbnailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/736a/04ea7ca60324404c040ba900f932f53fa399b89e57059369019cc69a44c3.jpg"
+            },
+            {
+                "detailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/967a/ddf39e5f9e7e8e881aca99d376443a1ba23a5a65b4805770a021b1fabe6c.jpg",
+                "origin": "//image9.coupangcdn.com/image/vendor_inventory/967a/ddf39e5f9e7e8e881aca99d376443a1ba23a5a65b4805770a021b1fabe6c.jpg",
+                "preloadImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/967a/ddf39e5f9e7e8e881aca99d376443a1ba23a5a65b4805770a021b1fabe6c.jpg",
+                "thumbnailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/967a/ddf39e5f9e7e8e881aca99d376443a1ba23a5a65b4805770a021b1fabe6c.jpg"
+            }
+        ],
+        "invalid": true,
+        "inventory": null,
+        "itemId": 23814384081,
+        "itemName": "\uc800\uc2a4\ud2b8\ud3ec\uadf8 \ucf54\ud31d \ud504\ub85c 5\uc885 \ub300\uc6a9\ub7c9 8000\ud68c \uc77c\ud68c\uc6a9 \uc804\uc790\ub2f4\ubc30, \uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8, 1\uac1c",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": 90877631294,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8375221394?itemId=23814384081&vendorItemId=90877631294&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=28&searchRank=28"
+        },
+        "status": "out of stock",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 0,
+                    "ratingAverage": 0,
+                    "ratingSummaries": [
+                        {
+                            "id": 0,
+                            "productId": 8375221394,
+                            "rating": 5,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 0,
+                            "productId": 8375221394,
+                            "rating": 4,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 0,
+                            "productId": 8375221394,
+                            "rating": 3,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 0,
+                            "productId": 8375221394,
+                            "rating": 2,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 0,
+                            "productId": 8375221394,
+                            "rating": 1,
+                            "count": 0,
+                            "percentage": 0
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 0,
+                    "startPage": 1,
+                    "endPage": 0,
+                    "totalPage": 0,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [],
+                    "contents": []
+                },
+                "videoAvailable": true,
+                "reviewTotalCount": 0,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    },
+    {
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8374634683?itemId=22489583871&vendorItemId=90544265737&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=29&searchRank=29"
+        },
+        "thomas_error": true
+    },
+    {
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8375880648?itemId=24201615058&vendorItemId=91038445471&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=30&searchRank=30"
+        },
+        "thomas_error": true
+    },
+    {
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8425282860?itemId=24374689581&vendorItemId=91009829351&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=31&searchRank=31"
+        },
+        "thomas_error": true
+    }
+]

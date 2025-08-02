@@ -1,0 +1,2371 @@
+[
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8595017165?itemId=24201615035&vendorItemId=90784056631&q=lost+mary&itemsCount=32&searchId=2a6595911338898&rank=18&searchRank=18"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8594958977?itemId=24201615028&vendorItemId=90784056653&q=lost+mary&itemsCount=32&searchId=2a6595911338898&rank=17&searchRank=17"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8594864923?itemId=24201585764&vendorItemId=87486802932&q=lost+mary&itemsCount=32&searchId=2a6595911338898&rank=16&searchRank=16"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8597868813?itemId=24930422002&vendorItemId=91917735617&q=lost+mary&itemsCount=32&searchId=2a6595911338898&rank=20&searchRank=20"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "officialBrandName": null,
+            "whiteBrandLogoUrl": null,
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": false,
+        "apiUrlMap": {
+            "addToCartUrl": "coupang://addCart?itemId=21901692191&productId=8374835481&vendorItemId=88949713876&sourceType=offerDetail&price=30000&sdpVisitKey=&isLoser=false&offerStatus=NEW",
+            "shippingConsolidationUrl": null
+        },
+        "attributeTitle": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00b7 1\uac1c",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {
+            "OFFER_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            },
+            "USAGE_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            }
+        },
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": {
+            "optionDetails": null,
+            "options": [],
+            "viewType": null
+        },
+        "buyableQuantity": 0,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": [],
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg"
+            }
+        ],
+        "invalid": false,
+        "inventory": null,
+        "itemId": 21901692191,
+        "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": {
+            "eligibleAddress": true,
+            "loyaltyMember": false,
+            "loyaltyMemberExcludePseudoMember": false,
+            "memberName": null,
+            "onHoldMember": false,
+            "pseudoMember": false,
+            "redCarpetPromotionPopupInfoVo": null,
+            "withdraw": false,
+            "withdrawOrOnHold": false
+        },
+        "offerBanner": null,
+        "offerDescription": "",
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": [
+            {
+                "abFlags": {
+                    "applyExtremeProminenceFreeDeliveryMessages": "A",
+                    "jikgu1PWarrantyAB": "NOT_APPLICABLE"
+                },
+                "appliedCoupon": null,
+                "benefitDisplayType": null,
+                "bundleOption": {
+                    "optionDetails": null,
+                    "options": [],
+                    "viewType": null
+                },
+                "cashBackSummary": null,
+                "delivery": {
+                    "badgeUrl": "https://image7.coupangcdn.com/image/coupang/rds/logo/iphone_2x/logoRocketMerchantLargeV3R3@2x.png",
+                    "company": null,
+                    "companyLabel": null,
+                    "countDownMessage": null,
+                    "countDownMillisecond": null,
+                    "delayMessage": null,
+                    "deliveryExtraInfo": [],
+                    "deliveryNotice": null,
+                    "deliveryReminderMessage": null,
+                    "descriptionBadge": null,
+                    "descriptionIcon": null,
+                    "descriptions": null,
+                    "extremeDescriptions": null,
+                    "hideQuestionMark": false,
+                    "logistics": false,
+                    "loyaltyButtonText": null,
+                    "rocketWowQuestionMark": false,
+                    "speedType": "",
+                    "title": null,
+                    "type": "ROCKET_MERCHANT"
+                },
+                "deliveryList": [
+                    {
+                        "badgeUrl": "https://image7.coupangcdn.com/image/coupang/rds/logo/iphone_2x/logoRocketMerchantLargeV3R3@2x.png",
+                        "company": null,
+                        "companyLabel": null,
+                        "countDownMessage": null,
+                        "countDownMillisecond": null,
+                        "delayMessage": null,
+                        "deliveryExtraInfo": [],
+                        "deliveryNotice": null,
+                        "deliveryReminderMessage": null,
+                        "descriptionBadge": null,
+                        "descriptionIcon": null,
+                        "descriptions": null,
+                        "extremeDescriptions": null,
+                        "hideQuestionMark": false,
+                        "logistics": false,
+                        "loyaltyButtonText": null,
+                        "rocketWowQuestionMark": false,
+                        "speedType": "",
+                        "title": null,
+                        "type": "ROCKET_MERCHANT"
+                    }
+                ],
+                "freebieBenefit": null,
+                "freebieBenefitV2": null,
+                "moduleData": [
+                    {
+                        "abFlags": {
+                            "displayTwoPricesWow": "A",
+                            "sdpCartUpdateNewPmcPolicy": "false",
+                            "deliveryFeeToggleShow": "false"
+                        },
+                        "detailPriceBundle": {
+                            "finalPrice": {
+                                "bestPriceInfo": {
+                                    "currency": "KRW",
+                                    "discountRate": 42,
+                                    "discountRateValid": true,
+                                    "doubleElevenPromoted": false,
+                                    "firstPurchase": false,
+                                    "goldbox": false,
+                                    "hasEligibilityConditions": false,
+                                    "lightning": false,
+                                    "lightningOrGoldbox": false,
+                                    "memberPrice": false,
+                                    "notExpired": true,
+                                    "percentageDiscount": false,
+                                    "price": 30000,
+                                    "priceBasedDiscountRate": 42,
+                                    "priceType": "FINAL_PRICE",
+                                    "priceWithDeliveryFee": 30000,
+                                    "unitCCIDuration": 1,
+                                    "unitPrice": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 30000,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "priceEx": {
+                                            "amount": 30000,
+                                            "currency": "KRW"
+                                        },
+                                        "unit": "\uac1c"
+                                    },
+                                    "unitPriceAmount": 30000,
+                                    "unitPriceAmountWithDeliveryFee": 30000,
+                                    "unitPriceDescription": "(1\uac1c\ub2f9 30,000\uc6d0)",
+                                    "unitPriceDescriptionWithoutParenthesis": "1\uac1c\ub2f9 30,000\uc6d0",
+                                    "unitPriceIncludeDeliveryFeeDescription": "(1\uac1c\ub2f9 30,000\uc6d0)",
+                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1\uac1c\ub2f9 30,000\uc6d0",
+                                    "unitPriceWithDeliveryFee": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 30000,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "unit": "\uac1c"
+                                    },
+                                    "valid": true
+                                },
+                                "displayType": "FINAL",
+                                "downloadCouponType": "NONE",
+                                "downloadDiscountAmount": 0,
+                                "instantDiscountAmount": 0,
+                                "instantDiscountType": "NONE",
+                                "memberPrice": false,
+                                "price": 30000,
+                                "priceBaseDiscountRate": 42,
+                                "priceWithDeliveryFee": 30000,
+                                "realType": "SALES",
+                                "unitPriceAmount": 30000,
+                                "unitPriceAmountWithDeliveryFee": 30000,
+                                "unitPriceDescription": "(1\uac1c\ub2f9 30,000\uc6d0)",
+                                "unitPriceDescriptionWithoutParenthesis": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "unitPriceIncludeDeliveryFeeDescription": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                            },
+                            "finalPriceDiscountRate": 42,
+                            "nonWowMemberPrice": {
+                                "price": 30000,
+                                "priceWithDeliveryFee": 30000
+                            },
+                            "originalPrice": {
+                                "displayType": "ORIGINAL",
+                                "downloadCouponType": "NONE",
+                                "instantDiscountType": "NONE",
+                                "memberPrice": false,
+                                "price": 52000,
+                                "priceWithDeliveryFee": 52000,
+                                "realType": "ORIGINAL",
+                                "unitPriceDescription": "(1\uac1c\ub2f9 52,000\uc6d0)"
+                            },
+                            "wowMemberPrice": {
+                                "price": 30000,
+                                "priceWithDeliveryFee": 30000
+                            }
+                        },
+                        "logging": {},
+                        "normalCouponDiscount": false,
+                        "normalInstantDiscount": false,
+                        "priceLogData": {
+                            "unitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)",
+                            "discountRate": "42.0",
+                            "underThresholdCouponSavingAmount": "null",
+                            "targetedCouponSavingAmount": "null",
+                            "instantDiscountSavingAmount": "null",
+                            "overThresholdCouponSavingAmount": "null",
+                            "salesPrice": 30000,
+                            "finalPrice": 30000,
+                            "underThresholdCouponThreshold": "null",
+                            "isBadDiscount": "false",
+                            "wowUnderThresholdCouponThreshold": "null",
+                            "anchorPrice": "52000",
+                            "ccidEligibleSavingAmount": "null",
+                            "wowInstantDiscountSavingAmount": "null",
+                            "wowUnderThresholdCouponSavingAmount": "null",
+                            "wowCcidEligibleSavingAmount": "null",
+                            "myCcidDiscountSavingAmount": "null",
+                            "businessType": "2p",
+                            "wowOverThresholdCouponSavingAmount": "null"
+                        },
+                        "pricePolicies": [
+                            {
+                                "currency": "\uc6d0",
+                                "description": "\ucfe0\ud321 \ud310\ub9e4\ub97c \uc704\ud55c \ud560\uc778 \uc801\uc6a9 \uc774\uc804\uc758 \uac00\uaca9(\uc5c5\uccb4\uac00 \ucfe0\ud321\uc5d0 \uc81c\uacf5\ud55c \ud76c\ub9dd\uc18c\ub9e4\uac00\uaca9 \ub610\ub294 \uacf5\uc2dd\ud310\ub9e4\ucc98 \ud310\ub9e4\uac00 \ub4f1. \ub3c4\uc11c\uc815\uac00\uc81c \ub300\uc0c1 \ub3c4\uc11c\uc778 \uacbd\uc6b0, \ub3c4\uc11c \uc815\uac00)\uc785\ub2c8\ub2e4.",
+                                "discountRate": 42,
+                                "formattedPrice": "52,000\uc6d0",
+                                "price": "52,000",
+                                "priceWithDeliveryFee": "52,000",
+                                "type": "ORIGINAL"
+                            }
+                        ],
+                        "priceWithDeliveryFee": true,
+                        "targetedDiscount": false,
+                        "viewType": "PRODUCT_DETAIL_PRICE_INFO",
+                        "wowCouponDiscount": false,
+                        "wowDiscountAndNormalOtAndNonWowMember": false,
+                        "wowInstantDiscount": false
+                    },
+                    {
+                        "attributeBasedTitle": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                        "logging": {
+                            "alwaysSentLiveLog": false,
+                            "bypass": {
+                                "exposureSchemas": [
+                                    {
+                                        "id": "11942",
+                                        "mandatory": {
+                                            "logCategory": "impression",
+                                            "logType": "impression",
+                                            "pageName": "sdp",
+                                            "eventName": "option_table_test_exposure",
+                                            "domain": "sdp",
+                                            "sdpVisitKey": "vg93aomnysbaczthmh",
+                                            "productId": 8374835481,
+                                            "itemId": 21901692191,
+                                            "vendorItemId": 88949713876,
+                                            "abGroup": "B",
+                                            "abTestId": "47980"
+                                        },
+                                        "version": "2"
+                                    }
+                                ]
+                            }
+                        },
+                        "title": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30",
+                        "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
+                    },
+                    {
+                        "abFlags": {
+                            "47980": "B"
+                        },
+                        "featureFlags": {
+                            "option_table_pc_expand_1_and_2_attr": "B"
+                        },
+                        "viewType": "PRODUCT_WEB_DATA_AB_FLAGS"
+                    },
+                    {
+                        "tabList": [
+                            {
+                                "attributeId": "2439_7652",
+                                "style": "HEADER_ONLY",
+                                "title": "\uc0c9\uc0c1 \u00d7 \uc218\ub7c9: ",
+                                "valueName": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c"
+                            }
+                        ],
+                        "viewType": "PRODUCT_OPTION_TABLE_TAB_SELECTOR"
+                    },
+                    {
+                        "data": {
+                            "description": "\ubc30\uc1a1\ube44 \ud3ec\ud568",
+                            "title": "\ub354 \ub9ce\uc740 \uc635\uc158 \ubcf4\uae30"
+                        },
+                        "viewType": "PRODUCT_OPTION_TABLE_TOGGLE_HEADER"
+                    },
+                    {
+                        "landingItemId": 21901692191,
+                        "landingProductId": 8374835481,
+                        "landingVendorItemId": 88949713876,
+                        "logging": {
+                            "alwaysSentLiveLog": false,
+                            "bypass": {
+                                "exposureSchema": {
+                                    "id": "10843",
+                                    "mandatory": {
+                                        "logCategory": "impression",
+                                        "logType": "impression",
+                                        "pageName": "sdp",
+                                        "eventName": "impression_sdp_option_comparison_table",
+                                        "domain": "sdp",
+                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                        "productId": 8374835481,
+                                        "itemId": 21901692191,
+                                        "vendorItemId": 88949713876,
+                                        "categoryId": "5069",
+                                        "optionTableStyle": "sdp_standard",
+                                        "attributes": "\uc0c9\uc0c1 \u00d7 \uc218\ub7c9",
+                                        "isSeeAll": true,
+                                        "isImage": true,
+                                        "selectedAttribute": "",
+                                        "listVendorItemId": "option1:88949713922,option2:88949713876,option3:92143148077,option4:92143148063",
+                                        "listVendorItemPrice": "option1:30000,option2:30000,option3:30000,option4:30000",
+                                        "listAttr": "option1:\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c,option2:\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c,option3:\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c,option4:\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                        "listDeliveryType": "option1:ROCKET_MERCHANT_V3,option2:ROCKET_MERCHANT_V3,option3:ROCKET_MERCHANT_V3,option4:ROCKET_MERCHANT_V3",
+                                        "listUnitPrice": "option1:30000,option2:30000,option3:30000,option4:30000",
+                                        "listMin": "option1:true,option2:false,option3:false,option4:false",
+                                        "listOos": "option1:false,option2:true,option3:true,option4:true",
+                                        "listDefault": "option1:true,option2:true,option3:true,option4:true",
+                                        "listPriceLabel": "option1:,option2:,option3:,option4:",
+                                        "selectedOption": "option2"
+                                    },
+                                    "version": "15"
+                                }
+                            }
+                        },
+                        "optionList": [
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "/vm/v5/products/8374835481/vendor-items/88949713922?landingItemId=21901692191&landingProductId=8374835481&landingVendorItemId=88949713876"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "10844",
+                                                    "mandatory": {
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "sdp",
+                                                        "eventName": "click_sdp_option_comparison_table",
+                                                        "domain": "sdp",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "productId": 8374835481,
+                                                        "itemId": 21901692191,
+                                                        "vendorItemId": 88949713876,
+                                                        "categoryId": "5069",
+                                                        "clickArea": "option",
+                                                        "clickValue": "option1:88949713922",
+                                                        "isImage": true
+                                                    },
+                                                    "version": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                "defaultShow": true,
+                                "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
+                                "deliveryType": "ROCKET_MERCHANT",
+                                "finalPrice": "30,000\uc6d0",
+                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "finalUnitPriceLabel": "(\ucd5c\uc800 \ub2e8\uc704\uac00)",
+                                "hoverImageUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
+                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c",
+                                "imageUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
+                                "itemId": 21901692200,
+                                "optionItemName": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c",
+                                "selected": false,
+                                "soldOut": false,
+                                "vendorItemId": 88949713922
+                            },
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "/vm/v5/products/8374835481/vendor-items/88949713876?landingItemId=21901692191&landingProductId=8374835481&landingVendorItemId=88949713876"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "10844",
+                                                    "mandatory": {
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "sdp",
+                                                        "eventName": "click_sdp_option_comparison_table",
+                                                        "domain": "sdp",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "productId": 8374835481,
+                                                        "itemId": 21901692191,
+                                                        "vendorItemId": 88949713876,
+                                                        "categoryId": "5069",
+                                                        "clickArea": "option",
+                                                        "clickValue": "option2:88949713876",
+                                                        "isImage": true
+                                                    },
+                                                    "version": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                "defaultShow": true,
+                                "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
+                                "deliveryType": "ROCKET_MERCHANT",
+                                "finalPrice": "30,000\uc6d0",
+                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "hoverImageUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c",
+                                "imageUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                                "itemId": 21901692191,
+                                "optionItemName": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c",
+                                "selected": true,
+                                "soldOut": true,
+                                "vendorItemId": 88949713876
+                            },
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "/vm/v5/products/8374835481/vendor-items/92143148077?landingItemId=21901692191&landingProductId=8374835481&landingVendorItemId=88949713876"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "10844",
+                                                    "mandatory": {
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "sdp",
+                                                        "eventName": "click_sdp_option_comparison_table",
+                                                        "domain": "sdp",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "productId": 8374835481,
+                                                        "itemId": 21901692191,
+                                                        "vendorItemId": 88949713876,
+                                                        "categoryId": "5069",
+                                                        "clickArea": "option",
+                                                        "clickValue": "option3:92143148077",
+                                                        "isImage": true
+                                                    },
+                                                    "version": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                "defaultShow": true,
+                                "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
+                                "deliveryType": "ROCKET_MERCHANT",
+                                "finalPrice": "30,000\uc6d0",
+                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "hoverImageUrl": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c",
+                                "imageUrl": "//thumbnail9.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                                "itemId": 21901692193,
+                                "optionItemName": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c",
+                                "selected": false,
+                                "soldOut": true,
+                                "vendorItemId": 92143148077
+                            },
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "/vm/v5/products/8374835481/vendor-items/92143148063?landingItemId=21901692191&landingProductId=8374835481&landingVendorItemId=88949713876"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "10844",
+                                                    "mandatory": {
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "sdp",
+                                                        "eventName": "click_sdp_option_comparison_table",
+                                                        "domain": "sdp",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "productId": 8374835481,
+                                                        "itemId": 21901692191,
+                                                        "vendorItemId": 88949713876,
+                                                        "categoryId": "5069",
+                                                        "clickArea": "option",
+                                                        "clickValue": "option4:92143148063",
+                                                        "isImage": true
+                                                    },
+                                                    "version": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                "defaultShow": true,
+                                "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
+                                "deliveryType": "ROCKET_MERCHANT",
+                                "finalPrice": "30,000\uc6d0",
+                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "hoverImageUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e0e/fb2934a8b00767d3a6ac1e82d7c2ccdf80c8ccbc983f3f1d1cb21dec49ba.jpg",
+                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                "imageUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/3e0e/fb2934a8b00767d3a6ac1e82d7c2ccdf80c8ccbc983f3f1d1cb21dec49ba.jpg",
+                                "itemId": 25144253183,
+                                "optionItemName": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                "selected": false,
+                                "soldOut": true,
+                                "vendorItemId": 92143148063
+                            }
+                        ],
+                        "seeAllButton": {
+                            "action": {
+                                "logging": {
+                                    "alwaysSentLiveLog": false,
+                                    "bypass": {
+                                        "clickSchemas": [
+                                            {
+                                                "id": "10844",
+                                                "mandatory": {
+                                                    "logCategory": "event",
+                                                    "logType": "click",
+                                                    "pageName": "sdp",
+                                                    "eventName": "click_sdp_option_comparison_table",
+                                                    "domain": "sdp",
+                                                    "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                    "productId": 8374835481,
+                                                    "itemId": 21901692191,
+                                                    "vendorItemId": 88949713876,
+                                                    "categoryId": "5069",
+                                                    "clickArea": "seeAll",
+                                                    "clickValue": "\ubaa8\ub4e0 \uc635\uc158 \ubcf4\uae30",
+                                                    "isImage": true,
+                                                    "isToggleOn": true
+                                                },
+                                                "version": "12"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "buttonText": "\ubaa8\ub4e0 \uc635\uc158 \ubcf4\uae30"
+                        },
+                        "style": "LONG_ATTR",
+                        "viewType": "PRODUCT_OPTION_TABLE_LIST_VIEW"
+                    },
+                    {
+                        "items": [
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "vp/products/8374835481/vendoritems/88949713922"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "5104",
+                                                    "mandatory": {
+                                                        "domain": "sdp",
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "option_list",
+                                                        "eventName": "option_list_click",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "vendorItemId": 88949713922,
+                                                        "searchId": "",
+                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    },
+                                                    "version": "6"
+                                                }
+                                            ],
+                                            "exposureSchema": {
+                                                "id": "5112",
+                                                "mandatory": {
+                                                    "logCategory": "impression",
+                                                    "logType": "impression",
+                                                    "pageName": "option_list",
+                                                    "eventName": "option_list_item_impression",
+                                                    "domain": "sdp",
+                                                    "referSdpItem": "p8374835481_i21901692191_v88949713876",
+                                                    "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                    "vendorItemId": "88949713922",
+                                                    "originalItemId": 21901692191,
+                                                    "originalVendorItemId": 88949713876,
+                                                    "searchId": "",
+                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                },
+                                                "version": "9"
+                                            }
+                                        }
+                                    }
+                                },
+                                "deliveryInfo": {
+                                    "deliveryBadge": {
+                                        "height": 16,
+                                        "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                        "width": 79
+                                    },
+                                    "deliveryDateColor": "GREEN",
+                                    "deliveryDateDescriptions": "\ub0b4\uc77c(\uc77c) 8/3 \ub3c4\ucc29 \ubcf4\uc7a5"
+                                },
+                                "imageUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
+                                "itemBasicInfo": {
+                                    "invalid": false,
+                                    "itemId": 21901692200,
+                                    "itemImage": {
+                                        "image": {
+                                            "height": 72,
+                                            "url": "http://thumbnail7.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
+                                            "width": 72
+                                        }
+                                    },
+                                    "itemName": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c",
+                                    "vendorItemId": 88949713922
+                                },
+                                "priceInfo": {
+                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
+                                    "finalPrice": "30,000\uc6d0",
+                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                },
+                                "stockInfo": {
+                                    "logistics": true,
+                                    "restockNotification": false,
+                                    "soldOut": false
+                                }
+                            },
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "vp/products/8374835481/vendoritems/88949713876"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "5104",
+                                                    "mandatory": {
+                                                        "domain": "sdp",
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "option_list",
+                                                        "eventName": "option_list_click",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "vendorItemId": 88949713876,
+                                                        "searchId": "",
+                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    },
+                                                    "version": "6"
+                                                }
+                                            ],
+                                            "exposureSchema": {
+                                                "id": "5112",
+                                                "mandatory": {
+                                                    "logCategory": "impression",
+                                                    "logType": "impression",
+                                                    "pageName": "option_list",
+                                                    "eventName": "option_list_item_impression",
+                                                    "domain": "sdp",
+                                                    "referSdpItem": "p8374835481_i21901692191_v88949713876",
+                                                    "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                    "vendorItemId": "88949713876",
+                                                    "originalItemId": 21901692191,
+                                                    "originalVendorItemId": 88949713876,
+                                                    "searchId": "",
+                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                },
+                                                "version": "9"
+                                            }
+                                        }
+                                    }
+                                },
+                                "deliveryInfo": {
+                                    "deliveryBadge": {
+                                        "alpha": 0.5,
+                                        "height": 16,
+                                        "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                        "width": 79
+                                    }
+                                },
+                                "imageUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                                "itemBasicInfo": {
+                                    "invalid": false,
+                                    "itemId": 21901692191,
+                                    "itemImage": {
+                                        "image": {
+                                            "height": 72,
+                                            "url": "http://thumbnail10.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                                            "width": 72
+                                        }
+                                    },
+                                    "itemName": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c",
+                                    "vendorItemId": 88949713876
+                                },
+                                "priceInfo": {
+                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
+                                    "finalPrice": "30,000\uc6d0",
+                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                },
+                                "selected": true,
+                                "stockInfo": {
+                                    "logistics": true,
+                                    "restockAlert": {
+                                        "active": true,
+                                        "activeLabel": "\uc7ac\uc785\uace0 \uc54c\ub9bc\uc2e0\uccad",
+                                        "inactiveLabel": "\uc54c\ub9bc\uc2e0\uccad \uc644\ub8cc"
+                                    },
+                                    "restockNotification": false,
+                                    "soldOut": true,
+                                    "stockStatus": "\uc77c\uc2dc\ud488\uc808"
+                                }
+                            },
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "vp/products/8374835481/vendoritems/92143148077"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "5104",
+                                                    "mandatory": {
+                                                        "domain": "sdp",
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "option_list",
+                                                        "eventName": "option_list_click",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "vendorItemId": 92143148077,
+                                                        "searchId": "",
+                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    },
+                                                    "version": "6"
+                                                }
+                                            ],
+                                            "exposureSchema": {
+                                                "id": "5112",
+                                                "mandatory": {
+                                                    "logCategory": "impression",
+                                                    "logType": "impression",
+                                                    "pageName": "option_list",
+                                                    "eventName": "option_list_item_impression",
+                                                    "domain": "sdp",
+                                                    "referSdpItem": "p8374835481_i21901692191_v88949713876",
+                                                    "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                    "vendorItemId": "92143148077",
+                                                    "originalItemId": 21901692191,
+                                                    "originalVendorItemId": 88949713876,
+                                                    "searchId": "",
+                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                },
+                                                "version": "9"
+                                            }
+                                        }
+                                    }
+                                },
+                                "deliveryInfo": {
+                                    "deliveryBadge": {
+                                        "alpha": 0.5,
+                                        "height": 16,
+                                        "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                        "width": 79
+                                    }
+                                },
+                                "imageUrl": "//thumbnail9.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                                "itemBasicInfo": {
+                                    "invalid": false,
+                                    "itemId": 21901692193,
+                                    "itemImage": {
+                                        "image": {
+                                            "height": 72,
+                                            "url": "http://thumbnail9.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                                            "width": 72
+                                        }
+                                    },
+                                    "itemName": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c",
+                                    "vendorItemId": 92143148077
+                                },
+                                "priceInfo": {
+                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
+                                    "finalPrice": "30,000\uc6d0",
+                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                },
+                                "stockInfo": {
+                                    "logistics": true,
+                                    "restockAlert": {
+                                        "active": true,
+                                        "activeLabel": "\uc7ac\uc785\uace0 \uc54c\ub9bc\uc2e0\uccad",
+                                        "inactiveLabel": "\uc54c\ub9bc\uc2e0\uccad \uc644\ub8cc"
+                                    },
+                                    "restockNotification": false,
+                                    "soldOut": true,
+                                    "stockStatus": "\uc77c\uc2dc\ud488\uc808"
+                                }
+                            },
+                            {
+                                "action": {
+                                    "event": {
+                                        "url": "vp/products/8374835481/vendoritems/92143148063"
+                                    },
+                                    "logging": {
+                                        "alwaysSentLiveLog": false,
+                                        "bypass": {
+                                            "clickSchemas": [
+                                                {
+                                                    "id": "5104",
+                                                    "mandatory": {
+                                                        "domain": "sdp",
+                                                        "logCategory": "event",
+                                                        "logType": "click",
+                                                        "pageName": "option_list",
+                                                        "eventName": "option_list_click",
+                                                        "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                        "vendorItemId": 92143148063,
+                                                        "searchId": "",
+                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    },
+                                                    "version": "6"
+                                                }
+                                            ],
+                                            "exposureSchema": {
+                                                "id": "5112",
+                                                "mandatory": {
+                                                    "logCategory": "impression",
+                                                    "logType": "impression",
+                                                    "pageName": "option_list",
+                                                    "eventName": "option_list_item_impression",
+                                                    "domain": "sdp",
+                                                    "referSdpItem": "p8374835481_i21901692191_v88949713876",
+                                                    "sdpVisitKey": "vg93aomnysbaczthmh",
+                                                    "vendorItemId": "92143148063",
+                                                    "originalItemId": 21901692191,
+                                                    "originalVendorItemId": 88949713876,
+                                                    "searchId": "",
+                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                },
+                                                "version": "9"
+                                            }
+                                        }
+                                    }
+                                },
+                                "deliveryInfo": {
+                                    "deliveryBadge": {
+                                        "alpha": 0.5,
+                                        "height": 16,
+                                        "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                        "width": 79
+                                    }
+                                },
+                                "imageUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/3e0e/fb2934a8b00767d3a6ac1e82d7c2ccdf80c8ccbc983f3f1d1cb21dec49ba.jpg",
+                                "itemBasicInfo": {
+                                    "invalid": false,
+                                    "itemId": 25144253183,
+                                    "itemImage": {
+                                        "image": {
+                                            "height": 72,
+                                            "url": "http://thumbnail8.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/3e0e/fb2934a8b00767d3a6ac1e82d7c2ccdf80c8ccbc983f3f1d1cb21dec49ba.jpg",
+                                            "width": 72
+                                        }
+                                    },
+                                    "itemName": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                    "vendorItemId": 92143148063
+                                },
+                                "priceInfo": {
+                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
+                                    "finalPrice": "30,000\uc6d0",
+                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                },
+                                "stockInfo": {
+                                    "logistics": true,
+                                    "restockAlert": {
+                                        "active": true,
+                                        "activeLabel": "\uc7ac\uc785\uace0 \uc54c\ub9bc\uc2e0\uccad",
+                                        "inactiveLabel": "\uc54c\ub9bc\uc2e0\uccad \uc644\ub8cc"
+                                    },
+                                    "restockNotification": false,
+                                    "soldOut": true,
+                                    "stockStatus": "\uc77c\uc2dc\ud488\uc808"
+                                }
+                            }
+                        ],
+                        "titleName": "\uc0c9\uc0c1 \u00d7 \uc218\ub7c9",
+                        "viewType": "PRODUCT_DETAIL_OPTION_LIST"
+                    },
+                    {
+                        "deliveryInfo": {
+                            "nonMemberDelivery": {
+                                "deliveryBadge": {
+                                    "height": 16,
+                                    "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                    "width": 79
+                                },
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                    }
+                                ]
+                            },
+                            "wowMemberDelivery": {
+                                "deliveryBadge": {
+                                    "height": 16,
+                                    "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                    "width": 79
+                                },
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                    }
+                                ]
+                            }
+                        },
+                        "itemInfo": {
+                            "itemId": 21901692191,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30",
+                            "productId": 8374835481,
+                            "thumbnailImage": {
+                                "height": 60,
+                                "url": "https://image10.coupangcdn.com/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                                "width": 60
+                            },
+                            "vendorItemId": 88949713876
+                        },
+                        "priceInfo": {
+                            "finalPrice": {
+                                "applicable": true,
+                                "displayPrice": "30,000\uc6d0",
+                                "price": 30000
+                            },
+                            "finalPriceDiscountRate": 42,
+                            "originalPrice": {
+                                "applicable": true,
+                                "displayPrice": "52,000\uc6d0",
+                                "price": 52000
+                            }
+                        },
+                        "viewType": "PRODUCT_DETAIL_HANDLEBAR_BASE_INFO"
+                    },
+                    {
+                        "pddList": [
+                            {
+                                "deliveryBadge": {
+                                    "alpha": 0.5,
+                                    "height": 20,
+                                    "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_symbol_large_v3.png",
+                                    "width": 20
+                                },
+                                "deliveryBadgeLabel": "\ud310\ub9e4\uc790\ub85c\ucf13",
+                                "deliveryBadgeV2": {
+                                    "height": 16,
+                                    "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
+                                    "width": 79
+                                },
+                                "deliveryType": "ROCKET_MERCHANT"
+                            }
+                        ],
+                        "viewType": "PRODUCT_DETAIL_DELIVERY_INFO"
+                    }
+                ],
+                "price": {
+                    "cashPromotionMessage": null,
+                    "couponDiscountAmount": null,
+                    "couponPrice": "30,000",
+                    "couponPriceTitle": "",
+                    "couponUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                    "description": null,
+                    "discountRate": "42",
+                    "finalPrice": "30,000",
+                    "gppuPricePolicy": [
+                        {
+                            "description": "\uc5c5\uccb4\uc758 \uad8c\uc7a5\uc18c\ube44\uc790\uac00 \ub610\ub294 \uacf5\uc2dd \ud310\ub9e4\ucc98 \ud310\ub9e4\uac00 \ub610\ub294 \ub3c4\uc11c \uc815\uac00(\ub3c4\uc11c \uc815\uac00\uc81c \ub300\uc0c1\uc778 \uacbd\uc6b0)\uc785\ub2c8\ub2e4. \ud574\ub2f9 \uac00\uaca9\uc774 \uc5c6\ub294 \uacbd\uc6b0 90\uc77c \ub0b4 \ucfe0\ud321\uc5d0\uc11c \ud310\ub9e4\ub41c \uac00\uaca9 \uc911 \uac00\uc7a5 \ub192\uc740 \uac00\uaca9\uc744 \ud45c\uc2dc\ud569\ub2c8\ub2e4.",
+                            "priceInfo": "<span class='discount-rate'>42%</span><span class='origin-price'>52,000\uc6d0</span>"
+                        }
+                    ],
+                    "hasNormalCouponDiscount": false,
+                    "hasNormalInstantDiscount": false,
+                    "hasWowCouponDiscount": false,
+                    "hasWowInstantDiscount": false,
+                    "i18nCouponDiscountAmount": null,
+                    "i18nCouponPrice": {
+                        "amount": "30000",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "i18nOriginPrice": {
+                        "amount": "52000",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "i18nPriceAmount": null,
+                    "i18nSalePrice": {
+                        "amount": "30000",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "instantDiscount": false,
+                    "instantPriceType": null,
+                    "loyaltyButtonText": null,
+                    "loyaltyRegistrationUrl": null,
+                    "originPrice": "52,000",
+                    "originalPriceDesc": null,
+                    "priceAmount": null,
+                    "salePrice": "30,000",
+                    "salePriceTitle": "",
+                    "saleUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                    "title": null,
+                    "type": null,
+                    "unitDiscountRate": null,
+                    "unitPrice": null,
+                    "wowCouponDiscount": false
+                },
+                "priceList": [
+                    {
+                        "cashPromotionMessage": null,
+                        "couponDiscountAmount": null,
+                        "couponPrice": null,
+                        "couponPriceTitle": null,
+                        "couponUnitPrice": null,
+                        "description": null,
+                        "discountRate": null,
+                        "finalPrice": null,
+                        "gppuPricePolicy": null,
+                        "hasNormalCouponDiscount": false,
+                        "hasNormalInstantDiscount": false,
+                        "hasWowCouponDiscount": false,
+                        "hasWowInstantDiscount": false,
+                        "i18nCouponDiscountAmount": null,
+                        "i18nCouponPrice": null,
+                        "i18nOriginPrice": null,
+                        "i18nPriceAmount": {
+                            "amount": "30000",
+                            "currency": "KRW",
+                            "fractionDigits": 0,
+                            "rawAmount": null
+                        },
+                        "i18nSalePrice": null,
+                        "instantDiscount": null,
+                        "instantPriceType": null,
+                        "loyaltyButtonText": null,
+                        "loyaltyRegistrationUrl": null,
+                        "originPrice": null,
+                        "originalPriceDesc": null,
+                        "priceAmount": "30,000",
+                        "salePrice": null,
+                        "salePriceTitle": null,
+                        "saleUnitPrice": null,
+                        "title": "\ucfe0\ud321\ud310\ub9e4\uac00",
+                        "type": "SALES",
+                        "unitDiscountRate": null,
+                        "unitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                        "wowCouponDiscount": false
+                    }
+                ],
+                "priceUnit": "\uc6d0",
+                "quantity": 1,
+                "quantityLimitationVO": null,
+                "selectedIndex": 0,
+                "shipmentDisplayType": "NORMAL",
+                "shippingFee": {
+                    "dividerIcon": null,
+                    "extremeMessage": null,
+                    "freeShippingConditionMessage": null,
+                    "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                    "popupFreeShippingConditionMessage": null,
+                    "returnFeeMessage": null,
+                    "shippingFee": "0",
+                    "shippingFeeIcon": null,
+                    "shippingFeeType": "FREE",
+                    "title": null,
+                    "titleIcon": null
+                },
+                "shippingFeeList": [
+                    {
+                        "dividerIcon": null,
+                        "extremeMessage": null,
+                        "freeShippingConditionMessage": null,
+                        "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                        "popupFreeShippingConditionMessage": null,
+                        "returnFeeMessage": null,
+                        "shippingFee": null,
+                        "shippingFeeIcon": null,
+                        "shippingFeeType": "FREE",
+                        "title": null,
+                        "titleIcon": null
+                    }
+                ],
+                "subscriptionDelivery": null,
+                "subscriptionDiscountRate": -1,
+                "subscriptionPrice": null,
+                "subscriptionPriceList": [],
+                "wowOnlyInstantDiscountRate": 0
+            }
+        ],
+        "restockNotification": false,
+        "retail": true,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": 3,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": {
+            "countryOfOrigin": null,
+            "sellingInfo": [
+                "\uac1c\ub2f9 \uc6a9\ub7c9: 0.03L",
+                "\uc0c9\uc0c1\uacc4\uc5f4: \ube14\ub8e8\uacc4\uc5f4",
+                "\ucfe0\ud321\uc0c1\ud488\ubc88\ud638: 8374835481 - 21901692191"
+            ]
+        },
+        "shippingConsolidationLink": null,
+        "soldOut": true,
+        "stickBanners": [],
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": 88949713876,
+        "warrantyServiceVo": null,
+        "wishList": false,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8374835481?itemId=21901692191&vendorItemId=88949713876&q=lost+mary&itemsCount=32&searchId=2a6595911338898&rank=19&searchRank=19"
+        },
+        "status": "normal",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 15,
+                    "ratingAverage": 4,
+                    "ratingSummaries": [
+                        {
+                            "id": 397784319,
+                            "productId": 8374835481,
+                            "rating": 5,
+                            "count": 9,
+                            "percentage": 62
+                        },
+                        {
+                            "id": 397784318,
+                            "productId": 8374835481,
+                            "rating": 4,
+                            "count": 1,
+                            "percentage": 6
+                        },
+                        {
+                            "id": 397784317,
+                            "productId": 8374835481,
+                            "rating": 3,
+                            "count": 1,
+                            "percentage": 6
+                        },
+                        {
+                            "id": 397784316,
+                            "productId": 8374835481,
+                            "rating": 2,
+                            "count": 1,
+                            "percentage": 6
+                        },
+                        {
+                            "id": 397784315,
+                            "productId": 8374835481,
+                            "rating": 1,
+                            "count": 3,
+                            "percentage": 20
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 15,
+                    "startPage": 1,
+                    "endPage": 1,
+                    "totalPage": 1,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [
+                        1
+                    ],
+                    "contents": [
+                        {
+                            "reviewId": 593469046,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713876,
+                            "itemId": 21901692191,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 4,
+                            "helpfulTrueCount": 2,
+                            "helpfulFalseCount": 2,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                            "title": "",
+                            "content": "\uc0ac\uc774\uc988\uac00 \uc77c\ud68c\uc6a9 \ud130\ubcf4 \ub77c\uc774\ud0c0\ubcf4\ub2e4 \uc0b4\uc9dd \ud07d\ub2c8\ub2e4. \uc791\uace0 \uac00\ubcbc\uc6cc\uc11c \ud734\ub300\ud558\uae30 \ub9e4\uc6b0 \ud3b8\ub9ac\ud569\ub2c8\ub2e4.\n\ubc30\ud130\ub9ac\ub294 \ud558\ub8e8\uc885\uc77c \uc785\uc5d0 \ubb3c\uace0 \uc788\uc9c0 \uc54a\ub294 \uc774\uc0c1 \uac1c\uc778\uc801\uc73c\ub85c \ud558\ub8e8~\uc774\ud2c0 \ubc18\uc815\ub3c4\uac00 \uc801\uc808\ud558\ub2e4\uace0 \ud310\ub2e8 \ub40d\ub2c8\ub2e4.\n\ub514\uc790\uc778\uacfc \uc0c9\uc0c1\uc774 \ubaa8\ub450 \ub9c8\uc74c\uc5d0 \ub4e4\uace0 \uc544\uc8fc \uc608\uc058\uac8c \uc0dd\uacbc\uc2b5\ub2c8\ub2e4.",
+                            "reviewAt": 1713163269000,
+                            "member": {
+                                "type": "USER",
+                                "id": "43410244",
+                                "name": "\uc774*\ube48",
+                                "email": "gan******@hanmail.net"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uc774*\ube48",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ub514\uc790\uc778",
+                                    "answer": "\uc544\uc8fc \ub9c8\uc74c\uc5d0 \ub4e4\uc5b4\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ubb34\uac8c",
+                                    "answer": "\uac00\ubcbc\uc6cc\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\uacac\uace0\ud568",
+                                    "answer": "\uc544\uc8fc \uacac\uace0\ud574\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1713163269000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": true
+                        },
+                        {
+                            "reviewId": 592935685,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 1,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "\uc0ac\uc9c0\ub9c8\uc694",
+                            "content": "\uac4d \uc548\uc88b\uc544\uc694 \ud30c\uc774\uc5b4\ubc84\ud2bc 5\ubc88 \ub20c\ub7ec\ub3c4 \ucf1c\uc9c0\uc9c0\ub3c4\uc54a\uace0 \ub514\uc2a4\ud50c\ub808\uc774\ubd80\ubd84 \ucc0d\ud600\uc788\uace0 \ucda9\uc804\uae30 \uaf42\uc544\ub3c4 \ud654\uba74 \ub728\uc9c0\ub3c4\uc54a\uc74c",
+                            "reviewAt": 1713013472000,
+                            "member": {
+                                "type": "USER",
+                                "id": "140991434",
+                                "name": "\uc784*\uc6d0",
+                                "email": "gwa*******@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uc784*\uc6d0",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ub514\uc790\uc778",
+                                    "answer": "\ubcc4\ub85c\uc608\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\uacac\uace0\ud568",
+                                    "answer": "\uc0dd\uac01\ubcf4\ub2e4 \ubd80\uc2e4\ud574\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1713013472000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": true
+                        },
+                        {
+                            "reviewId": 590358392,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "\uc804\ub2f4 \uae30\uae30 ",
+                            "content": "\ube60\ub978\ubc30\uc1a1 \uac10\uc0ac\ud569\ub2c8\ub2e4  \uc81c\ud488\uc774 \uac00\ubccd\uace0 \uc88b\uc73c\ub124\uc694 \uac00\uaca9\ub300\ube44. \ub118\uc88b\uc544\uc694 \ubc30\uc1a1\uae30\uc0ac\ub2d8 \uc218\uace0\ub9ce\uc73c\uc168\uc2b5\ub2c8\ub2e4 \uac10\uc0ac\ud569\ub2c8\ub2e4",
+                            "reviewAt": 1712228656000,
+                            "member": {
+                                "type": "USER",
+                                "id": "151792452",
+                                "name": "\uae40*\ud760",
+                                "email": "999****@navr.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uae40*\ud760",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ub514\uc790\uc778",
+                                    "answer": "\uc544\uc8fc \ub9c8\uc74c\uc5d0 \ub4e4\uc5b4\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ubb34\uac8c",
+                                    "answer": "\uac00\ubcbc\uc6cc\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\uacac\uace0\ud568",
+                                    "answer": "\uc544\uc8fc \uacac\uace0\ud574\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1712228447000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": true
+                        },
+                        {
+                            "reviewId": 683487125,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713876,
+                            "itemId": 21901692191,
+                            "rating": 3,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1738717211000,
+                            "member": {
+                                "type": "USER",
+                                "id": "17045788",
+                                "name": "\uae40*\uc5b5",
+                                "email": "rla*******@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uae40*\uc5b5",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1738717207000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 707152000,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713876,
+                            "itemId": 21901692191,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1744361485000,
+                            "member": {
+                                "type": "USER",
+                                "id": "159861845",
+                                "name": "\uc774*\ud638",
+                                "email": "dio***************@gmail.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uc774*\ud638",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1744361485000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 703359980,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713876,
+                            "itemId": 21901692191,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1743499390000,
+                            "member": {
+                                "type": "USER",
+                                "id": "51165770",
+                                "name": "\uc190*\ub2ec",
+                                "email": "sdd****@hanmail.net"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uc190*\ub2ec",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1743499390000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 670527961,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 4,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1735462485000,
+                            "member": {
+                                "type": "USER",
+                                "id": "158757634",
+                                "name": "\uac15*\ud601",
+                                "email": "asw*****@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uac15*\ud601",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ub514\uc790\uc778",
+                                    "answer": "\ubcf4\ud1b5\uc774\uc5d0\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ubb34\uac8c",
+                                    "answer": "\uac00\ubcbc\uc6cc\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\uacac\uace0\ud568",
+                                    "answer": "\ubcf4\ud1b5\uc774\uc5d0\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1735462460000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": true
+                        },
+                        {
+                            "reviewId": 729780851,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713876,
+                            "itemId": 21901692191,
+                            "rating": 2,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/d80d/182187d9d03042deadae47cf778808f29d7ea99c2f92481569325a5119cc.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1749728932000,
+                            "member": {
+                                "type": "USER",
+                                "id": "163491228",
+                                "name": "\uace0*\uc218",
+                                "email": "rhr****@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uace0*\uc218",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ub514\uc790\uc778",
+                                    "answer": "\ubcc4\ub85c\uc608\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ubb34\uac8c",
+                                    "answer": "\ubcf4\ud1b5\uc774\uc5d0\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1749728896000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": true
+                        },
+                        {
+                            "reviewId": 650060057,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1730540050000,
+                            "member": {
+                                "type": "USER",
+                                "id": "110497475",
+                                "name": "\uae40*\uc900",
+                                "email": "046*****@gmail.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uae40*\uc900",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1730540050000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 614052679,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713876,
+                            "itemId": 21901692191,
+                            "rating": 1,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1719945193000,
+                            "member": {
+                                "type": "USER",
+                                "id": "110346968",
+                                "name": "\uae40*\ud55c",
+                                "email": "sun*******@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uae40*\ud55c",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1719945193000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 637547354,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1727593677000,
+                            "member": {
+                                "type": "USER",
+                                "id": "126811817",
+                                "name": "JIN*******",
+                                "email": "pop********@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "JIN*******",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1727593677000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 629028197,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1725015255000,
+                            "member": {
+                                "type": "USER",
+                                "id": "151792452",
+                                "name": "\uae40*\ud760",
+                                "email": "999****@navr.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uae40*\ud760",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1725015242000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 595719619,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713883,
+                            "itemId": 21901692193,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1713707876000,
+                            "member": {
+                                "type": "USER",
+                                "id": "143219686",
+                                "name": "MAB *****",
+                                "email": "mab**********@gmail.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "MAB *****",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1713707876000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 590895895,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713922,
+                            "itemId": 21901692200,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c, 1\uac1c",
+                            "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1712365034000,
+                            "member": {
+                                "type": "USER",
+                                "id": "128658412",
+                                "name": "\uc815*\uc12d",
+                                "email": "jms******@naver.com"
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\uc815*\uc12d",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "\ub514\uc790\uc778",
+                                    "answer": "\uc544\uc8fc \ub9c8\uc74c\uc5d0 \ub4e4\uc5b4\uc694",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1712364956000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": true
+                        },
+                        {
+                            "reviewId": 659289425,
+                            "productId": 8374835481,
+                            "vendorItemId": 88949713922,
+                            "itemId": 21901692200,
+                            "rating": 1,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c, 1\uac1c",
+                            "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1732686370000,
+                            "member": {
+                                "type": "USER",
+                                "id": "-659289425",
+                                "name": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                                "email": ""
+                            },
+                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayName": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1732686370000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "needMore": false
+                        }
+                    ]
+                },
+                "videoAvailable": false,
+                "reviewTotalCount": 15,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    }
+]

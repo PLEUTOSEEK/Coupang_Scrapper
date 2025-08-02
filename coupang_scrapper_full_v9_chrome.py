@@ -10,8 +10,10 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from nordvpn_switcher import initialize_VPN, rotate_VPN, terminate_VPN
 
 rootPath = os.path.dirname(os.path.abspath(__file__))
+instructions = initialize_VPN(area_input=["Denmark,South Korea,Brazil,Croatia"])
 
 def get_current_date_mdy():
     """
@@ -67,8 +69,10 @@ def extract_data_with_selenium(params):
                 else:
                     print("No <pre> tag found in the response")
                     print("Page source:", driver.page_source)
-                    return None
-                
+                    rotate_VPN(instructions)
+                    time.sleep(20)
+                    # return None
+
             except json.JSONDecodeError as e:
                 print(f"JSON decode error: {str(e)}")
                 print("Raw content:", pre_tag.text if pre_tag else "No pre tag")
@@ -103,7 +107,7 @@ def extract_all_ratings_selenium(productID):
 
     total_pages = 10
     
-    with ThreadPoolExecutor(max_workers=1) as executor:
+    with ThreadPoolExecutor(max_workers=4) as executor:
         futures = []
         for start_page in range(2, total_pages + 1, 3):
             for page_num in range(start_page, min(start_page + 3, total_pages + 1)):
@@ -214,7 +218,7 @@ def extract_coupang_params(url):
 
 def process_url(url_obj):
     try:
-        time.sleep(random.uniform(6, 10))  # Random wait between 3 to 5 seconds
+        # time.sleep(random.uniform(6, 10))  # Random wait between 3 to 5 seconds
         input_params = extract_coupang_params(url_obj['URL'])
         print(input_params)
 
@@ -296,4 +300,7 @@ def load_all_json_from_folder(folder_path):
             except Exception as e:
                 print(f"Failed to load {filename}: {e}")
 
-json_data_list = load_all_json_from_folder('URLs')
+if __name__ == "__main__":
+    
+
+    json_data_list = load_all_json_from_folder('URLs')
