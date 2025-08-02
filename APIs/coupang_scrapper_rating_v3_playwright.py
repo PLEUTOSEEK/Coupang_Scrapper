@@ -22,6 +22,7 @@ def extract_rating_with_selenium(productID):
     full_url = f"{url}?{query_string}"
 
     chrome_options = Options()
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
@@ -33,6 +34,7 @@ def extract_rating_with_selenium(productID):
             try:
                 driver.get(full_url)
                 time.sleep(3)  # Wait for the response
+                time.sleep(2)
                 
                 # Parse the page source with BeautifulSoup
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -65,4 +67,6 @@ def extract_rating_with_selenium(productID):
 product_id = "8230650647"  # Example product ID
 rating_data = extract_rating_with_selenium(product_id)
 if rating_data:
-    print(json.dumps(rating_data, indent=2, ensure_ascii=False))
+    #save to json sample data
+    with open('Samples/rating_data.json', 'w', encoding='utf-8') as f:
+        json.dump(rating_data, f, indent=2, ensure_ascii=False)

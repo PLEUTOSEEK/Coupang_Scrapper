@@ -80,13 +80,12 @@ def extract_data_from_json(json_folder):
                                             {
                                                 # "review_id": comment.get("reviewId", ""),
                                                 # "product_id": comment.get("productId", ""),
-                                                "rating": comment.get("rating", ""),
+                                                "rating": comment.get("rating", ""), 
                                                 # "title": comment.get("title", ""),
-                                                "content": comment.get("content", ""),
+                                                "content": re.sub(r'[^\x00-\x7F]+', '', comment.get("content", "")),
                                                 "comment_date": formatted_date
                                             }
                                         )
-                                    print(all_comments)
                                     for comment in all_comments:
                                         result = {
                                             'Country Code': inner_item.get('input_obj', {}).get('er', ''),
@@ -125,14 +124,12 @@ def extract_data_from_json(json_folder):
                                     }
                                     results.append(result)
                             except Exception as item_err:
-                                print(inner_item.get('input_obj', {}))
                                 print(f"Skipping item in {filename} due to structure error: {item_err}")
                         else:
                             unscrapped_results.append(inner_item.get('input_obj', {}))
             except Exception as file_err:
                 print(f"Failed to read {filename}: {file_err}")
 
-    print(results)
     # Convert to DataFrame and save to Excel
     df = pd.DataFrame(results)
 
