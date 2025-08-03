@@ -11,10 +11,12 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from nordvpn_switcher import initialize_VPN, rotate_VPN, terminate_VPN
+import threading
 
+vpn_lock = threading.Lock()
 rootPath = os.path.dirname(os.path.abspath(__file__))
-instructions = initialize_VPN(area_input=["Denmark,South Korea,Brazil,Croatia"])
-
+instructions = initialize_VPN(area_input=["South Korea"]) # ,Brazil,Croatia,Denmark,
+vpn_rotated = False
 def get_current_date_mdy():
     """
     Returns the current date formatted as M/D/YYYY (e.g., 7/30/2025).
@@ -40,6 +42,7 @@ headers = {
 }
 
 def extract_data_with_selenium(params):
+    global vpn_rotated
     url = f"https://www.coupang.com/next-api/products/vendor-items?productId={params['productId']}&vendorItemId={params['vendorItemId']}&landingItemId={params['landingItemId']}&landingProductId={params['landingProductId']}&landingVendorItemId={params['landingVendorItemId']}&defaultSelection={params['defaultSelection']}&deliveryToggle={params['deliveryToggle']}"
 
     chrome_options = Options()
@@ -65,12 +68,18 @@ def extract_data_with_selenium(params):
                     # Extract the text content and parse as JSON
                     json_data = json.loads(pre_tag.text)
                     print("Successfully extracted JSON data:")
+                    vpn_rotated = False
                     return json_data
                 else:
                     print("No <pre> tag found in the response")
                     print("Page source:", driver.page_source)
-                    rotate_VPN(instructions)
-                    time.sleep(20)
+                    with vpn_lock:
+                        if not vpn_rotated:
+                            vpn_rotated = True
+                            rotate_VPN(instructions)
+                            time.sleep(20)
+                        else:
+                            print(f"Skipping VPN rotation — already handled")
                     # return None
 
             except json.JSONDecodeError as e:
@@ -79,7 +88,13 @@ def extract_data_with_selenium(params):
                 return None
             except Exception as e:
                 print(f"Attempt {retry + 1} failed: {str(e)}")
-                time.sleep(2)
+                with vpn_lock:
+                    if not vpn_rotated:
+                        vpn_rotated = True
+                        rotate_VPN(instructions)
+                        time.sleep(20)
+                    else:
+                        print(f"Skipping VPN rotation — already handled")
     
     finally:
         driver.quit()
@@ -105,9 +120,10 @@ def extract_all_ratings_selenium(productID):
         return [extract_rating_with_selenium(productID, page_num=i)
                 for i in range(start_page, min(start_page + 3, total_pages + 1))]
 
-    total_pages = 10
+    # if total_pages > 10:
+    #     total_pages = 10
     
-    with ThreadPoolExecutor(max_workers=4) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         futures = []
         for start_page in range(2, total_pages + 1, 3):
             for page_num in range(start_page, min(start_page + 3, total_pages + 1)):
@@ -128,6 +144,8 @@ def extract_all_ratings_selenium(productID):
 
 
 def extract_rating_with_selenium(productID, page_num=1):
+    global vpn_rotated
+
     url = "https://www.coupang.com/next-api/review"
 
     params = {
@@ -162,14 +180,30 @@ def extract_rating_with_selenium(productID, page_num=1):
             try:
                 json_data = json.loads(pre_tag.text)
                 print(f"[Page {page_num}] Successfully extracted")
+                vpn_rotated = False
                 return json_data
             except json.JSONDecodeError as e:
                 print(f"[Page {page_num}] JSON decode error: {e}")
         else:
             print(f"[Page {page_num}] No <pre> tag found")
+            with vpn_lock:
+                if not vpn_rotated:
+                    vpn_rotated = True
+                    rotate_VPN(instructions)
+                    time.sleep(20)
+                else:
+                    print(f"[Page {page_num}] Skipping VPN rotation — already handled")
 
     except Exception as e:
         print(f"[Page {page_num}] Error: {e}")
+        with vpn_lock:
+            if not vpn_rotated:
+                vpn_rotated = True
+                rotate_VPN(instructions)
+                time.sleep(20)
+            else:
+                print(f"[Page {page_num}] Skipping VPN rotation — already handled")
+    
     finally:
         driver.quit()
 

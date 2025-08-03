@@ -79,7 +79,8 @@ async def get_all_ratings(productID):
     except KeyError:
         print("Invalid structure in response")
         return []
-    total_pages = 10
+    if total_pages > 10:
+        total_pages = 10
     # Start from page 2 (page 1 is already done)
     page = 2
     while page <= total_pages:

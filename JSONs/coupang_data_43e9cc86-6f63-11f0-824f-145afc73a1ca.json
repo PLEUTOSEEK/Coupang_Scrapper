@@ -40,7 +40,7 @@
             "basicCashBackList": [
                 {
                     "amount": 528,
-                    "benefit": "\ucfe0\ud398\uc774 \uba38\ub2c8 \uacb0\uc81c \uc2dc 1% \uc801\ub9bd",
+                    "benefit": "쿠페이 머니 결제 시 1% 적립",
                     "expired": false,
                     "i18nAmount": {
                         "amount": "528",
@@ -51,12 +51,12 @@
                     "leftDays": null,
                     "rate": "1",
                     "type": "BASIC",
-                    "validity": "\uc6d4 \ucd5c\ub300 1\ub9cc\uc6d0"
+                    "validity": "월 최대 1만원"
                 }
             ],
             "basicRocketPayCashAmt": 528,
             "basicRocketPayRate": "1",
-            "cashBackTitle": "\uce90\uc2dc\uc801\ub9bd \ud61c\ud0dd",
+            "cashBackTitle": "캐시적립 혜택",
             "cashIconUrl": "https://image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
             "cashWidgetIconUrl": "https://image6.coupangcdn.com/image/badges/sdp/cashback/web/cash-icon@2x.png",
             "clubMemberCashAmt": null,
@@ -75,7 +75,7 @@
             "extraCashBackList": [
                 {
                     "amount": 1056,
-                    "benefit": "[\ub85c\ucf13\uc640\uc6b0 + \ucfe0\ud398\uc774 \uacc4\uc88c\uc774\uccb4] \uacb0\uc81c \uc2dc 2% \uc801\ub9bd",
+                    "benefit": "[로켓와우 + 쿠페이 계좌이체] 결제 시 2% 적립",
                     "expired": false,
                     "i18nAmount": {
                         "amount": "1056",
@@ -86,11 +86,11 @@
                     "leftDays": 2035,
                     "rate": "2",
                     "type": "COU_BANK",
-                    "validity": "\uc774\ubca4\ud2b8 \uae30\uac04 30\uc77c, \ucd5c\ub300 2\ub9cc\uc6d0"
+                    "validity": "이벤트 기간 30일, 최대 2만원"
                 },
                 {
                     "amount": 2112,
-                    "benefit": "[\ub85c\ucf13\uc640\uc6b0 + \ucfe0\ud398\uc774 \uba38\ub2c8] \uacb0\uc81c \uc2dc 4% \ucd94\uac00\uc801\ub9bd",
+                    "benefit": "[로켓와우 + 쿠페이 머니] 결제 시 4% 추가적립",
                     "expired": false,
                     "i18nAmount": {
                         "amount": "2112",
@@ -101,7 +101,7 @@
                     "leftDays": 2035,
                     "rate": "4",
                     "type": "COU_MONEY",
-                    "validity": "\uc774\ubca4\ud2b8 \uae30\uac04 30\uc77c, \ucd5c\ub300 4\ub9cc\uc6d0"
+                    "validity": "이벤트 기간 30일, 최대 4만원"
                 }
             ],
             "finalCashBackAmt": 2640,
@@ -153,24 +153,24 @@
         "discountBenefitDescriptionList": null,
         "easePayment": {
             "digitPwdIcon": "https://image7.coupangcdn.com/image/coupang/common/payment/passcode_lock_color@4x.png",
-            "digitPwdText": "6\uc790\ub9ac \ube44\ubc00\ubc88\ud638 \ucd5c\ucd08 1\ud68c \ub4f1\ub85d \uc2dc",
+            "digitPwdText": "6자리 비밀번호 최초 1회 등록 시",
             "easePaymentMessageForRegABTestOption": "B",
-            "easyPaymentText": "\uc548\uc804\ud558\uac8c \uac04\ud3b8 \uacb0\uc81c",
+            "easyPaymentText": "안전하게 간편 결제",
             "list": [
                 {
                     "icon": "https://image7.coupangcdn.com/image/coupang/common/payment/coupaymoney_color@4x.png",
-                    "text": "\ucfe0\ud398\uc774\uba38\ub2c8"
+                    "text": "쿠페이머니"
                 },
                 {
                     "icon": "https://image10.coupangcdn.com/image/coupang/common/payment/card_color@4x.png",
-                    "text": "\uce74\ub4dc"
+                    "text": "카드"
                 },
                 {
                     "icon": "https://image8.coupangcdn.com/image/coupang/common/payment/bankbook_color@4x.png",
-                    "text": "\uacc4\uc88c\uc774\uccb4"
+                    "text": "계좌이체"
                 }
             ],
-            "title": "PC\uc5d0\uc11c\ub3c4 \uac04\ud3b8\ud55c \uacb0\uc81c"
+            "title": "PC에서도 간편한 결제"
         },
         "freshEligible": false,
         "giftcard": false,
@@ -193,7 +193,7 @@
         "invalid": false,
         "inventory": null,
         "itemId": 21401904947,
-        "itemName": "Beastie Boys \ube44\uc2a4\ud2f0 \ubcf4\uc774\uc988 Hello Nasty CD \uc568\ubc94",
+        "itemName": "Beastie Boys 비스티 보이즈 Hello Nasty CD 앨범",
         "limitNoticeVo": null,
         "linkedVendorItemInfo": null,
         "luxuryDiscountBenefit": null,
@@ -231,7 +231,7 @@
                     "basicCashBackList": [
                         {
                             "amount": 528,
-                            "benefit": "\ucfe0\ud398\uc774 \uba38\ub2c8 \uacb0\uc81c \uc2dc 1% \uc801\ub9bd",
+                            "benefit": "쿠페이 머니 결제 시 1% 적립",
                             "expired": false,
                             "i18nAmount": {
                                 "amount": "528",
@@ -242,12 +242,12 @@
                             "leftDays": null,
                             "rate": "1",
                             "type": "BASIC",
-                            "validity": "\uc6d4 \ucd5c\ub300 1\ub9cc\uc6d0"
+                            "validity": "월 최대 1만원"
                         }
                     ],
                     "basicRocketPayCashAmt": 528,
                     "basicRocketPayRate": "1",
-                    "cashBackTitle": "\uce90\uc2dc\uc801\ub9bd \ud61c\ud0dd",
+                    "cashBackTitle": "캐시적립 혜택",
                     "cashIconUrl": "https://image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
                     "cashWidgetIconUrl": "https://image6.coupangcdn.com/image/badges/sdp/cashback/web/cash-icon@2x.png",
                     "clubMemberCashAmt": null,
@@ -266,7 +266,7 @@
                     "extraCashBackList": [
                         {
                             "amount": 1056,
-                            "benefit": "[\ub85c\ucf13\uc640\uc6b0 + \ucfe0\ud398\uc774 \uacc4\uc88c\uc774\uccb4] \uacb0\uc81c \uc2dc 2% \uc801\ub9bd",
+                            "benefit": "[로켓와우 + 쿠페이 계좌이체] 결제 시 2% 적립",
                             "expired": false,
                             "i18nAmount": {
                                 "amount": "1056",
@@ -277,11 +277,11 @@
                             "leftDays": 2035,
                             "rate": "2",
                             "type": "COU_BANK",
-                            "validity": "\uc774\ubca4\ud2b8 \uae30\uac04 30\uc77c, \ucd5c\ub300 2\ub9cc\uc6d0"
+                            "validity": "이벤트 기간 30일, 최대 2만원"
                         },
                         {
                             "amount": 2112,
-                            "benefit": "[\ub85c\ucf13\uc640\uc6b0 + \ucfe0\ud398\uc774 \uba38\ub2c8] \uacb0\uc81c \uc2dc 4% \ucd94\uac00\uc801\ub9bd",
+                            "benefit": "[로켓와우 + 쿠페이 머니] 결제 시 4% 추가적립",
                             "expired": false,
                             "i18nAmount": {
                                 "amount": "2112",
@@ -292,7 +292,7 @@
                             "leftDays": 2035,
                             "rate": "4",
                             "type": "COU_MONEY",
-                            "validity": "\uc774\ubca4\ud2b8 \uae30\uac04 30\uc77c, \ucd5c\ub300 4\ub9cc\uc6d0"
+                            "validity": "이벤트 기간 30일, 최대 4만원"
                         }
                     ],
                     "finalCashBackAmt": 2640,
@@ -337,8 +337,8 @@
                 },
                 "delivery": {
                     "badgeUrl": null,
-                    "company": "\uc6b0\uccb4\uad6d EMS",
-                    "companyLabel": "\ubc30\uc1a1\uc0ac: ",
+                    "company": "우체국 EMS",
+                    "companyLabel": "배송사: ",
                     "countDownMessage": null,
                     "countDownMillisecond": null,
                     "delayMessage": "",
@@ -347,7 +347,7 @@
                     "deliveryReminderMessage": null,
                     "descriptionBadge": null,
                     "descriptionIcon": null,
-                    "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>9/9</em><em class='prod-txt-onyx'> \ub3c4\ucc29 \uc608\uc815</em>",
+                    "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>9/9</em><em class='prod-txt-onyx'> 도착 예정</em>",
                     "extremeDescriptions": null,
                     "hideQuestionMark": false,
                     "logistics": false,
@@ -360,8 +360,8 @@
                 "deliveryList": [
                     {
                         "badgeUrl": null,
-                        "company": "\uc6b0\uccb4\uad6d EMS",
-                        "companyLabel": "\ubc30\uc1a1\uc0ac: ",
+                        "company": "우체국 EMS",
+                        "companyLabel": "배송사: ",
                         "countDownMessage": null,
                         "countDownMillisecond": null,
                         "delayMessage": "",
@@ -370,7 +370,7 @@
                         "deliveryReminderMessage": null,
                         "descriptionBadge": null,
                         "descriptionIcon": null,
-                        "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>9/9</em><em class='prod-txt-onyx'> \ub3c4\ucc29 \uc608\uc815</em>",
+                        "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>9/9</em><em class='prod-txt-onyx'> 도착 예정</em>",
                         "extremeDescriptions": null,
                         "hideQuestionMark": false,
                         "logistics": false,
@@ -460,7 +460,7 @@
                         "wowInstantDiscount": false
                     },
                     {
-                        "title": "Beastie Boys \ube44\uc2a4\ud2f0 \ubcf4\uc774\uc988 Hello Nasty CD \uc568\ubc94",
+                        "title": "Beastie Boys 비스티 보이즈 Hello Nasty CD 앨범",
                         "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
                     },
                     {
@@ -473,7 +473,7 @@
                                     {
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "9/9 \ub3c4\ucc29 \uc608\uc815"
+                                        "text": "9/9 도착 예정"
                                     }
                                 ],
                                 "shippingFeeTag": [
@@ -481,7 +481,7 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     }
                                 ]
                             },
@@ -490,7 +490,7 @@
                                     {
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "9/9 \ub3c4\ucc29 \uc608\uc815"
+                                        "text": "9/9 도착 예정"
                                     }
                                 ],
                                 "shippingFeeTag": [
@@ -498,14 +498,14 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     }
                                 ]
                             }
                         },
                         "itemInfo": {
                             "itemId": 21401904947,
-                            "itemName": "Beastie Boys \ube44\uc2a4\ud2f0 \ubcf4\uc774\uc988 Hello Nasty CD \uc568\ubc94",
+                            "itemName": "Beastie Boys 비스티 보이즈 Hello Nasty CD 앨범",
                             "productId": 7851479253,
                             "thumbnailImage": {
                                 "height": 60,
@@ -517,7 +517,7 @@
                         "priceInfo": {
                             "finalPrice": {
                                 "applicable": true,
-                                "displayPrice": "52,800\uc6d0",
+                                "displayPrice": "52,800원",
                                 "price": 52800
                             }
                         },
@@ -526,13 +526,13 @@
                     {
                         "pddList": [
                             {
-                                "arrivalMessage": "9/9 \ub3c4\ucc29 \uc608\uc815",
+                                "arrivalMessage": "9/9 도착 예정",
                                 "deliveryBadge": {
                                     "height": 20,
                                     "url": "https://image7.coupangcdn.com/image/badge/badge_195ac189483.png",
                                     "width": 20
                                 },
-                                "deliveryCompany": "\ud574\uc678\ubc30\uc1a1",
+                                "deliveryCompany": "해외배송",
                                 "is3pDelivery": true
                             }
                         ],
@@ -619,14 +619,14 @@
                         "salePrice": null,
                         "salePriceTitle": null,
                         "saleUnitPrice": null,
-                        "title": "\ucfe0\ud321\ud310\ub9e4\uac00",
+                        "title": "쿠팡판매가",
                         "type": "SALES",
                         "unitDiscountRate": null,
                         "unitPrice": "",
                         "wowCouponDiscount": false
                     }
                 ],
-                "priceUnit": "\uc6d0",
+                "priceUnit": "원",
                 "quantity": 1,
                 "quantityLimitationVO": null,
                 "selectedIndex": 0,
@@ -635,7 +635,7 @@
                     "dividerIcon": null,
                     "extremeMessage": null,
                     "freeShippingConditionMessage": null,
-                    "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                    "message": "<em class='prod-txt-bold'>무료배송</em>",
                     "popupFreeShippingConditionMessage": null,
                     "returnFeeMessage": null,
                     "shippingFee": "0",
@@ -649,7 +649,7 @@
                         "dividerIcon": null,
                         "extremeMessage": null,
                         "freeShippingConditionMessage": null,
-                        "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                        "message": "<em class='prod-txt-bold'>무료배송</em>",
                         "popupFreeShippingConditionMessage": null,
                         "returnFeeMessage": null,
                         "shippingFee": null,
@@ -674,8 +674,8 @@
         "sellingInfoVo": {
             "countryOfOrigin": null,
             "sellingInfo": [
-                "\uc74c\ubc18 \ud615\ud0dc: CD",
-                "\ucfe0\ud321\uc0c1\ud488\ubc88\ud638: 7851479253 - 21401904947"
+                "음반 형태: CD",
+                "쿠팡상품번호: 7851479253 - 21401904947"
             ]
         },
         "shippingConsolidationLink": null,
@@ -689,20 +689,20 @@
         "vendor": {
             "id": "A00669098",
             "link": "https://shop.coupang.com/vid/A00669098?source=brandstore_sdp_atf&pid=7851479253&viid=88458517608&platform=p",
-            "name": "\ud585\uc9d5\ub9c8\ucf13",
+            "name": "햅징마켓",
             "sellerStoreRating": {
                 "display": {
-                    "descriptionText": "14\uac74 \uc774\ud558\uc758 \ud3c9\uac00",
+                    "descriptionText": "14건 이하의 평가",
                     "icon": "https://image9.coupangcdn.com/image/mobile_app/v3/badges/thumbs_up/xxhdpi/ic_thumbsup_outline_black_buybox.png",
-                    "label": "\ud310\ub9e4\uc790 \ud3c9\uac00",
+                    "label": "판매자 평가",
                     "score": "-- %"
                 },
                 "notice": {
-                    "declaration": "\uc774 \ud310\ub9e4\uc790\uac00 \uc81c\uacf5\ud558\ub294 \uc804\uccb4\uc801\uc778 \uc11c\ube44\uc2a4\uc5d0 \ub300\ud55c \uace0\uac1d\uc758 \ub9cc\uc871\ub3c4\uc785\ub2c8\ub2e4.<br/>(\ubc30\uc1a1, \ud3ec\uc7a5, \uace0\uac1d\uc751\ub300, \uac00\uaca9, \uc720\ud1b5\uae30\ud55c \ub4f1) ",
-                    "noReviewReminder": "* \ud310\ub9e4\uc790 \ud3c9\uac00\uac00 14\uac74 \uc774\ud558\uc77c \ub54c\ub294 \ub9cc\uc871\ub3c4 \uc810\uc218\uac00 \uc81c\uacf5\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+                    "declaration": "이 판매자가 제공하는 전체적인 서비스에 대한 고객의 만족도입니다.<br/>(배송, 포장, 고객응대, 가격, 유통기한 등) ",
+                    "noReviewReminder": "* 판매자 평가가 14건 이하일 때는 만족도 점수가 제공되지 않습니다.",
                     "storeIcon": "https://image10.coupangcdn.com/image/coupang/rds/icon/xxhdpi/ic_seller_outline.png",
-                    "storeName": "\ud585\uc9d5\ub9c8\ucf13",
-                    "title": "\ud310\ub9e4\uc790 \ud3c9\uac00"
+                    "storeName": "햅징마켓",
+                    "title": "판매자 평가"
                 },
                 "total": 5
             }
@@ -859,7 +859,7 @@
         "invalid": true,
         "inventory": null,
         "itemId": 23380638976,
-        "itemName": "NASTY \ud504\ub9ac\ubbf8\uc5c4 \uba74 \uc218\ub9ac \ubd84\ud574 \ub3c4\uad6c \uc561\uc138\uc11c\ub9ac \ubb34\ucde8 \ubca0\uc774\ucee8 \uc2a4\ub808\ub4dc \ud770\uc0c9 \uba74 \uae38\uc774 100mm \uac00\ubc29 \ub2f9 10 \uac1c, 01 1park Nasty Cotton",
+        "itemName": "NASTY 프리미엄 면 수리 분해 도구 액세서리 무취 베이컨 스레드 흰색 면 길이 100mm 가방 당 10 개, 01 1park Nasty Cotton",
         "limitNoticeVo": null,
         "linkedVendorItemInfo": null,
         "luxuryDiscountBenefit": null,
@@ -986,7 +986,7 @@
             "addToCartUrl": "coupang://addCart?itemId=10145262667&productId=5842885041&vendorItemId=77427980714&sourceType=offerDetail&price=8890&sdpVisitKey=&isLoser=false&offerStatus=NEW",
             "shippingConsolidationUrl": null
         },
-        "attributeTitle": "\ub2e8\uc77c\uc0c9\uc0c1 \u00b7 1\uac1c",
+        "attributeTitle": "단일색상 · 1개",
         "authenticity": null,
         "authors": null,
         "badgeMap": {
@@ -1043,7 +1043,7 @@
         "invalid": false,
         "inventory": null,
         "itemId": 10145262667,
-        "itemName": "\ud0dc\ud2c0\ub9ac STAY NASTY \ud398\uc5b4 2p, 1\uac1c",
+        "itemName": "태틀리 STAY NASTY 페어 2p, 1개",
         "limitNoticeVo": null,
         "linkedVendorItemInfo": null,
         "luxuryDiscountBenefit": null,
@@ -1163,14 +1163,14 @@
                                             "amount": 8890,
                                             "currency": "KRW"
                                         },
-                                        "unit": "\uac1c"
+                                        "unit": "개"
                                     },
                                     "unitPriceAmount": 8890,
                                     "unitPriceAmountWithDeliveryFee": 8890,
-                                    "unitPriceDescription": "(1\uac1c\ub2f9 8,890\uc6d0)",
-                                    "unitPriceDescriptionWithoutParenthesis": "1\uac1c\ub2f9 8,890\uc6d0",
-                                    "unitPriceIncludeDeliveryFeeDescription": "(1\uac1c\ub2f9 8,890\uc6d0)",
-                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1\uac1c\ub2f9 8,890\uc6d0",
+                                    "unitPriceDescription": "(1개당 8,890원)",
+                                    "unitPriceDescriptionWithoutParenthesis": "1개당 8,890원",
+                                    "unitPriceIncludeDeliveryFeeDescription": "(1개당 8,890원)",
+                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1개당 8,890원",
                                     "unitPriceWithDeliveryFee": {
                                         "amount": 1,
                                         "extendedPrice": {
@@ -1180,7 +1180,7 @@
                                             },
                                             "offset": 0
                                         },
-                                        "unit": "\uac1c"
+                                        "unit": "개"
                                     },
                                     "valid": true
                                 },
@@ -1195,9 +1195,9 @@
                                 "realType": "SALES",
                                 "unitPriceAmount": 8890,
                                 "unitPriceAmountWithDeliveryFee": 8890,
-                                "unitPriceDescription": "(1\uac1c\ub2f9 8,890\uc6d0)",
-                                "unitPriceDescriptionWithoutParenthesis": "1\uac1c\ub2f9 8,890\uc6d0",
-                                "unitPriceIncludeDeliveryFeeDescription": "(1\uac1c\ub2f9 8,890\uc6d0)"
+                                "unitPriceDescription": "(1개당 8,890원)",
+                                "unitPriceDescriptionWithoutParenthesis": "1개당 8,890원",
+                                "unitPriceIncludeDeliveryFeeDescription": "(1개당 8,890원)"
                             },
                             "nonWowMemberPrice": {
                                 "price": 8890,
@@ -1212,7 +1212,7 @@
                         "normalCouponDiscount": false,
                         "normalInstantDiscount": false,
                         "priceLogData": {
-                            "unitPrice": "(1\uac1c\ub2f9 8,890\uc6d0)",
+                            "unitPrice": "(1개당 8,890원)",
                             "discountRate": "null",
                             "underThresholdCouponSavingAmount": "null",
                             "targetedCouponSavingAmount": "null",
@@ -1240,7 +1240,7 @@
                         "wowInstantDiscount": false
                     },
                     {
-                        "title": "\ud0dc\ud2c0\ub9ac STAY NASTY \ud398\uc5b4 2p",
+                        "title": "태틀리 STAY NASTY 페어 2p",
                         "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
                     },
                     {
@@ -1259,7 +1259,7 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     },
                                     {
                                         "color": "#222222",
@@ -1269,7 +1269,7 @@
                                     {
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "(\ub85c\ucf13\ubc30\uc1a1 \uc0c1\ud488 19,800\uc6d0 \uc774\uc0c1 \uad6c\ub9e4 \uc2dc \uad6c\ub9e4 \uac00\ub2a5)"
+                                        "text": "(로켓배송 상품 19,800원 이상 구매 시 구매 가능)"
                                     }
                                 ]
                             },
@@ -1284,7 +1284,7 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     },
                                     {
                                         "color": "#222222",
@@ -1294,14 +1294,14 @@
                                     {
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "(\ub85c\ucf13\ubc30\uc1a1 \uc0c1\ud488 19,800\uc6d0 \uc774\uc0c1 \uad6c\ub9e4 \uc2dc \uad6c\ub9e4 \uac00\ub2a5)"
+                                        "text": "(로켓배송 상품 19,800원 이상 구매 시 구매 가능)"
                                     }
                                 ]
                             }
                         },
                         "itemInfo": {
                             "itemId": 10145262667,
-                            "itemName": "\ud0dc\ud2c0\ub9ac STAY NASTY \ud398\uc5b4 2p",
+                            "itemName": "태틀리 STAY NASTY 페어 2p",
                             "productId": 5842885041,
                             "thumbnailImage": {
                                 "height": 60,
@@ -1313,7 +1313,7 @@
                         "priceInfo": {
                             "finalPrice": {
                                 "applicable": true,
-                                "displayPrice": "8,890\uc6d0",
+                                "displayPrice": "8,890원",
                                 "price": 8890
                             }
                         },
@@ -1328,7 +1328,7 @@
                                     "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_symbol_large.png",
                                     "width": 20
                                 },
-                                "deliveryBadgeLabel": "\ub85c\ucf13\ubc30\uc1a1",
+                                "deliveryBadgeLabel": "로켓배송",
                                 "deliveryBadgeV2": {
                                     "height": 16,
                                     "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/xhdpi/logo_rocket_medium.png",
@@ -1345,7 +1345,7 @@
                     "couponDiscountAmount": null,
                     "couponPrice": "8,890",
                     "couponPriceTitle": "",
-                    "couponUnitPrice": "1\uac1c\ub2f9 8,890\uc6d0",
+                    "couponUnitPrice": "1개당 8,890원",
                     "description": null,
                     "discountRate": null,
                     "finalPrice": "8,890",
@@ -1378,7 +1378,7 @@
                     "priceAmount": null,
                     "salePrice": "8,890",
                     "salePriceTitle": "",
-                    "saleUnitPrice": "1\uac1c\ub2f9 8,890\uc6d0",
+                    "saleUnitPrice": "1개당 8,890원",
                     "title": null,
                     "type": null,
                     "unitDiscountRate": null,
@@ -1420,14 +1420,14 @@
                         "salePrice": null,
                         "salePriceTitle": null,
                         "saleUnitPrice": null,
-                        "title": "\ucfe0\ud321\ud310\ub9e4\uac00",
+                        "title": "쿠팡판매가",
                         "type": "SALES",
                         "unitDiscountRate": null,
-                        "unitPrice": "1\uac1c\ub2f9 8,890\uc6d0",
+                        "unitPrice": "1개당 8,890원",
                         "wowCouponDiscount": false
                     }
                 ],
-                "priceUnit": "\uc6d0",
+                "priceUnit": "원",
                 "quantity": 1,
                 "quantityLimitationVO": null,
                 "selectedIndex": 0,
@@ -1436,10 +1436,10 @@
                     "dividerIcon": null,
                     "extremeMessage": null,
                     "freeShippingConditionMessage": null,
-                    "message": "\ubb34\ub8cc\ubc30\uc1a1(\ub85c\ucf13\ubc30\uc1a1 \uc0c1\ud488 19,800\uc6d0 \uc774\uc0c1 \uad6c\ub9e4 \uc2dc)",
+                    "message": "무료배송(로켓배송 상품 19,800원 이상 구매 시)",
                     "popupFreeShippingConditionMessage": null,
                     "returnFeeMessage": null,
-                    "shippingFee": "2,500\uc6d0",
+                    "shippingFee": "2,500원",
                     "shippingFeeIcon": null,
                     "shippingFeeType": "ROCKET",
                     "title": null,
@@ -1450,7 +1450,7 @@
                         "dividerIcon": null,
                         "extremeMessage": null,
                         "freeShippingConditionMessage": null,
-                        "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em><em class='prod-txt-black'> (\ub85c\ucf13\ubc30\uc1a1 \uc0c1\ud488 19,800\uc6d0 \uc774\uc0c1 \uad6c\ub9e4 \uc2dc)</em>",
+                        "message": "<em class='prod-txt-bold'>무료배송</em><em class='prod-txt-black'> (로켓배송 상품 19,800원 이상 구매 시)</em>",
                         "popupFreeShippingConditionMessage": null,
                         "returnFeeMessage": null,
                         "shippingFee": null,
@@ -1475,9 +1475,9 @@
         "sellingInfoVo": {
             "countryOfOrigin": null,
             "sellingInfo": [
-                "\ud30c\ud2f0\ubd84\uc7a5\uc885\ub958: \uba54\uc774\ud06c\uc5c5",
-                "\uc0ac\ub78c/\ubc18\ub824\ub3d9\ubb3c \uc0ac\uc6a9\ub300\uc0c1: \uc77c\ubc18/\uc131\uc778\uc6a9",
-                "\ucfe0\ud321\uc0c1\ud488\ubc88\ud638: 5842885041 - 10145262667"
+                "파티분장종류: 메이크업",
+                "사람/반려동물 사용대상: 일반/성인용",
+                "쿠팡상품번호: 5842885041 - 10145262667"
             ]
         },
         "shippingConsolidationLink": null,
@@ -1590,7 +1590,7 @@
             "addToCartUrl": "coupang://addCart?itemId=9371272161&productId=5678400887&vendorItemId=76656454739&sourceType=offerDetail&price=21700&sdpVisitKey=&isLoser=false&offerStatus=NEW",
             "shippingConsolidationUrl": null
         },
-        "attributeTitle": "\ucc28\ucf5c (K21QB326CH) \u00b7 M",
+        "attributeTitle": "차콜 (K21QB326CH) · M",
         "authenticity": null,
         "authors": null,
         "badgeMap": {
@@ -1659,7 +1659,7 @@
         "invalid": false,
         "inventory": null,
         "itemId": 9371272161,
-        "itemName": "\ub124\uc2a4\ud2f0\ud0a5 \ub0a8\uc131\uc6a9 \uc704\ub4dc \ub370\uc2a4 \ud2f0",
+        "itemName": "네스티킥 남성용 위드 데스 티",
         "limitNoticeVo": null,
         "linkedVendorItemInfo": null,
         "luxuryDiscountBenefit": null,
@@ -1768,7 +1768,7 @@
                                     "valid": true
                                 },
                                 "displayDelivery": {
-                                    "benefitDescription": "\ubb34\ub8cc\ubc30\uc1a1"
+                                    "benefitDescription": "무료배송"
                                 },
                                 "displayType": "FINAL",
                                 "downloadCouponType": "NONE",
@@ -1821,7 +1821,7 @@
                         "wowInstantDiscount": false
                     },
                     {
-                        "title": "\ub124\uc2a4\ud2f0\ud0a5 \ub0a8\uc131\uc6a9 \uc704\ub4dc \ub370\uc2a4 \ud2f0",
+                        "title": "네스티킥 남성용 위드 데스 티",
                         "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
                     },
                     {
@@ -1840,7 +1840,7 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     }
                                 ]
                             },
@@ -1855,14 +1855,14 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     }
                                 ]
                             }
                         },
                         "itemInfo": {
                             "itemId": 9371272161,
-                            "itemName": "\ub124\uc2a4\ud2f0\ud0a5 \ub0a8\uc131\uc6a9 \uc704\ub4dc \ub370\uc2a4 \ud2f0",
+                            "itemName": "네스티킥 남성용 위드 데스 티",
                             "productId": 5678400887,
                             "thumbnailImage": {
                                 "height": 60,
@@ -1874,7 +1874,7 @@
                         "priceInfo": {
                             "finalPrice": {
                                 "applicable": true,
-                                "displayPrice": "21,700\uc6d0",
+                                "displayPrice": "21,700원",
                                 "price": 21700
                             }
                         },
@@ -1889,7 +1889,7 @@
                                     "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_symbol_large.png",
                                     "width": 20
                                 },
-                                "deliveryBadgeLabel": "\ub85c\ucf13\ubc30\uc1a1",
+                                "deliveryBadgeLabel": "로켓배송",
                                 "deliveryBadgeV2": {
                                     "height": 16,
                                     "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/xhdpi/logo_rocket_medium.png",
@@ -1981,14 +1981,14 @@
                         "salePrice": null,
                         "salePriceTitle": null,
                         "saleUnitPrice": null,
-                        "title": "\ucfe0\ud321\ud310\ub9e4\uac00",
+                        "title": "쿠팡판매가",
                         "type": "SALES",
                         "unitDiscountRate": null,
                         "unitPrice": "",
                         "wowCouponDiscount": false
                     }
                 ],
-                "priceUnit": "\uc6d0",
+                "priceUnit": "원",
                 "quantity": 1,
                 "quantityLimitationVO": null,
                 "selectedIndex": 0,
@@ -1997,7 +1997,7 @@
                     "dividerIcon": null,
                     "extremeMessage": null,
                     "freeShippingConditionMessage": null,
-                    "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                    "message": "<em class='prod-txt-bold'>무료배송</em>",
                     "popupFreeShippingConditionMessage": null,
                     "returnFeeMessage": null,
                     "shippingFee": "0",
@@ -2011,7 +2011,7 @@
                         "dividerIcon": null,
                         "extremeMessage": null,
                         "freeShippingConditionMessage": null,
-                        "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                        "message": "<em class='prod-txt-bold'>무료배송</em>",
                         "popupFreeShippingConditionMessage": null,
                         "returnFeeMessage": null,
                         "shippingFee": null,
@@ -2036,12 +2036,12 @@
         "sellingInfoVo": {
             "countryOfOrigin": null,
             "sellingInfo": [
-                "\uc758\ub958 \ud54f: \uae30\ubcf8",
-                "\ub124\ud06c\ub77c\uc778: \ub77c\uc6b4\ub4dc\ub125",
-                "\uc0ac\uc6a9\uacc4\uc808: \uc5ec\ub984\uc6a9",
-                "\uc0c9\uc0c1\uacc4\uc5f4: \uadf8\ub808\uc774\uacc4\uc5f4",
-                "\uc0c1\uc758 \uc0ac\uc774\uc988: \ub0a8\uc131 M",
-                "\ucfe0\ud321\uc0c1\ud488\ubc88\ud638: 5678400887 - 9371272161"
+                "의류 핏: 기본",
+                "네크라인: 라운드넥",
+                "사용계절: 여름용",
+                "색상계열: 그레이계열",
+                "상의 사이즈: 남성 M",
+                "쿠팡상품번호: 5678400887 - 9371272161"
             ]
         },
         "shippingConsolidationLink": null,
@@ -2148,7 +2148,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub124\uc2a4\ud2f0\ud0a5 \ub0a8\uc131\uc6a9 \uc704\ub4dc \ub370\uc2a4 \ud2f0, \uce74\ud0a4 (K21QB326KH), M",
+                            "itemName": "네스티킥 남성용 위드 데스 티, 카키 (K21QB326KH), M",
                             "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/rs_quotation_api/ymemqlof/3970be77d306477c860e31de75319a6d.jpg",
                             "title": "",
                             "content": "",
@@ -2159,7 +2159,7 @@
                                 "name": "LI ******",
                                 "email": "osk*********@gmail.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayWriter": "쿠팡실구매자",
                             "displayName": "LI ******",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
@@ -2181,7 +2181,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \ucfe0\ud321(\uc8fc)",
+                            "vendorName": "판매자: 쿠팡(주)",
                             "needMore": false
                         },
                         {
@@ -2196,7 +2196,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub124\uc2a4\ud2f0\ud0a5 \ub0a8\uc131\uc6a9 \uc704\ub4dc \ub370\uc2a4 \ud2f0, \ucc28\ucf5c (K21QB326CH), XL",
+                            "itemName": "네스티킥 남성용 위드 데스 티, 차콜 (K21QB326CH), XL",
                             "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/retail/images/2021/06/15/12/3/f4fdc88a-fd5e-4102-b491-707020b5863b.jpg",
                             "title": "",
                             "content": "",
@@ -2204,11 +2204,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "123529961",
-                                "name": "\uc815*\uc9c4",
+                                "name": "정*진",
                                 "email": "dms*******@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uc9c4\uc9c8\ub77c",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "진질라",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -2229,7 +2229,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \ucfe0\ud321(\uc8fc)",
+                            "vendorName": "판매자: 쿠팡(주)",
                             "needMore": false
                         }
                     ]

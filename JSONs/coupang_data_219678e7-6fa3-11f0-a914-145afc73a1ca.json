@@ -1,0 +1,1821 @@
+[
+    {
+        "additionalData": {
+            "officialBrandName": null,
+            "whiteBrandLogoUrl": null,
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": "1개 · 구름멜로우 바나나",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7523/0a263bb02f358fb8514dbb6d857d78d0bdc164c916ada2c4c1c622a3ac5c.jpg",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/7523/0a263bb02f358fb8514dbb6d857d78d0bdc164c916ada2c4c1c622a3ac5c.jpg",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/7523/0a263bb02f358fb8514dbb6d857d78d0bdc164c916ada2c4c1c622a3ac5c.jpg",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/7523/0a263bb02f358fb8514dbb6d857d78d0bdc164c916ada2c4c1c622a3ac5c.jpg"
+            },
+            {
+                "detailImage": "//thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/94b7/444b849b8ac33586ac8c8938909eab4818351e0f87df9b590ee4ec6526ad.png",
+                "origin": "//image6.coupangcdn.com/image/vendor_inventory/94b7/444b849b8ac33586ac8c8938909eab4818351e0f87df9b590ee4ec6526ad.png",
+                "preloadImage": "//thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/94b7/444b849b8ac33586ac8c8938909eab4818351e0f87df9b590ee4ec6526ad.png",
+                "thumbnailImage": "//thumbnail6.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/94b7/444b849b8ac33586ac8c8938909eab4818351e0f87df9b590ee4ec6526ad.png"
+            },
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5479/8486e1fde54c1d662a1684c3b804456a168736f5aa9a4e6f4b30686d0092.png",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/5479/8486e1fde54c1d662a1684c3b804456a168736f5aa9a4e6f4b30686d0092.png",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5479/8486e1fde54c1d662a1684c3b804456a168736f5aa9a4e6f4b30686d0092.png",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/5479/8486e1fde54c1d662a1684c3b804456a168736f5aa9a4e6f4b30686d0092.png"
+            },
+            {
+                "detailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2b73/f51f7821ecb919464a13ef51fa9cf12481046f1ce59965403665ce75d10f.jpg",
+                "origin": "//image7.coupangcdn.com/image/vendor_inventory/2b73/f51f7821ecb919464a13ef51fa9cf12481046f1ce59965403665ce75d10f.jpg",
+                "preloadImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2b73/f51f7821ecb919464a13ef51fa9cf12481046f1ce59965403665ce75d10f.jpg",
+                "thumbnailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/2b73/f51f7821ecb919464a13ef51fa9cf12481046f1ce59965403665ce75d10f.jpg"
+            },
+            {
+                "detailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/5dfa/2c9ae1f461d0a2c4c9607fdc6c7eb2d46c7e470eb5144f8d380e73314bc6.jpg",
+                "origin": "//image7.coupangcdn.com/image/vendor_inventory/5dfa/2c9ae1f461d0a2c4c9607fdc6c7eb2d46c7e470eb5144f8d380e73314bc6.jpg",
+                "preloadImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5dfa/2c9ae1f461d0a2c4c9607fdc6c7eb2d46c7e470eb5144f8d380e73314bc6.jpg",
+                "thumbnailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/5dfa/2c9ae1f461d0a2c4c9607fdc6c7eb2d46c7e470eb5144f8d380e73314bc6.jpg"
+            },
+            {
+                "detailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9fb5/55a3887bc03ad18273482e6ee0dd4bd87dbedea7b9a338e8372fb6b1126f.jpg",
+                "origin": "//image8.coupangcdn.com/image/vendor_inventory/9fb5/55a3887bc03ad18273482e6ee0dd4bd87dbedea7b9a338e8372fb6b1126f.jpg",
+                "preloadImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/9fb5/55a3887bc03ad18273482e6ee0dd4bd87dbedea7b9a338e8372fb6b1126f.jpg",
+                "thumbnailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/9fb5/55a3887bc03ad18273482e6ee0dd4bd87dbedea7b9a338e8372fb6b1126f.jpg"
+            },
+            {
+                "detailImage": "//thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/8e7c/db17906e31a8daa5a1088636c70bf9dc2e11d477af020d69c362d850877e.jpg",
+                "origin": "//image6.coupangcdn.com/image/vendor_inventory/8e7c/db17906e31a8daa5a1088636c70bf9dc2e11d477af020d69c362d850877e.jpg",
+                "preloadImage": "//thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8e7c/db17906e31a8daa5a1088636c70bf9dc2e11d477af020d69c362d850877e.jpg",
+                "thumbnailImage": "//thumbnail6.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/8e7c/db17906e31a8daa5a1088636c70bf9dc2e11d477af020d69c362d850877e.jpg"
+            },
+            {
+                "detailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/79bc/317ff7e3cb90a69da1dd16d494fb4b451d23d80b11f717763b6d931d102a.jpg",
+                "origin": "//image9.coupangcdn.com/image/vendor_inventory/79bc/317ff7e3cb90a69da1dd16d494fb4b451d23d80b11f717763b6d931d102a.jpg",
+                "preloadImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/79bc/317ff7e3cb90a69da1dd16d494fb4b451d23d80b11f717763b6d931d102a.jpg",
+                "thumbnailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/79bc/317ff7e3cb90a69da1dd16d494fb4b451d23d80b11f717763b6d931d102a.jpg"
+            },
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b665/df6264c2126de054d1000bc1c51a7e4edf2001335868bbc613f4638c0b54.jpg",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/b665/df6264c2126de054d1000bc1c51a7e4edf2001335868bbc613f4638c0b54.jpg",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b665/df6264c2126de054d1000bc1c51a7e4edf2001335868bbc613f4638c0b54.jpg",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/b665/df6264c2126de054d1000bc1c51a7e4edf2001335868bbc613f4638c0b54.jpg"
+            },
+            {
+                "detailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c342/8a0a2440bac20edf1c7e40abbd367690fcaaa4af327fec4d8285c3a5cf69.jpg",
+                "origin": "//image9.coupangcdn.com/image/vendor_inventory/c342/8a0a2440bac20edf1c7e40abbd367690fcaaa4af327fec4d8285c3a5cf69.jpg",
+                "preloadImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c342/8a0a2440bac20edf1c7e40abbd367690fcaaa4af327fec4d8285c3a5cf69.jpg",
+                "thumbnailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/c342/8a0a2440bac20edf1c7e40abbd367690fcaaa4af327fec4d8285c3a5cf69.jpg"
+            }
+        ],
+        "invalid": true,
+        "inventory": null,
+        "itemId": 21285319407,
+        "itemName": "쥬스박스 쥬스틱X구름멜로우 입호흡 일회용 전자담배 12ml, 1개, 구름멜로우 바나나",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": 88355134505,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7590434776?itemId=21285319407&vendorItemId=88355134505&q=ko+pop&itemsCount=36&searchId=468b55c997674e7594151fc4428e5380&rank=33"
+        },
+        "status": "out of stock",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 0,
+                    "ratingAverage": 0,
+                    "ratingSummaries": [
+                        {
+                            "id": 168810187,
+                            "productId": 7590434776,
+                            "rating": 5,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 168810186,
+                            "productId": 7590434776,
+                            "rating": 4,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 168810185,
+                            "productId": 7590434776,
+                            "rating": 3,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 168810184,
+                            "productId": 7590434776,
+                            "rating": 2,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 168810183,
+                            "productId": 7590434776,
+                            "rating": 1,
+                            "count": 0,
+                            "percentage": 0
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 0,
+                    "startPage": 1,
+                    "endPage": 0,
+                    "totalPage": 0,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [],
+                    "contents": []
+                },
+                "videoAvailable": true,
+                "reviewTotalCount": 0,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7087761532?itemId=17653532249&vendorItemId=80091173297&q=ko+pop&itemsCount=36&searchId=468b55c997674e7594151fc4428e5380&rank=34"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": "토바코 · 1개",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg"
+            },
+            {
+                "detailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ad0d/df30e78ff62118edd316285c3924820fe797be14edb45787757d29516747.jpg",
+                "origin": "//image9.coupangcdn.com/image/vendor_inventory/ad0d/df30e78ff62118edd316285c3924820fe797be14edb45787757d29516747.jpg",
+                "preloadImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ad0d/df30e78ff62118edd316285c3924820fe797be14edb45787757d29516747.jpg",
+                "thumbnailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/ad0d/df30e78ff62118edd316285c3924820fe797be14edb45787757d29516747.jpg"
+            }
+        ],
+        "invalid": true,
+        "inventory": null,
+        "itemId": 22890814706,
+        "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": 89925384722,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/8096318077?itemId=22890814706&vendorItemId=89925384722&q=ko+pop&itemsCount=36&searchId=468b55c997674e7594151fc4428e5380&rank=35"
+        },
+        "status": "out of stock",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 7,
+                    "ratingAverage": 4.5,
+                    "ratingSummaries": [
+                        {
+                            "id": 390382767,
+                            "productId": 8096318077,
+                            "rating": 5,
+                            "count": 6,
+                            "percentage": 86
+                        },
+                        {
+                            "id": 397746371,
+                            "productId": 8096318077,
+                            "rating": 4,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 397746370,
+                            "productId": 8096318077,
+                            "rating": 3,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 397746369,
+                            "productId": 8096318077,
+                            "rating": 2,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 397746368,
+                            "productId": 8096318077,
+                            "rating": 1,
+                            "count": 1,
+                            "percentage": 14
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 7,
+                    "startPage": 1,
+                    "endPage": 1,
+                    "totalPage": 1,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [
+                        1
+                    ],
+                    "contents": [
+                        {
+                            "reviewId": 670218506,
+                            "productId": 8096318077,
+                            "vendorItemId": 90544265303,
+                            "itemId": 22599769821,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/a6f2/0284884de1122f5d9aad31364f38cd0687108c5fe9fd7780e756c8d0f3ae.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1735376900000,
+                            "member": {
+                                "type": "USER",
+                                "id": "36479843",
+                                "name": "황*현",
+                                "email": "tgt***@hanmail.net"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "황*현",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1735376900000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 미래플레이스",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 656463822,
+                            "productId": 8096318077,
+                            "vendorItemId": 90544265303,
+                            "itemId": 22599769821,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/a6f2/0284884de1122f5d9aad31364f38cd0687108c5fe9fd7780e756c8d0f3ae.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1732022609000,
+                            "member": {
+                                "type": "USER",
+                                "id": "110615449",
+                                "name": "박*규",
+                                "email": "max****@naver.com"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "박*규",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": "//thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202204/7/7684427452392291834/5d655ee6-e1e9-499b-b9e3-93709b403ded.jpeg",
+                                "displayImageThumbnailPath": "//thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202204/7/7684427452392291834/5d655ee6-e1e9-499b-b9e3-93709b403ded.jpeg",
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1732022609000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 미래플레이스",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 646845841,
+                            "productId": 8096318077,
+                            "vendorItemId": 90544265303,
+                            "itemId": 22599769821,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/a6f2/0284884de1122f5d9aad31364f38cd0687108c5fe9fd7780e756c8d0f3ae.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1729768107000,
+                            "member": {
+                                "type": "USER",
+                                "id": "110615449",
+                                "name": "박*규",
+                                "email": "max****@naver.com"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "박*규",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": "//thumbnail7.coupangcdn.com/thumbnails/local/q-1/image2/PRODUCTREVIEW/202204/7/7684427452392291834/5d655ee6-e1e9-499b-b9e3-93709b403ded.jpeg",
+                                "displayImageThumbnailPath": "//thumbnail7.coupangcdn.com/thumbnails/local/320/image2/PRODUCTREVIEW/202204/7/7684427452392291834/5d655ee6-e1e9-499b-b9e3-93709b403ded.jpeg",
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1729768107000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 미래플레이스",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 634235263,
+                            "productId": 8096318077,
+                            "vendorItemId": 89925384722,
+                            "itemId": 22890814706,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1726632893000,
+                            "member": {
+                                "type": "USER",
+                                "id": "125573089",
+                                "name": "박*삼",
+                                "email": "pys******@naver.com"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "박*삼",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1726632893000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 호야네 점빵",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 609102045,
+                            "productId": 8096318077,
+                            "vendorItemId": 89925384722,
+                            "itemId": 22890814706,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1718166647000,
+                            "member": {
+                                "type": "USER",
+                                "id": "24442371",
+                                "name": "김*양",
+                                "email": "syk******@gmail.com"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "김*양",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1718166647000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 호야네 점빵",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 603893990,
+                            "productId": 8096318077,
+                            "vendorItemId": 89925384722,
+                            "itemId": 22890814706,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/6fba/cab9796c1bc88789b52f5ef6f0821ef59898efc766f53c716cefcdbb1e34.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1716349230000,
+                            "member": {
+                                "type": "USER",
+                                "id": "60719155",
+                                "name": "우*화",
+                                "email": "nic*****@hanmail.net"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "율2",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1716349230000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 호야네 점빵",
+                            "needMore": false
+                        },
+                        {
+                            "reviewId": 662555089,
+                            "productId": 8096318077,
+                            "vendorItemId": 90544265303,
+                            "itemId": 22599769821,
+                            "rating": 1,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 토바코, 1개",
+                            "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/a6f2/0284884de1122f5d9aad31364f38cd0687108c5fe9fd7780e756c8d0f3ae.jpg",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1733490043000,
+                            "member": {
+                                "type": "USER",
+                                "id": "156350737",
+                                "name": "송*기",
+                                "email": "thd*****@naver.com"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "송*기",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1733490043000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 미래플레이스",
+                            "needMore": false
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "reviewTotalCount": 7,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7141046559?itemId=17768828261&vendorItemId=84933058758&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=0"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "officialBrandName": null,
+            "whiteBrandLogoUrl": null,
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": false,
+        "apiUrlMap": {
+            "addToCartUrl": "coupang://addCart?itemId=20786826640&productId=7733391395&vendorItemId=87856401836&sourceType=offerDetail&price=4500&sdpVisitKey=&isLoser=false&offerStatus=NEW",
+            "shippingConsolidationUrl": "/vp/products/7733391395/vendor-items/87856401836/shipping-consolidation-widget-v2?vendorId=A01064218&shippingPlaceId=18539631"
+        },
+        "attributeTitle": "0.6옴 메쉬 · 1개",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {
+            "USAGE_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            },
+            "OFFER_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            }
+        },
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": {
+            "optionDetails": null,
+            "options": [],
+            "viewType": null
+        },
+        "buyableQuantity": 50,
+        "cashBackSummary": {
+            "basicCashBackList": [
+                {
+                    "amount": 45,
+                    "benefit": "쿠페이 머니 결제 시 1% 적립",
+                    "expired": false,
+                    "i18nAmount": {
+                        "amount": "45",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 45
+                    },
+                    "leftDays": null,
+                    "rate": "1",
+                    "type": "BASIC",
+                    "validity": "월 최대 1만원"
+                }
+            ],
+            "basicRocketPayCashAmt": 45,
+            "basicRocketPayRate": "1",
+            "cashBackTitle": "캐시적립 혜택",
+            "cashIconUrl": "https://image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+            "cashWidgetIconUrl": "https://image6.coupangcdn.com/image/badges/sdp/cashback/web/cash-icon@2x.png",
+            "clubMemberCashAmt": null,
+            "clubMemberRate": null,
+            "clubMemberRewardExpires": null,
+            "clubMemberRewardExpiryTime": null,
+            "clubMemberRewardLeftDays": null,
+            "couPayBankAmt": 90,
+            "couPayBankExpires": false,
+            "couPayBankLeftDays": 2035,
+            "couPayBankRate": "2",
+            "couPayMoneyAmt": 180,
+            "couPayMoneyExpires": false,
+            "couPayMoneyLeftDays": 2035,
+            "couPayMoneyRate": "4",
+            "extraCashBackList": [
+                {
+                    "amount": 90,
+                    "benefit": "[로켓와우 + 쿠페이 계좌이체] 결제 시 2% 적립",
+                    "expired": false,
+                    "i18nAmount": {
+                        "amount": "90",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 90
+                    },
+                    "leftDays": 2035,
+                    "rate": "2",
+                    "type": "COU_BANK",
+                    "validity": "이벤트 기간 30일, 최대 2만원"
+                },
+                {
+                    "amount": 180,
+                    "benefit": "[로켓와우 + 쿠페이 머니] 결제 시 4% 추가적립",
+                    "expired": false,
+                    "i18nAmount": {
+                        "amount": "180",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 180
+                    },
+                    "leftDays": 2035,
+                    "rate": "4",
+                    "type": "COU_MONEY",
+                    "validity": "이벤트 기간 30일, 최대 4만원"
+                }
+            ],
+            "finalCashBackAmt": 225,
+            "finalCashBackAmtIncludeRewardCashAmount": 225,
+            "giftRewardCashAmount": null,
+            "i18nBasicRocketPayCashAmt": {
+                "amount": "45",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 45
+            },
+            "i18nClubMemberCashAmt": null,
+            "i18nCouPayBankAmt": {
+                "amount": "90",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 90
+            },
+            "i18nCouPayMoneyAmt": {
+                "amount": "180",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 180
+            },
+            "i18nFinalCashBackAmt": {
+                "amount": "225",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 225
+            },
+            "i18nFinalCashBackAmtIncludeRewardCashAmount": {
+                "amount": "225",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 225
+            },
+            "i18nRewardCashAmount": null,
+            "luxuryItem": false,
+            "popupType": "WITHEXTRA",
+            "rewardCashAmount": null,
+            "targetedPromotionBanner": null
+        },
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": [],
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": {
+            "digitPwdIcon": "https://image7.coupangcdn.com/image/coupang/common/payment/passcode_lock_color@4x.png",
+            "digitPwdText": "6자리 비밀번호 최초 1회 등록 시",
+            "easePaymentMessageForRegABTestOption": "B",
+            "easyPaymentText": "안전하게 간편 결제",
+            "list": [
+                {
+                    "icon": "https://image7.coupangcdn.com/image/coupang/common/payment/coupaymoney_color@4x.png",
+                    "text": "쿠페이머니"
+                },
+                {
+                    "icon": "https://image10.coupangcdn.com/image/coupang/common/payment/card_color@4x.png",
+                    "text": "카드"
+                },
+                {
+                    "icon": "https://image8.coupangcdn.com/image/coupang/common/payment/bankbook_color@4x.png",
+                    "text": "계좌이체"
+                }
+            ],
+            "title": "PC에서도 간편한 결제"
+        },
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                "origin": "//image8.coupangcdn.com/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                "preloadImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                "thumbnailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png"
+            },
+            {
+                "detailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a1a5/13f87dae9396da5f64c4a0e2bc41041fc104283a82a608a08af23ded6866.png",
+                "origin": "//image7.coupangcdn.com/image/vendor_inventory/a1a5/13f87dae9396da5f64c4a0e2bc41041fc104283a82a608a08af23ded6866.png",
+                "preloadImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/a1a5/13f87dae9396da5f64c4a0e2bc41041fc104283a82a608a08af23ded6866.png",
+                "thumbnailImage": "//thumbnail7.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/a1a5/13f87dae9396da5f64c4a0e2bc41041fc104283a82a608a08af23ded6866.png"
+            },
+            {
+                "detailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                "origin": "//image8.coupangcdn.com/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                "preloadImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                "thumbnailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png"
+            },
+            {
+                "detailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e241/250e2637dfcda8ac362c2ae9b4baf00047b66c8e667c3fe1057c25aa6b0a.png",
+                "origin": "//image9.coupangcdn.com/image/vendor_inventory/e241/250e2637dfcda8ac362c2ae9b4baf00047b66c8e667c3fe1057c25aa6b0a.png",
+                "preloadImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/e241/250e2637dfcda8ac362c2ae9b4baf00047b66c8e667c3fe1057c25aa6b0a.png",
+                "thumbnailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/e241/250e2637dfcda8ac362c2ae9b4baf00047b66c8e667c3fe1057c25aa6b0a.png"
+            },
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/abaa/d762a2eb09bc372f7341eea85b40fa288d2bc62d1b07c8e745c2bc71be84.png",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/abaa/d762a2eb09bc372f7341eea85b40fa288d2bc62d1b07c8e745c2bc71be84.png",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/abaa/d762a2eb09bc372f7341eea85b40fa288d2bc62d1b07c8e745c2bc71be84.png",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/abaa/d762a2eb09bc372f7341eea85b40fa288d2bc62d1b07c8e745c2bc71be84.png"
+            },
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2a34/7af51905becd960e268309752074d1af1a174266ab11a5e3d90eeee21f91.png",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/2a34/7af51905becd960e268309752074d1af1a174266ab11a5e3d90eeee21f91.png",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2a34/7af51905becd960e268309752074d1af1a174266ab11a5e3d90eeee21f91.png",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/2a34/7af51905becd960e268309752074d1af1a174266ab11a5e3d90eeee21f91.png"
+            }
+        ],
+        "invalid": false,
+        "inventory": null,
+        "itemId": 20786826640,
+        "itemName": "베이포레소 크로스 미니 팟 공팟 카트리지 코일 0.8옴, 0.6옴 메쉬, 1개",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": {
+            "eligibleAddress": true,
+            "loyaltyMember": false,
+            "loyaltyMemberExcludePseudoMember": false,
+            "memberName": null,
+            "onHoldMember": false,
+            "pseudoMember": false,
+            "redCarpetPromotionPopupInfoVo": null,
+            "withdraw": false,
+            "withdrawOrOnHold": false
+        },
+        "offerBanner": null,
+        "offerDescription": "",
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": [
+            {
+                "abFlags": {
+                    "applyExtremeProminenceFreeDeliveryMessages": "A",
+                    "jikgu1PWarrantyAB": "NOT_APPLICABLE",
+                    "ab54632": "B"
+                },
+                "appliedCoupon": null,
+                "benefitDisplayType": null,
+                "bundleOption": {
+                    "optionDetails": null,
+                    "options": [],
+                    "viewType": null
+                },
+                "cashBackSummary": {
+                    "basicCashBackList": [
+                        {
+                            "amount": 45,
+                            "benefit": "쿠페이 머니 결제 시 1% 적립",
+                            "expired": false,
+                            "i18nAmount": {
+                                "amount": "45",
+                                "currency": "KRW",
+                                "fractionDigits": 0,
+                                "rawAmount": 45
+                            },
+                            "leftDays": null,
+                            "rate": "1",
+                            "type": "BASIC",
+                            "validity": "월 최대 1만원"
+                        }
+                    ],
+                    "basicRocketPayCashAmt": 45,
+                    "basicRocketPayRate": "1",
+                    "cashBackTitle": "캐시적립 혜택",
+                    "cashIconUrl": "https://image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+                    "cashWidgetIconUrl": "https://image6.coupangcdn.com/image/badges/sdp/cashback/web/cash-icon@2x.png",
+                    "clubMemberCashAmt": null,
+                    "clubMemberRate": null,
+                    "clubMemberRewardExpires": null,
+                    "clubMemberRewardExpiryTime": null,
+                    "clubMemberRewardLeftDays": null,
+                    "couPayBankAmt": 90,
+                    "couPayBankExpires": false,
+                    "couPayBankLeftDays": 2035,
+                    "couPayBankRate": "2",
+                    "couPayMoneyAmt": 180,
+                    "couPayMoneyExpires": false,
+                    "couPayMoneyLeftDays": 2035,
+                    "couPayMoneyRate": "4",
+                    "extraCashBackList": [
+                        {
+                            "amount": 90,
+                            "benefit": "[로켓와우 + 쿠페이 계좌이체] 결제 시 2% 적립",
+                            "expired": false,
+                            "i18nAmount": {
+                                "amount": "90",
+                                "currency": "KRW",
+                                "fractionDigits": 0,
+                                "rawAmount": 90
+                            },
+                            "leftDays": 2035,
+                            "rate": "2",
+                            "type": "COU_BANK",
+                            "validity": "이벤트 기간 30일, 최대 2만원"
+                        },
+                        {
+                            "amount": 180,
+                            "benefit": "[로켓와우 + 쿠페이 머니] 결제 시 4% 추가적립",
+                            "expired": false,
+                            "i18nAmount": {
+                                "amount": "180",
+                                "currency": "KRW",
+                                "fractionDigits": 0,
+                                "rawAmount": 180
+                            },
+                            "leftDays": 2035,
+                            "rate": "4",
+                            "type": "COU_MONEY",
+                            "validity": "이벤트 기간 30일, 최대 4만원"
+                        }
+                    ],
+                    "finalCashBackAmt": 225,
+                    "finalCashBackAmtIncludeRewardCashAmount": 225,
+                    "giftRewardCashAmount": null,
+                    "i18nBasicRocketPayCashAmt": {
+                        "amount": "45",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 45
+                    },
+                    "i18nClubMemberCashAmt": null,
+                    "i18nCouPayBankAmt": {
+                        "amount": "90",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 90
+                    },
+                    "i18nCouPayMoneyAmt": {
+                        "amount": "180",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 180
+                    },
+                    "i18nFinalCashBackAmt": {
+                        "amount": "225",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 225
+                    },
+                    "i18nFinalCashBackAmtIncludeRewardCashAmount": {
+                        "amount": "225",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 225
+                    },
+                    "i18nRewardCashAmount": null,
+                    "luxuryItem": false,
+                    "popupType": "WITHEXTRA",
+                    "rewardCashAmount": null,
+                    "targetedPromotionBanner": null
+                },
+                "delivery": {
+                    "badgeUrl": null,
+                    "company": "CJ 대한통운",
+                    "companyLabel": "배송사: ",
+                    "countDownMessage": null,
+                    "countDownMillisecond": null,
+                    "delayMessage": "",
+                    "deliveryExtraInfo": null,
+                    "deliveryNotice": null,
+                    "deliveryReminderMessage": null,
+                    "descriptionBadge": null,
+                    "descriptionIcon": null,
+                    "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>금요일 8/8</em><em class='prod-txt-onyx'> 도착 예정</em>",
+                    "extremeDescriptions": null,
+                    "hideQuestionMark": false,
+                    "logistics": false,
+                    "loyaltyButtonText": null,
+                    "rocketWowQuestionMark": false,
+                    "speedType": null,
+                    "title": null,
+                    "type": "VENDOR_DELIVERY"
+                },
+                "deliveryList": [
+                    {
+                        "badgeUrl": null,
+                        "company": "CJ 대한통운",
+                        "companyLabel": "배송사: ",
+                        "countDownMessage": null,
+                        "countDownMillisecond": null,
+                        "delayMessage": "",
+                        "deliveryExtraInfo": null,
+                        "deliveryNotice": null,
+                        "deliveryReminderMessage": null,
+                        "descriptionBadge": null,
+                        "descriptionIcon": null,
+                        "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>금요일 8/8</em><em class='prod-txt-onyx'> 도착 예정</em>",
+                        "extremeDescriptions": null,
+                        "hideQuestionMark": false,
+                        "logistics": false,
+                        "loyaltyButtonText": null,
+                        "rocketWowQuestionMark": false,
+                        "speedType": null,
+                        "title": null,
+                        "type": "VENDOR_DELIVERY"
+                    }
+                ],
+                "freebieBenefit": null,
+                "freebieBenefitV2": null,
+                "moduleData": [
+                    {
+                        "abFlags": {
+                            "displayTwoPricesWow": "A",
+                            "sdpCartUpdateNewPmcPolicy": "false",
+                            "deliveryFeeToggleShow": "true"
+                        },
+                        "detailPriceBundle": {
+                            "finalPrice": {
+                                "bestPriceInfo": {
+                                    "currency": "KRW",
+                                    "discountRateValid": false,
+                                    "doubleElevenPromoted": false,
+                                    "firstPurchase": false,
+                                    "goldbox": false,
+                                    "hasEligibilityConditions": false,
+                                    "lightning": false,
+                                    "lightningOrGoldbox": false,
+                                    "memberPrice": false,
+                                    "notExpired": true,
+                                    "percentageDiscount": false,
+                                    "price": 4500,
+                                    "priceType": "FINAL_PRICE",
+                                    "priceWithDeliveryFee": 7000,
+                                    "unitCCIDuration": 1,
+                                    "unitPrice": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 4500,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "priceEx": {
+                                            "amount": 4500,
+                                            "currency": "KRW"
+                                        },
+                                        "unit": "개"
+                                    },
+                                    "unitPriceAmount": 4500,
+                                    "unitPriceAmountWithDeliveryFee": 7000,
+                                    "unitPriceDescription": "(1개당 4,500원)",
+                                    "unitPriceDescriptionWithoutParenthesis": "1개당 4,500원",
+                                    "unitPriceIncludeDeliveryFeeDescription": "(1개당 7,000원)",
+                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1개당 7,000원",
+                                    "unitPriceWithDeliveryFee": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 7000,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "unit": "개"
+                                    },
+                                    "valid": true
+                                },
+                                "displayType": "FINAL",
+                                "downloadCouponType": "NONE",
+                                "downloadDiscountAmount": 0,
+                                "instantDiscountAmount": 0,
+                                "instantDiscountType": "NONE",
+                                "memberPrice": false,
+                                "price": 4500,
+                                "priceWithDeliveryFee": 7000,
+                                "realType": "SALES",
+                                "unitPriceAmount": 4500,
+                                "unitPriceAmountWithDeliveryFee": 7000,
+                                "unitPriceDescription": "(1개당 4,500원)",
+                                "unitPriceDescriptionWithoutParenthesis": "1개당 4,500원",
+                                "unitPriceIncludeDeliveryFeeDescription": "(1개당 7,000원)"
+                            },
+                            "nonWowMemberPrice": {
+                                "price": 4500,
+                                "priceWithDeliveryFee": 7000
+                            },
+                            "wowMemberPrice": {
+                                "price": 4500,
+                                "priceWithDeliveryFee": 7000
+                            }
+                        },
+                        "logging": {},
+                        "normalCouponDiscount": false,
+                        "normalInstantDiscount": false,
+                        "priceLogData": {
+                            "unitPrice": "(1개당 4,500원)",
+                            "discountRate": "null",
+                            "underThresholdCouponSavingAmount": "null",
+                            "targetedCouponSavingAmount": "null",
+                            "instantDiscountSavingAmount": "null",
+                            "overThresholdCouponSavingAmount": "null",
+                            "salesPrice": 4500,
+                            "finalPrice": 4500,
+                            "underThresholdCouponThreshold": "null",
+                            "isBadDiscount": "noClearingPrice",
+                            "wowUnderThresholdCouponThreshold": "null",
+                            "shippingFee": 2500,
+                            "anchorPrice": "null",
+                            "ccidEligibleSavingAmount": "null",
+                            "wowInstantDiscountSavingAmount": "null",
+                            "wowUnderThresholdCouponSavingAmount": "null",
+                            "wowCcidEligibleSavingAmount": "null",
+                            "myCcidDiscountSavingAmount": "null",
+                            "businessType": "3p",
+                            "wowOverThresholdCouponSavingAmount": "null"
+                        },
+                        "priceWithDeliveryFee": false,
+                        "targetedDiscount": false,
+                        "viewType": "PRODUCT_DETAIL_PRICE_INFO",
+                        "wowCouponDiscount": false,
+                        "wowDiscountAndNormalOtAndNonWowMember": false,
+                        "wowInstantDiscount": false
+                    },
+                    {
+                        "title": "베이포레소 크로스 미니 팟 공팟 카트리지 코일 0.8옴",
+                        "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
+                    },
+                    {
+                        "viewType": "PRODUCT_WEB_DATA_AB_FLAGS"
+                    },
+                    {
+                        "deliveryInfo": {
+                            "nonMemberDelivery": {
+                                "arrivalMessage": [
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "금요일 8/8 도착 예정"
+                                    }
+                                ],
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "무료배송"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": " "
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "(같은 판매자 상품 40000 이상 구매 시)"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "그 외 배송비 2500"
+                                    }
+                                ]
+                            },
+                            "wowMemberDelivery": {
+                                "arrivalMessage": [
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "금요일 8/8 도착 예정"
+                                    }
+                                ],
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "무료배송"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": " "
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "(같은 판매자 상품 40000 이상 구매 시)"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "그 외 배송비 2500"
+                                    }
+                                ]
+                            }
+                        },
+                        "itemInfo": {
+                            "itemId": 20786826640,
+                            "itemName": "베이포레소 크로스 미니 팟 공팟 카트리지 코일 0.8옴",
+                            "productId": 7733391395,
+                            "thumbnailImage": {
+                                "height": 60,
+                                "url": "https://image8.coupangcdn.com/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                                "width": 60
+                            },
+                            "vendorItemId": 87856401836
+                        },
+                        "priceInfo": {
+                            "finalPrice": {
+                                "applicable": true,
+                                "displayPrice": "4,500원",
+                                "price": 4500
+                            }
+                        },
+                        "viewType": "PRODUCT_DETAIL_HANDLEBAR_BASE_INFO"
+                    },
+                    {
+                        "pddList": [
+                            {
+                                "arrivalMessage": "금요일 8/8 도착 예정",
+                                "deliveryCharge": "2,500원",
+                                "deliveryCompany": "CJ 대한통운",
+                                "deliveryMessages": [
+                                    "배송비 2,500원"
+                                ],
+                                "deliveryType": "CONDITIONAL_FREE",
+                                "is3pDelivery": true,
+                                "shippingFeeButton": "배송비 포함됨",
+                                "shippingFeeTag": "*상품 가격에 배송비가 포함되어 있습니다."
+                            }
+                        ],
+                        "viewType": "PRODUCT_DETAIL_DELIVERY_INFO"
+                    }
+                ],
+                "price": {
+                    "cashPromotionMessage": null,
+                    "couponDiscountAmount": null,
+                    "couponPrice": "4,500",
+                    "couponPriceTitle": "",
+                    "couponUnitPrice": "1개당 4,500원",
+                    "description": null,
+                    "discountRate": null,
+                    "finalPrice": "4,500",
+                    "gppuPricePolicy": null,
+                    "hasNormalCouponDiscount": false,
+                    "hasNormalInstantDiscount": false,
+                    "hasWowCouponDiscount": false,
+                    "hasWowInstantDiscount": false,
+                    "i18nCouponDiscountAmount": null,
+                    "i18nCouponPrice": {
+                        "amount": "4500",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "i18nOriginPrice": null,
+                    "i18nPriceAmount": null,
+                    "i18nSalePrice": {
+                        "amount": "4500",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "instantDiscount": false,
+                    "instantPriceType": null,
+                    "loyaltyButtonText": null,
+                    "loyaltyRegistrationUrl": null,
+                    "originPrice": null,
+                    "originalPriceDesc": "",
+                    "priceAmount": null,
+                    "salePrice": "4,500",
+                    "salePriceTitle": "",
+                    "saleUnitPrice": "1개당 4,500원",
+                    "title": null,
+                    "type": null,
+                    "unitDiscountRate": null,
+                    "unitPrice": null,
+                    "wowCouponDiscount": false
+                },
+                "priceList": [
+                    {
+                        "cashPromotionMessage": null,
+                        "couponDiscountAmount": null,
+                        "couponPrice": null,
+                        "couponPriceTitle": null,
+                        "couponUnitPrice": null,
+                        "description": null,
+                        "discountRate": null,
+                        "finalPrice": null,
+                        "gppuPricePolicy": null,
+                        "hasNormalCouponDiscount": false,
+                        "hasNormalInstantDiscount": false,
+                        "hasWowCouponDiscount": false,
+                        "hasWowInstantDiscount": false,
+                        "i18nCouponDiscountAmount": null,
+                        "i18nCouponPrice": null,
+                        "i18nOriginPrice": null,
+                        "i18nPriceAmount": {
+                            "amount": "4500",
+                            "currency": "KRW",
+                            "fractionDigits": 0,
+                            "rawAmount": null
+                        },
+                        "i18nSalePrice": null,
+                        "instantDiscount": null,
+                        "instantPriceType": null,
+                        "loyaltyButtonText": null,
+                        "loyaltyRegistrationUrl": null,
+                        "originPrice": null,
+                        "originalPriceDesc": null,
+                        "priceAmount": "4,500",
+                        "salePrice": null,
+                        "salePriceTitle": null,
+                        "saleUnitPrice": null,
+                        "title": "쿠팡판매가",
+                        "type": "SALES",
+                        "unitDiscountRate": null,
+                        "unitPrice": "1개당 4,500원",
+                        "wowCouponDiscount": false
+                    }
+                ],
+                "priceUnit": "원",
+                "quantity": 1,
+                "quantityLimitationVO": null,
+                "selectedIndex": 0,
+                "shipmentDisplayType": "NORMAL",
+                "shippingFee": {
+                    "dividerIcon": null,
+                    "extremeMessage": null,
+                    "freeShippingConditionMessage": "<em class='prod-shipping-fee-divider'>그 외 배송비 2,500원</em>",
+                    "message": "<em class='prod-txt-bold'>무료배송</em><em class='prod-StrSupplier-black'> (같은 판매자 상품 40,000원 이상 구매 시)</em>",
+                    "popupFreeShippingConditionMessage": null,
+                    "returnFeeMessage": null,
+                    "shippingFee": "2,500원",
+                    "shippingFeeIcon": null,
+                    "shippingFeeType": "THREE_P_CONDITIONAL_FREE",
+                    "title": null,
+                    "titleIcon": null
+                },
+                "shippingFeeList": [
+                    {
+                        "dividerIcon": null,
+                        "extremeMessage": null,
+                        "freeShippingConditionMessage": "같은 판매자 상품 40,000원 이상 구매 시",
+                        "message": "<em class='prod-txt-bold'>무료배송</em><em class='prod-StrSupplier-black'> (같은 판매자 상품 40,000원 이상 구매 시)</em>",
+                        "popupFreeShippingConditionMessage": "같은 판매자 상품 40,000원 이상 구매 시",
+                        "returnFeeMessage": null,
+                        "shippingFee": null,
+                        "shippingFeeIcon": null,
+                        "shippingFeeType": "THREE_P_CONDITIONAL_FREE",
+                        "title": null,
+                        "titleIcon": null
+                    }
+                ],
+                "subscriptionDelivery": null,
+                "subscriptionDiscountRate": -1,
+                "subscriptionPrice": null,
+                "subscriptionPriceList": [],
+                "wowOnlyInstantDiscountRate": 0
+            }
+        ],
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": 2,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": {
+            "countryOfOrigin": null,
+            "sellingInfo": [
+                "개당 수량: 1개입",
+                "쿠팡상품번호: 7733391395 - 20786826640"
+            ]
+        },
+        "shippingConsolidationLink": null,
+        "soldOut": false,
+        "stickBanners": [],
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": {
+            "id": "A01064218",
+            "link": "",
+            "name": "위드커뮤니케이션",
+            "sellerStoreRating": {
+                "display": {
+                    "descriptionText": "14건 이하의 평가",
+                    "icon": "https://image9.coupangcdn.com/image/mobile_app/v3/badges/thumbs_up/xxhdpi/ic_thumbsup_outline_black_buybox.png",
+                    "label": "판매자 평가",
+                    "score": "-- %"
+                },
+                "notice": {
+                    "declaration": "이 판매자가 제공하는 전체적인 서비스에 대한 고객의 만족도입니다.<br/>(배송, 포장, 고객응대, 가격, 유통기한 등) ",
+                    "noReviewReminder": "* 판매자 평가가 14건 이하일 때는 만족도 점수가 제공되지 않습니다.",
+                    "storeIcon": "https://image10.coupangcdn.com/image/coupang/rds/icon/xxhdpi/ic_seller_outline.png",
+                    "storeName": "위드커뮤니케이션",
+                    "title": "판매자 평가"
+                },
+                "total": 0
+            }
+        },
+        "vendorItemId": 87856401836,
+        "warrantyServiceVo": null,
+        "wishList": false,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7733391395?itemId=20786826640&vendorItemId=87856401836&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=1"
+        },
+        "status": "normal",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 1,
+                    "ratingAverage": 5,
+                    "ratingSummaries": [
+                        {
+                            "id": 394769354,
+                            "productId": 7733391395,
+                            "rating": 5,
+                            "count": 1,
+                            "percentage": 100
+                        },
+                        {
+                            "id": 397749683,
+                            "productId": 7733391395,
+                            "rating": 4,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 397749682,
+                            "productId": 7733391395,
+                            "rating": 3,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 394823806,
+                            "productId": 7733391395,
+                            "rating": 2,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 397749681,
+                            "productId": 7733391395,
+                            "rating": 1,
+                            "count": 0,
+                            "percentage": 0
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 1,
+                    "startPage": 1,
+                    "endPage": 1,
+                    "totalPage": 1,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [
+                        1
+                    ],
+                    "contents": [
+                        {
+                            "reviewId": 622515660,
+                            "productId": 7733391395,
+                            "vendorItemId": 87856401836,
+                            "itemId": 20786826640,
+                            "rating": 5,
+                            "commentCount": 0,
+                            "helpfulCount": 0,
+                            "helpfulTrueCount": 0,
+                            "helpfulFalseCount": 0,
+                            "userHelpfulExist": false,
+                            "userHelpfulValue": false,
+                            "itemName": "베이포레소 크로스 미니 팟 공팟 카트리지 코일 0.8옴, 0.6옴 메쉬, 1개",
+                            "itemImagePath": "https://thumbnail8.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/35ad/bc4251b5967be3842f6fb8bc967001af07670777ccbf90438a402733617f.png",
+                            "title": "",
+                            "content": "",
+                            "reviewAt": 1722980550000,
+                            "member": {
+                                "type": "USER",
+                                "id": "156496613",
+                                "name": "한***위",
+                                "email": "phi*********@gmail.com"
+                            },
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "한***위",
+                            "displayWriterIconUrls": [],
+                            "isMyReview": false,
+                            "reviewSurveyAnswers": [
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "크기",
+                                    "answer": "일정해요",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                },
+                                {
+                                    "reviewSurveyQuestionId": null,
+                                    "question": "견고함",
+                                    "answer": "아주 견고해요",
+                                    "questionType": "MULTIPLE_CHOICE"
+                                }
+                            ],
+                            "attachments": [],
+                            "videoAttachments": [],
+                            "reviewerDisplayImage": {
+                                "displayImageOriginalPath": null,
+                                "displayImageThumbnailPath": null,
+                                "displayImageBlinded": false,
+                                "displayImagePrivate": false
+                            },
+                            "isAdventurerReview": false,
+                            "reviewerRank": null,
+                            "reviewerBadges": [],
+                            "previousImageReviewId": null,
+                            "nextImageReviewId": null,
+                            "createdAt": 1722980542000,
+                            "contentHighlightingDto": null,
+                            "titleHighlightingDto": null,
+                            "additionalReviewInfo": null,
+                            "vendorName": "판매자: 위드커뮤니케이션",
+                            "needMore": true
+                        }
+                    ]
+                },
+                "videoAvailable": true,
+                "reviewTotalCount": 1,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    }
+]

@@ -79,7 +79,7 @@
         },
         "almostSoldOut": null,
         "apiUrlMap": {},
-        "attributeTitle": "\uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8 \u00b7 1\uac1c",
+        "attributeTitle": "아이스민트+아이스민트+아이스민트 · 1개",
         "authenticity": null,
         "authors": null,
         "badgeMap": {},
@@ -117,7 +117,7 @@
         "invalid": true,
         "inventory": null,
         "itemId": 23814384081,
-        "itemName": "\uc800\uc2a4\ud2b8\ud3ec\uadf8 \ucf54\ud31d \ud504\ub85c 5\uc885 \ub300\uc6a9\ub7c9 8000\ud68c \uc77c\ud68c\uc6a9 \uc804\uc790\ub2f4\ubc30, \uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8+\uc544\uc774\uc2a4\ubbfc\ud2b8, 1\uac1c",
+        "itemName": "저스트포그 코팝 프로 5종 대용량 8000회 일회용 전자담배, 아이스민트+아이스민트+아이스민트, 1개",
         "limitNoticeVo": null,
         "linkedVendorItemInfo": null,
         "luxuryDiscountBenefit": null,
@@ -231,32 +231,5 @@
             },
             "rCookies": null
         }
-    },
-    {
-        "input_obj": {
-            "Category": "VAP",
-            "er": "KR",
-            "Website": "Coupang",
-            "URL": "https://www.coupang.com/vp/products/8374634683?itemId=22489583871&vendorItemId=90544265737&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=29&searchRank=29"
-        },
-        "thomas_error": true
-    },
-    {
-        "input_obj": {
-            "Category": "VAP",
-            "er": "KR",
-            "Website": "Coupang",
-            "URL": "https://www.coupang.com/vp/products/8375880648?itemId=24201615058&vendorItemId=91038445471&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=30&searchRank=30"
-        },
-        "thomas_error": true
-    },
-    {
-        "input_obj": {
-            "Category": "VAP",
-            "er": "KR",
-            "Website": "Coupang",
-            "URL": "https://www.coupang.com/vp/products/8425282860?itemId=24374689581&vendorItemId=91009829351&q=ko+pop&itemsCount=36&searchId=3d9235c4d103479b86986c639da471d8&rank=31&searchRank=31"
-        },
-        "thomas_error": true
     }
 ]

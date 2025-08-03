@@ -295,7 +295,7 @@
             "addToCartUrl": "coupang://addCart?itemId=21901692191&productId=8374835481&vendorItemId=88949713876&sourceType=offerDetail&price=30000&sdpVisitKey=&isLoser=false&offerStatus=NEW",
             "shippingConsolidationUrl": null
         },
-        "attributeTitle": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00b7 1\uac1c",
+        "attributeTitle": "나노 프로 문 블루 · 1개",
         "authenticity": null,
         "authors": null,
         "badgeMap": {
@@ -346,7 +346,7 @@
         "invalid": false,
         "inventory": null,
         "itemId": 21901692191,
-        "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+        "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
         "limitNoticeVo": null,
         "linkedVendorItemInfo": null,
         "luxuryDiscountBenefit": null,
@@ -468,14 +468,14 @@
                                             "amount": 30000,
                                             "currency": "KRW"
                                         },
-                                        "unit": "\uac1c"
+                                        "unit": "개"
                                     },
                                     "unitPriceAmount": 30000,
                                     "unitPriceAmountWithDeliveryFee": 30000,
-                                    "unitPriceDescription": "(1\uac1c\ub2f9 30,000\uc6d0)",
-                                    "unitPriceDescriptionWithoutParenthesis": "1\uac1c\ub2f9 30,000\uc6d0",
-                                    "unitPriceIncludeDeliveryFeeDescription": "(1\uac1c\ub2f9 30,000\uc6d0)",
-                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1\uac1c\ub2f9 30,000\uc6d0",
+                                    "unitPriceDescription": "(1개당 30,000원)",
+                                    "unitPriceDescriptionWithoutParenthesis": "1개당 30,000원",
+                                    "unitPriceIncludeDeliveryFeeDescription": "(1개당 30,000원)",
+                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1개당 30,000원",
                                     "unitPriceWithDeliveryFee": {
                                         "amount": 1,
                                         "extendedPrice": {
@@ -485,7 +485,7 @@
                                             },
                                             "offset": 0
                                         },
-                                        "unit": "\uac1c"
+                                        "unit": "개"
                                     },
                                     "valid": true
                                 },
@@ -501,9 +501,9 @@
                                 "realType": "SALES",
                                 "unitPriceAmount": 30000,
                                 "unitPriceAmountWithDeliveryFee": 30000,
-                                "unitPriceDescription": "(1\uac1c\ub2f9 30,000\uc6d0)",
-                                "unitPriceDescriptionWithoutParenthesis": "1\uac1c\ub2f9 30,000\uc6d0",
-                                "unitPriceIncludeDeliveryFeeDescription": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                "unitPriceDescription": "(1개당 30,000원)",
+                                "unitPriceDescriptionWithoutParenthesis": "1개당 30,000원",
+                                "unitPriceIncludeDeliveryFeeDescription": "(1개당 30,000원)"
                             },
                             "finalPriceDiscountRate": 42,
                             "nonWowMemberPrice": {
@@ -518,7 +518,7 @@
                                 "price": 52000,
                                 "priceWithDeliveryFee": 52000,
                                 "realType": "ORIGINAL",
-                                "unitPriceDescription": "(1\uac1c\ub2f9 52,000\uc6d0)"
+                                "unitPriceDescription": "(1개당 52,000원)"
                             },
                             "wowMemberPrice": {
                                 "price": 30000,
@@ -529,7 +529,7 @@
                         "normalCouponDiscount": false,
                         "normalInstantDiscount": false,
                         "priceLogData": {
-                            "unitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)",
+                            "unitPrice": "(1개당 30,000원)",
                             "discountRate": "42.0",
                             "underThresholdCouponSavingAmount": "null",
                             "targetedCouponSavingAmount": "null",
@@ -551,10 +551,10 @@
                         },
                         "pricePolicies": [
                             {
-                                "currency": "\uc6d0",
-                                "description": "\ucfe0\ud321 \ud310\ub9e4\ub97c \uc704\ud55c \ud560\uc778 \uc801\uc6a9 \uc774\uc804\uc758 \uac00\uaca9(\uc5c5\uccb4\uac00 \ucfe0\ud321\uc5d0 \uc81c\uacf5\ud55c \ud76c\ub9dd\uc18c\ub9e4\uac00\uaca9 \ub610\ub294 \uacf5\uc2dd\ud310\ub9e4\ucc98 \ud310\ub9e4\uac00 \ub4f1. \ub3c4\uc11c\uc815\uac00\uc81c \ub300\uc0c1 \ub3c4\uc11c\uc778 \uacbd\uc6b0, \ub3c4\uc11c \uc815\uac00)\uc785\ub2c8\ub2e4.",
+                                "currency": "원",
+                                "description": "쿠팡 판매를 위한 할인 적용 이전의 가격(업체가 쿠팡에 제공한 희망소매가격 또는 공식판매처 판매가 등. 도서정가제 대상 도서인 경우, 도서 정가)입니다.",
                                 "discountRate": 42,
-                                "formattedPrice": "52,000\uc6d0",
+                                "formattedPrice": "52,000원",
                                 "price": "52,000",
                                 "priceWithDeliveryFee": "52,000",
                                 "type": "ORIGINAL"
@@ -568,7 +568,7 @@
                         "wowInstantDiscount": false
                     },
                     {
-                        "attributeBasedTitle": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                        "attributeBasedTitle": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                         "logging": {
                             "alwaysSentLiveLog": false,
                             "bypass": {
@@ -593,7 +593,7 @@
                                 ]
                             }
                         },
-                        "title": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30",
+                        "title": "로스트베이프 팍스 나노 프로 전자담배",
                         "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
                     },
                     {
@@ -610,16 +610,16 @@
                             {
                                 "attributeId": "2439_7652",
                                 "style": "HEADER_ONLY",
-                                "title": "\uc0c9\uc0c1 \u00d7 \uc218\ub7c9: ",
-                                "valueName": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c"
+                                "title": "색상 × 수량: ",
+                                "valueName": "나노 프로 문 블루 × 1개"
                             }
                         ],
                         "viewType": "PRODUCT_OPTION_TABLE_TAB_SELECTOR"
                     },
                     {
                         "data": {
-                            "description": "\ubc30\uc1a1\ube44 \ud3ec\ud568",
-                            "title": "\ub354 \ub9ce\uc740 \uc635\uc158 \ubcf4\uae30"
+                            "description": "배송비 포함",
+                            "title": "더 많은 옵션 보기"
                         },
                         "viewType": "PRODUCT_OPTION_TABLE_TOGGLE_HEADER"
                     },
@@ -644,13 +644,13 @@
                                         "vendorItemId": 88949713876,
                                         "categoryId": "5069",
                                         "optionTableStyle": "sdp_standard",
-                                        "attributes": "\uc0c9\uc0c1 \u00d7 \uc218\ub7c9",
+                                        "attributes": "색상 × 수량",
                                         "isSeeAll": true,
                                         "isImage": true,
                                         "selectedAttribute": "",
                                         "listVendorItemId": "option1:88949713922,option2:88949713876,option3:92143148077,option4:92143148063",
                                         "listVendorItemPrice": "option1:30000,option2:30000,option3:30000,option4:30000",
-                                        "listAttr": "option1:\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c,option2:\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c,option3:\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c,option4:\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                        "listAttr": "option1:나노 프로 다즐링 퍼플 × 1개,option2:나노 프로 문 블루 × 1개,option3:나노 프로 블랙 베이지 × 1개,option4:나노 프로 실버 카본피버 × 1개",
                                         "listDeliveryType": "option1:ROCKET_MERCHANT_V3,option2:ROCKET_MERCHANT_V3,option3:ROCKET_MERCHANT_V3,option4:ROCKET_MERCHANT_V3",
                                         "listUnitPrice": "option1:30000,option2:30000,option3:30000,option4:30000",
                                         "listMin": "option1:true,option2:false,option3:false,option4:false",
@@ -699,14 +699,14 @@
                                 "defaultShow": true,
                                 "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
                                 "deliveryType": "ROCKET_MERCHANT",
-                                "finalPrice": "30,000\uc6d0",
-                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
-                                "finalUnitPriceLabel": "(\ucd5c\uc800 \ub2e8\uc704\uac00)",
+                                "finalPrice": "30,000원",
+                                "finalUnitPrice": "1개당 30,000원",
+                                "finalUnitPriceLabel": "(최저 단위가)",
                                 "hoverImageUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
-                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c",
+                                "hoverSelectionText": "나노 프로 다즐링 퍼플 × 1개",
                                 "imageUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
                                 "itemId": 21901692200,
-                                "optionItemName": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c",
+                                "optionItemName": "나노 프로 다즐링 퍼플 × 1개",
                                 "selected": false,
                                 "soldOut": false,
                                 "vendorItemId": 88949713922
@@ -746,13 +746,13 @@
                                 "defaultShow": true,
                                 "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
                                 "deliveryType": "ROCKET_MERCHANT",
-                                "finalPrice": "30,000\uc6d0",
-                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "finalPrice": "30,000원",
+                                "finalUnitPrice": "1개당 30,000원",
                                 "hoverImageUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
-                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c",
+                                "hoverSelectionText": "나노 프로 문 블루 × 1개",
                                 "imageUrl": "//thumbnail10.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
                                 "itemId": 21901692191,
-                                "optionItemName": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c",
+                                "optionItemName": "나노 프로 문 블루 × 1개",
                                 "selected": true,
                                 "soldOut": true,
                                 "vendorItemId": 88949713876
@@ -792,13 +792,13 @@
                                 "defaultShow": true,
                                 "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
                                 "deliveryType": "ROCKET_MERCHANT",
-                                "finalPrice": "30,000\uc6d0",
-                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "finalPrice": "30,000원",
+                                "finalUnitPrice": "1개당 30,000원",
                                 "hoverImageUrl": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
-                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c",
+                                "hoverSelectionText": "나노 프로 블랙 베이지 × 1개",
                                 "imageUrl": "//thumbnail9.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
                                 "itemId": 21901692193,
-                                "optionItemName": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c",
+                                "optionItemName": "나노 프로 블랙 베이지 × 1개",
                                 "selected": false,
                                 "soldOut": true,
                                 "vendorItemId": 92143148077
@@ -838,13 +838,13 @@
                                 "defaultShow": true,
                                 "deliveryBadgeUrl": "https://image8.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_small_v3_r3.png",
                                 "deliveryType": "ROCKET_MERCHANT",
-                                "finalPrice": "30,000\uc6d0",
-                                "finalUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                                "finalPrice": "30,000원",
+                                "finalUnitPrice": "1개당 30,000원",
                                 "hoverImageUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3e0e/fb2934a8b00767d3a6ac1e82d7c2ccdf80c8ccbc983f3f1d1cb21dec49ba.jpg",
-                                "hoverSelectionText": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                "hoverSelectionText": "나노 프로 실버 카본피버 × 1개",
                                 "imageUrl": "//thumbnail8.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/3e0e/fb2934a8b00767d3a6ac1e82d7c2ccdf80c8ccbc983f3f1d1cb21dec49ba.jpg",
                                 "itemId": 25144253183,
-                                "optionItemName": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                "optionItemName": "나노 프로 실버 카본피버 × 1개",
                                 "selected": false,
                                 "soldOut": true,
                                 "vendorItemId": 92143148063
@@ -870,7 +870,7 @@
                                                     "vendorItemId": 88949713876,
                                                     "categoryId": "5069",
                                                     "clickArea": "seeAll",
-                                                    "clickValue": "\ubaa8\ub4e0 \uc635\uc158 \ubcf4\uae30",
+                                                    "clickValue": "모든 옵션 보기",
                                                     "isImage": true,
                                                     "isToggleOn": true
                                                 },
@@ -880,7 +880,7 @@
                                     }
                                 }
                             },
-                            "buttonText": "\ubaa8\ub4e0 \uc635\uc158 \ubcf4\uae30"
+                            "buttonText": "모든 옵션 보기"
                         },
                         "style": "LONG_ATTR",
                         "viewType": "PRODUCT_OPTION_TABLE_LIST_VIEW"
@@ -907,7 +907,7 @@
                                                         "sdpVisitKey": "vg93aomnysbaczthmh",
                                                         "vendorItemId": 88949713922,
                                                         "searchId": "",
-                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                        "vendorItemIdAttributes": "나노 프로 다즐링 퍼플_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                     },
                                                     "version": "6"
                                                 }
@@ -926,7 +926,7 @@
                                                     "originalItemId": 21901692191,
                                                     "originalVendorItemId": 88949713876,
                                                     "searchId": "",
-                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    "vendorItemIdAttributes": "나노 프로 다즐링 퍼플_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                 },
                                                 "version": "9"
                                             }
@@ -940,7 +940,7 @@
                                         "width": 79
                                     },
                                     "deliveryDateColor": "GREEN",
-                                    "deliveryDateDescriptions": "\ub0b4\uc77c(\uc77c) 8/3 \ub3c4\ucc29 \ubcf4\uc7a5"
+                                    "deliveryDateDescriptions": "내일(일) 8/3 도착 보장"
                                 },
                                 "imageUrl": "//thumbnail7.coupangcdn.com/thumbnails/remote/164x164ex/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
                                 "itemBasicInfo": {
@@ -953,13 +953,13 @@
                                             "width": 72
                                         }
                                     },
-                                    "itemName": "\ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c \u00d7 1\uac1c",
+                                    "itemName": "나노 프로 다즐링 퍼플 × 1개",
                                     "vendorItemId": 88949713922
                                 },
                                 "priceInfo": {
-                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
-                                    "finalPrice": "30,000\uc6d0",
-                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                    "finalDeliveryDescription": "무료배송",
+                                    "finalPrice": "30,000원",
+                                    "finalUnitPrice": "(1개당 30,000원)"
                                 },
                                 "stockInfo": {
                                     "logistics": true,
@@ -987,7 +987,7 @@
                                                         "sdpVisitKey": "vg93aomnysbaczthmh",
                                                         "vendorItemId": 88949713876,
                                                         "searchId": "",
-                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                        "vendorItemIdAttributes": "나노 프로 문 블루_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                     },
                                                     "version": "6"
                                                 }
@@ -1006,7 +1006,7 @@
                                                     "originalItemId": 21901692191,
                                                     "originalVendorItemId": 88949713876,
                                                     "searchId": "",
-                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    "vendorItemIdAttributes": "나노 프로 문 블루_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                 },
                                                 "version": "9"
                                             }
@@ -1032,25 +1032,25 @@
                                             "width": 72
                                         }
                                     },
-                                    "itemName": "\ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8 \u00d7 1\uac1c",
+                                    "itemName": "나노 프로 문 블루 × 1개",
                                     "vendorItemId": 88949713876
                                 },
                                 "priceInfo": {
-                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
-                                    "finalPrice": "30,000\uc6d0",
-                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                    "finalDeliveryDescription": "무료배송",
+                                    "finalPrice": "30,000원",
+                                    "finalUnitPrice": "(1개당 30,000원)"
                                 },
                                 "selected": true,
                                 "stockInfo": {
                                     "logistics": true,
                                     "restockAlert": {
                                         "active": true,
-                                        "activeLabel": "\uc7ac\uc785\uace0 \uc54c\ub9bc\uc2e0\uccad",
-                                        "inactiveLabel": "\uc54c\ub9bc\uc2e0\uccad \uc644\ub8cc"
+                                        "activeLabel": "재입고 알림신청",
+                                        "inactiveLabel": "알림신청 완료"
                                     },
                                     "restockNotification": false,
                                     "soldOut": true,
-                                    "stockStatus": "\uc77c\uc2dc\ud488\uc808"
+                                    "stockStatus": "일시품절"
                                 }
                             },
                             {
@@ -1073,7 +1073,7 @@
                                                         "sdpVisitKey": "vg93aomnysbaczthmh",
                                                         "vendorItemId": 92143148077,
                                                         "searchId": "",
-                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                        "vendorItemIdAttributes": "나노 프로 블랙 베이지_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                     },
                                                     "version": "6"
                                                 }
@@ -1092,7 +1092,7 @@
                                                     "originalItemId": 21901692191,
                                                     "originalVendorItemId": 88949713876,
                                                     "searchId": "",
-                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    "vendorItemIdAttributes": "나노 프로 블랙 베이지_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                 },
                                                 "version": "9"
                                             }
@@ -1118,24 +1118,24 @@
                                             "width": 72
                                         }
                                     },
-                                    "itemName": "\ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0 \u00d7 1\uac1c",
+                                    "itemName": "나노 프로 블랙 베이지 × 1개",
                                     "vendorItemId": 92143148077
                                 },
                                 "priceInfo": {
-                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
-                                    "finalPrice": "30,000\uc6d0",
-                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                    "finalDeliveryDescription": "무료배송",
+                                    "finalPrice": "30,000원",
+                                    "finalUnitPrice": "(1개당 30,000원)"
                                 },
                                 "stockInfo": {
                                     "logistics": true,
                                     "restockAlert": {
                                         "active": true,
-                                        "activeLabel": "\uc7ac\uc785\uace0 \uc54c\ub9bc\uc2e0\uccad",
-                                        "inactiveLabel": "\uc54c\ub9bc\uc2e0\uccad \uc644\ub8cc"
+                                        "activeLabel": "재입고 알림신청",
+                                        "inactiveLabel": "알림신청 완료"
                                     },
                                     "restockNotification": false,
                                     "soldOut": true,
-                                    "stockStatus": "\uc77c\uc2dc\ud488\uc808"
+                                    "stockStatus": "일시품절"
                                 }
                             },
                             {
@@ -1158,7 +1158,7 @@
                                                         "sdpVisitKey": "vg93aomnysbaczthmh",
                                                         "vendorItemId": 92143148063,
                                                         "searchId": "",
-                                                        "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                        "vendorItemIdAttributes": "나노 프로 실버 카본피버_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                     },
                                                     "version": "6"
                                                 }
@@ -1177,7 +1177,7 @@
                                                     "originalItemId": 21901692191,
                                                     "originalVendorItemId": 88949713876,
                                                     "searchId": "",
-                                                    "vendorItemIdAttributes": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84_1\uac1c_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
+                                                    "vendorItemIdAttributes": "나노 프로 실버 카본피버_1개_unitPrice:30000_vendorItemPrice:30000_deliveryType:ROCKET_MERCHANT_deliveryFee:0"
                                                 },
                                                 "version": "9"
                                             }
@@ -1203,28 +1203,28 @@
                                             "width": 72
                                         }
                                     },
-                                    "itemName": "\ub098\ub178 \ud504\ub85c \uc2e4\ubc84 \uce74\ubcf8\ud53c\ubc84 \u00d7 1\uac1c",
+                                    "itemName": "나노 프로 실버 카본피버 × 1개",
                                     "vendorItemId": 92143148063
                                 },
                                 "priceInfo": {
-                                    "finalDeliveryDescription": "\ubb34\ub8cc\ubc30\uc1a1",
-                                    "finalPrice": "30,000\uc6d0",
-                                    "finalUnitPrice": "(1\uac1c\ub2f9 30,000\uc6d0)"
+                                    "finalDeliveryDescription": "무료배송",
+                                    "finalPrice": "30,000원",
+                                    "finalUnitPrice": "(1개당 30,000원)"
                                 },
                                 "stockInfo": {
                                     "logistics": true,
                                     "restockAlert": {
                                         "active": true,
-                                        "activeLabel": "\uc7ac\uc785\uace0 \uc54c\ub9bc\uc2e0\uccad",
-                                        "inactiveLabel": "\uc54c\ub9bc\uc2e0\uccad \uc644\ub8cc"
+                                        "activeLabel": "재입고 알림신청",
+                                        "inactiveLabel": "알림신청 완료"
                                     },
                                     "restockNotification": false,
                                     "soldOut": true,
-                                    "stockStatus": "\uc77c\uc2dc\ud488\uc808"
+                                    "stockStatus": "일시품절"
                                 }
                             }
                         ],
-                        "titleName": "\uc0c9\uc0c1 \u00d7 \uc218\ub7c9",
+                        "titleName": "색상 × 수량",
                         "viewType": "PRODUCT_DETAIL_OPTION_LIST"
                     },
                     {
@@ -1240,7 +1240,7 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     }
                                 ]
                             },
@@ -1255,14 +1255,14 @@
                                         "bold": true,
                                         "color": "#212B36",
                                         "size": 14,
-                                        "text": "\ubb34\ub8cc\ubc30\uc1a1"
+                                        "text": "무료배송"
                                     }
                                 ]
                             }
                         },
                         "itemInfo": {
                             "itemId": 21901692191,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배",
                             "productId": 8374835481,
                             "thumbnailImage": {
                                 "height": 60,
@@ -1274,13 +1274,13 @@
                         "priceInfo": {
                             "finalPrice": {
                                 "applicable": true,
-                                "displayPrice": "30,000\uc6d0",
+                                "displayPrice": "30,000원",
                                 "price": 30000
                             },
                             "finalPriceDiscountRate": 42,
                             "originalPrice": {
                                 "applicable": true,
-                                "displayPrice": "52,000\uc6d0",
+                                "displayPrice": "52,000원",
                                 "price": 52000
                             }
                         },
@@ -1295,7 +1295,7 @@
                                     "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_symbol_large_v3.png",
                                     "width": 20
                                 },
-                                "deliveryBadgeLabel": "\ud310\ub9e4\uc790\ub85c\ucf13",
+                                "deliveryBadgeLabel": "판매자로켓",
                                 "deliveryBadgeV2": {
                                     "height": 16,
                                     "url": "https://image10.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_merchant_medium_v3_r3.png",
@@ -1312,14 +1312,14 @@
                     "couponDiscountAmount": null,
                     "couponPrice": "30,000",
                     "couponPriceTitle": "",
-                    "couponUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                    "couponUnitPrice": "1개당 30,000원",
                     "description": null,
                     "discountRate": "42",
                     "finalPrice": "30,000",
                     "gppuPricePolicy": [
                         {
-                            "description": "\uc5c5\uccb4\uc758 \uad8c\uc7a5\uc18c\ube44\uc790\uac00 \ub610\ub294 \uacf5\uc2dd \ud310\ub9e4\ucc98 \ud310\ub9e4\uac00 \ub610\ub294 \ub3c4\uc11c \uc815\uac00(\ub3c4\uc11c \uc815\uac00\uc81c \ub300\uc0c1\uc778 \uacbd\uc6b0)\uc785\ub2c8\ub2e4. \ud574\ub2f9 \uac00\uaca9\uc774 \uc5c6\ub294 \uacbd\uc6b0 90\uc77c \ub0b4 \ucfe0\ud321\uc5d0\uc11c \ud310\ub9e4\ub41c \uac00\uaca9 \uc911 \uac00\uc7a5 \ub192\uc740 \uac00\uaca9\uc744 \ud45c\uc2dc\ud569\ub2c8\ub2e4.",
-                            "priceInfo": "<span class='discount-rate'>42%</span><span class='origin-price'>52,000\uc6d0</span>"
+                            "description": "업체의 권장소비자가 또는 공식 판매처 판매가 또는 도서 정가(도서 정가제 대상인 경우)입니다. 해당 가격이 없는 경우 90일 내 쿠팡에서 판매된 가격 중 가장 높은 가격을 표시합니다.",
+                            "priceInfo": "<span class='discount-rate'>42%</span><span class='origin-price'>52,000원</span>"
                         }
                     ],
                     "hasNormalCouponDiscount": false,
@@ -1355,7 +1355,7 @@
                     "priceAmount": null,
                     "salePrice": "30,000",
                     "salePriceTitle": "",
-                    "saleUnitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                    "saleUnitPrice": "1개당 30,000원",
                     "title": null,
                     "type": null,
                     "unitDiscountRate": null,
@@ -1397,14 +1397,14 @@
                         "salePrice": null,
                         "salePriceTitle": null,
                         "saleUnitPrice": null,
-                        "title": "\ucfe0\ud321\ud310\ub9e4\uac00",
+                        "title": "쿠팡판매가",
                         "type": "SALES",
                         "unitDiscountRate": null,
-                        "unitPrice": "1\uac1c\ub2f9 30,000\uc6d0",
+                        "unitPrice": "1개당 30,000원",
                         "wowCouponDiscount": false
                     }
                 ],
-                "priceUnit": "\uc6d0",
+                "priceUnit": "원",
                 "quantity": 1,
                 "quantityLimitationVO": null,
                 "selectedIndex": 0,
@@ -1413,7 +1413,7 @@
                     "dividerIcon": null,
                     "extremeMessage": null,
                     "freeShippingConditionMessage": null,
-                    "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                    "message": "<em class='prod-txt-bold'>무료배송</em>",
                     "popupFreeShippingConditionMessage": null,
                     "returnFeeMessage": null,
                     "shippingFee": "0",
@@ -1427,7 +1427,7 @@
                         "dividerIcon": null,
                         "extremeMessage": null,
                         "freeShippingConditionMessage": null,
-                        "message": "<em class='prod-txt-bold'>\ubb34\ub8cc\ubc30\uc1a1</em>",
+                        "message": "<em class='prod-txt-bold'>무료배송</em>",
                         "popupFreeShippingConditionMessage": null,
                         "returnFeeMessage": null,
                         "shippingFee": null,
@@ -1452,9 +1452,9 @@
         "sellingInfoVo": {
             "countryOfOrigin": null,
             "sellingInfo": [
-                "\uac1c\ub2f9 \uc6a9\ub7c9: 0.03L",
-                "\uc0c9\uc0c1\uacc4\uc5f4: \ube14\ub8e8\uacc4\uc5f4",
-                "\ucfe0\ud321\uc0c1\ud488\ubc88\ud638: 8374835481 - 21901692191"
+                "개당 용량: 0.03L",
+                "색상계열: 블루계열",
+                "쿠팡상품번호: 8374835481 - 21901692191"
             ]
         },
         "shippingConsolidationLink": null,
@@ -1561,38 +1561,38 @@
                             "helpfulFalseCount": 2,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                             "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
                             "title": "",
-                            "content": "\uc0ac\uc774\uc988\uac00 \uc77c\ud68c\uc6a9 \ud130\ubcf4 \ub77c\uc774\ud0c0\ubcf4\ub2e4 \uc0b4\uc9dd \ud07d\ub2c8\ub2e4. \uc791\uace0 \uac00\ubcbc\uc6cc\uc11c \ud734\ub300\ud558\uae30 \ub9e4\uc6b0 \ud3b8\ub9ac\ud569\ub2c8\ub2e4.\n\ubc30\ud130\ub9ac\ub294 \ud558\ub8e8\uc885\uc77c \uc785\uc5d0 \ubb3c\uace0 \uc788\uc9c0 \uc54a\ub294 \uc774\uc0c1 \uac1c\uc778\uc801\uc73c\ub85c \ud558\ub8e8~\uc774\ud2c0 \ubc18\uc815\ub3c4\uac00 \uc801\uc808\ud558\ub2e4\uace0 \ud310\ub2e8 \ub40d\ub2c8\ub2e4.\n\ub514\uc790\uc778\uacfc \uc0c9\uc0c1\uc774 \ubaa8\ub450 \ub9c8\uc74c\uc5d0 \ub4e4\uace0 \uc544\uc8fc \uc608\uc058\uac8c \uc0dd\uacbc\uc2b5\ub2c8\ub2e4.",
+                            "content": "사이즈가 일회용 터보 라이타보다 살짝 큽니다. 작고 가벼워서 휴대하기 매우 편리합니다.\n배터리는 하루종일 입에 물고 있지 않는 이상 개인적으로 하루~이틀 반정도가 적절하다고 판단 됍니다.\n디자인과 색상이 모두 마음에 들고 아주 예쁘게 생겼습니다.",
                             "reviewAt": 1713163269000,
                             "member": {
                                 "type": "USER",
                                 "id": "43410244",
-                                "name": "\uc774*\ube48",
+                                "name": "이*빈",
                                 "email": "gan******@hanmail.net"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uc774*\ube48",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "이*빈",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ub514\uc790\uc778",
-                                    "answer": "\uc544\uc8fc \ub9c8\uc74c\uc5d0 \ub4e4\uc5b4\uc694",
+                                    "question": "디자인",
+                                    "answer": "아주 마음에 들어요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ubb34\uac8c",
-                                    "answer": "\uac00\ubcbc\uc6cc\uc694",
+                                    "question": "무게",
+                                    "answer": "가벼워요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\uacac\uace0\ud568",
-                                    "answer": "\uc544\uc8fc \uacac\uace0\ud574\uc694",
+                                    "question": "견고함",
+                                    "answer": "아주 견고해요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 }
                             ],
@@ -1613,7 +1613,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": true
                         },
                         {
@@ -1628,32 +1628,32 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
-                            "title": "\uc0ac\uc9c0\ub9c8\uc694",
-                            "content": "\uac4d \uc548\uc88b\uc544\uc694 \ud30c\uc774\uc5b4\ubc84\ud2bc 5\ubc88 \ub20c\ub7ec\ub3c4 \ucf1c\uc9c0\uc9c0\ub3c4\uc54a\uace0 \ub514\uc2a4\ud50c\ub808\uc774\ubd80\ubd84 \ucc0d\ud600\uc788\uace0 \ucda9\uc804\uae30 \uaf42\uc544\ub3c4 \ud654\uba74 \ub728\uc9c0\ub3c4\uc54a\uc74c",
+                            "title": "사지마요",
+                            "content": "걍 안좋아요 파이어버튼 5번 눌러도 켜지지도않고 디스플레이부분 찍혀있고 충전기 꽂아도 화면 뜨지도않음",
                             "reviewAt": 1713013472000,
                             "member": {
                                 "type": "USER",
                                 "id": "140991434",
-                                "name": "\uc784*\uc6d0",
+                                "name": "임*원",
                                 "email": "gwa*******@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uc784*\uc6d0",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "임*원",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ub514\uc790\uc778",
-                                    "answer": "\ubcc4\ub85c\uc608\uc694",
+                                    "question": "디자인",
+                                    "answer": "별로예요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\uacac\uace0\ud568",
-                                    "answer": "\uc0dd\uac01\ubcf4\ub2e4 \ubd80\uc2e4\ud574\uc694",
+                                    "question": "견고함",
+                                    "answer": "생각보다 부실해요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 }
                             ],
@@ -1674,7 +1674,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": true
                         },
                         {
@@ -1689,38 +1689,38 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
-                            "title": "\uc804\ub2f4 \uae30\uae30 ",
-                            "content": "\ube60\ub978\ubc30\uc1a1 \uac10\uc0ac\ud569\ub2c8\ub2e4  \uc81c\ud488\uc774 \uac00\ubccd\uace0 \uc88b\uc73c\ub124\uc694 \uac00\uaca9\ub300\ube44. \ub118\uc88b\uc544\uc694 \ubc30\uc1a1\uae30\uc0ac\ub2d8 \uc218\uace0\ub9ce\uc73c\uc168\uc2b5\ub2c8\ub2e4 \uac10\uc0ac\ud569\ub2c8\ub2e4",
+                            "title": "전담 기기 ",
+                            "content": "빠른배송 감사합니다  제품이 가볍고 좋으네요 가격대비. 넘좋아요 배송기사님 수고많으셨습니다 감사합니다",
                             "reviewAt": 1712228656000,
                             "member": {
                                 "type": "USER",
                                 "id": "151792452",
-                                "name": "\uae40*\ud760",
+                                "name": "김*흠",
                                 "email": "999****@navr.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uae40*\ud760",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "김*흠",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ub514\uc790\uc778",
-                                    "answer": "\uc544\uc8fc \ub9c8\uc74c\uc5d0 \ub4e4\uc5b4\uc694",
+                                    "question": "디자인",
+                                    "answer": "아주 마음에 들어요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ubb34\uac8c",
-                                    "answer": "\uac00\ubcbc\uc6cc\uc694",
+                                    "question": "무게",
+                                    "answer": "가벼워요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\uacac\uace0\ud568",
-                                    "answer": "\uc544\uc8fc \uacac\uace0\ud574\uc694",
+                                    "question": "견고함",
+                                    "answer": "아주 견고해요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 }
                             ],
@@ -1741,7 +1741,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": true
                         },
                         {
@@ -1756,7 +1756,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                             "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
                             "title": "",
                             "content": "",
@@ -1764,11 +1764,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "17045788",
-                                "name": "\uae40*\uc5b5",
+                                "name": "김*억",
                                 "email": "rla*******@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uae40*\uc5b5",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "김*억",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -1789,7 +1789,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -1804,7 +1804,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                             "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
                             "title": "",
                             "content": "",
@@ -1812,11 +1812,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "159861845",
-                                "name": "\uc774*\ud638",
+                                "name": "이*호",
                                 "email": "dio***************@gmail.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uc774*\ud638",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "이*호",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -1837,7 +1837,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -1852,7 +1852,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                             "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
                             "title": "",
                             "content": "",
@@ -1860,11 +1860,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "51165770",
-                                "name": "\uc190*\ub2ec",
+                                "name": "손*달",
                                 "email": "sdd****@hanmail.net"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uc190*\ub2ec",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "손*달",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -1885,7 +1885,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -1900,7 +1900,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
                             "title": "",
                             "content": "",
@@ -1908,30 +1908,30 @@
                             "member": {
                                 "type": "USER",
                                 "id": "158757634",
-                                "name": "\uac15*\ud601",
+                                "name": "강*혁",
                                 "email": "asw*****@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uac15*\ud601",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "강*혁",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ub514\uc790\uc778",
-                                    "answer": "\ubcf4\ud1b5\uc774\uc5d0\uc694",
+                                    "question": "디자인",
+                                    "answer": "보통이에요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ubb34\uac8c",
-                                    "answer": "\uac00\ubcbc\uc6cc\uc694",
+                                    "question": "무게",
+                                    "answer": "가벼워요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\uacac\uace0\ud568",
-                                    "answer": "\ubcf4\ud1b5\uc774\uc5d0\uc694",
+                                    "question": "견고함",
+                                    "answer": "보통이에요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 }
                             ],
@@ -1952,7 +1952,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": true
                         },
                         {
@@ -1967,7 +1967,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                             "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/d80d/182187d9d03042deadae47cf778808f29d7ea99c2f92481569325a5119cc.jpg",
                             "title": "",
                             "content": "",
@@ -1975,24 +1975,24 @@
                             "member": {
                                 "type": "USER",
                                 "id": "163491228",
-                                "name": "\uace0*\uc218",
+                                "name": "고*수",
                                 "email": "rhr****@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uace0*\uc218",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "고*수",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ub514\uc790\uc778",
-                                    "answer": "\ubcc4\ub85c\uc608\uc694",
+                                    "question": "디자인",
+                                    "answer": "별로예요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 },
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ubb34\uac8c",
-                                    "answer": "\ubcf4\ud1b5\uc774\uc5d0\uc694",
+                                    "question": "무게",
+                                    "answer": "보통이에요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 }
                             ],
@@ -2013,7 +2013,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": true
                         },
                         {
@@ -2028,7 +2028,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
                             "title": "",
                             "content": "",
@@ -2036,11 +2036,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "110497475",
-                                "name": "\uae40*\uc900",
+                                "name": "김*준",
                                 "email": "046*****@gmail.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uae40*\uc900",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "김*준",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -2061,7 +2061,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -2076,7 +2076,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ubb38 \ube14\ub8e8, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 문 블루, 1개",
                             "itemImagePath": "https://thumbnail10.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/fce3/911d43576bc576fd8ef77bf09a2665791646d6bd0a7bcca862ae550c7ac2.jpg",
                             "title": "",
                             "content": "",
@@ -2084,11 +2084,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "110346968",
-                                "name": "\uae40*\ud55c",
+                                "name": "김*한",
                                 "email": "sun*******@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uae40*\ud55c",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "김*한",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -2109,7 +2109,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -2124,7 +2124,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
                             "title": "",
                             "content": "",
@@ -2135,7 +2135,7 @@
                                 "name": "JIN*******",
                                 "email": "pop********@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayWriter": "쿠팡실구매자",
                             "displayName": "JIN*******",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
@@ -2157,7 +2157,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -2172,7 +2172,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
                             "title": "",
                             "content": "",
@@ -2180,11 +2180,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "151792452",
-                                "name": "\uae40*\ud760",
+                                "name": "김*흠",
                                 "email": "999****@navr.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uae40*\ud760",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "김*흠",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -2205,7 +2205,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -2220,7 +2220,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ube14\ub799 \ubca0\uc774\uc9c0, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 블랙 베이지, 1개",
                             "itemImagePath": "https://thumbnail9.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/54cb/1a3db2cdf7755fb7a87ec4112becf100e10c4c18ef7362ec063324ef989b.jpg",
                             "title": "",
                             "content": "",
@@ -2231,7 +2231,7 @@
                                 "name": "MAB *****",
                                 "email": "mab**********@gmail.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayWriter": "쿠팡실구매자",
                             "displayName": "MAB *****",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
@@ -2253,7 +2253,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         },
                         {
@@ -2268,7 +2268,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 다즐링 퍼플, 1개",
                             "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
                             "title": "",
                             "content": "",
@@ -2276,18 +2276,18 @@
                             "member": {
                                 "type": "USER",
                                 "id": "128658412",
-                                "name": "\uc815*\uc12d",
+                                "name": "정*섭",
                                 "email": "jms******@naver.com"
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\uc815*\uc12d",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "정*섭",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [
                                 {
                                     "reviewSurveyQuestionId": null,
-                                    "question": "\ub514\uc790\uc778",
-                                    "answer": "\uc544\uc8fc \ub9c8\uc74c\uc5d0 \ub4e4\uc5b4\uc694",
+                                    "question": "디자인",
+                                    "answer": "아주 마음에 들어요",
                                     "questionType": "MULTIPLE_CHOICE"
                                 }
                             ],
@@ -2308,7 +2308,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": true
                         },
                         {
@@ -2323,7 +2323,7 @@
                             "helpfulFalseCount": 0,
                             "userHelpfulExist": false,
                             "userHelpfulValue": false,
-                            "itemName": "\ub85c\uc2a4\ud2b8\ubca0\uc774\ud504 \ud30d\uc2a4 \ub098\ub178 \ud504\ub85c \uc804\uc790\ub2f4\ubc30, \ub098\ub178 \ud504\ub85c \ub2e4\uc990\ub9c1 \ud37c\ud50c, 1\uac1c",
+                            "itemName": "로스트베이프 팍스 나노 프로 전자담배, 나노 프로 다즐링 퍼플, 1개",
                             "itemImagePath": "https://thumbnail7.coupangcdn.com/thumbnails/remote/640x640/image/vendor_inventory/7339/e886108804fd857cb416329ba9209e2686ff4a30bb095137ac135c0faedb.jpg",
                             "title": "",
                             "content": "",
@@ -2331,11 +2331,11 @@
                             "member": {
                                 "type": "USER",
                                 "id": "-659289425",
-                                "name": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                                "name": "쿠팡실구매자",
                                 "email": ""
                             },
-                            "displayWriter": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
-                            "displayName": "\ucfe0\ud321\uc2e4\uad6c\ub9e4\uc790",
+                            "displayWriter": "쿠팡실구매자",
+                            "displayName": "쿠팡실구매자",
                             "displayWriterIconUrls": [],
                             "isMyReview": false,
                             "reviewSurveyAnswers": [],
@@ -2356,7 +2356,7 @@
                             "contentHighlightingDto": null,
                             "titleHighlightingDto": null,
                             "additionalReviewInfo": null,
-                            "vendorName": "\ud310\ub9e4\uc790: \uc8fc\uc2dd\ud68c\uc0ac \ud30d\uc2a4\ubca0\uc774\ud504",
+                            "vendorName": "판매자: 주식회사 팍스베이프",
                             "needMore": false
                         }
                     ]

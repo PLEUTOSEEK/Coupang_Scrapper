@@ -1,0 +1,882 @@
+[
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7463649546?itemId=19459761724&vendorItemId=86841316179&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=6e360be95078494e9d226382dbb1d09a&rank=30"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "officialBrandName": null,
+            "whiteBrandLogoUrl": null,
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": false,
+        "apiUrlMap": {
+            "addToCartUrl": "coupang://addCart?itemId=21979955819&productId=7665797791&vendorItemId=89027617943&sourceType=offerDetail&price=18000&sdpVisitKey=&isLoser=false&offerStatus=NEW",
+            "shippingConsolidationUrl": null
+        },
+        "attributeTitle": "1세트",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {
+            "USAGE_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            },
+            "OFFER_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            }
+        },
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": {
+            "optionDetails": null,
+            "options": [],
+            "viewType": null
+        },
+        "buyableQuantity": 0,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": [],
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2024/03/12/18/3/1ff9593a-0b4f-49d5-bc6b-05ca7fea5062.png",
+                "origin": "//image8.coupangcdn.com/image/retail/images/2024/03/12/18/3/1ff9593a-0b4f-49d5-bc6b-05ca7fea5062.png",
+                "preloadImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2024/03/12/18/3/1ff9593a-0b4f-49d5-bc6b-05ca7fea5062.png",
+                "thumbnailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/48x48ex/image/retail/images/2024/03/12/18/3/1ff9593a-0b4f-49d5-bc6b-05ca7fea5062.png"
+            }
+        ],
+        "invalid": false,
+        "inventory": null,
+        "itemId": 21979955819,
+        "itemName": "베이포레소 크로스 메쉬 팟 0.8옴 2ml x 4p 세트, 1세트",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": {
+            "eligibleAddress": true,
+            "loyaltyMember": false,
+            "loyaltyMemberExcludePseudoMember": false,
+            "memberName": null,
+            "onHoldMember": false,
+            "pseudoMember": false,
+            "redCarpetPromotionPopupInfoVo": null,
+            "withdraw": false,
+            "withdrawOrOnHold": false
+        },
+        "offerBanner": null,
+        "offerDescription": "",
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": [
+            {
+                "abFlags": {
+                    "applyExtremeProminenceFreeDeliveryMessages": "A",
+                    "jikgu1PWarrantyAB": "NOT_APPLICABLE"
+                },
+                "appliedCoupon": null,
+                "benefitDisplayType": null,
+                "bundleOption": {
+                    "optionDetails": null,
+                    "options": [],
+                    "viewType": null
+                },
+                "cashBackSummary": null,
+                "delivery": {
+                    "badgeUrl": "https://image10.coupangcdn.com/image/badges/rocket/rocket_logo.png",
+                    "company": null,
+                    "companyLabel": null,
+                    "countDownMessage": null,
+                    "countDownMillisecond": null,
+                    "delayMessage": null,
+                    "deliveryExtraInfo": [],
+                    "deliveryNotice": null,
+                    "deliveryReminderMessage": null,
+                    "descriptionBadge": null,
+                    "descriptionIcon": null,
+                    "descriptions": null,
+                    "extremeDescriptions": null,
+                    "hideQuestionMark": false,
+                    "logistics": true,
+                    "loyaltyButtonText": null,
+                    "rocketWowQuestionMark": false,
+                    "speedType": "",
+                    "title": null,
+                    "type": "ROCKET_DELIVERY"
+                },
+                "deliveryList": [
+                    {
+                        "badgeUrl": "https://image10.coupangcdn.com/image/badges/rocket/rocket_logo.png",
+                        "company": null,
+                        "companyLabel": null,
+                        "countDownMessage": null,
+                        "countDownMillisecond": null,
+                        "delayMessage": null,
+                        "deliveryExtraInfo": [],
+                        "deliveryNotice": null,
+                        "deliveryReminderMessage": null,
+                        "descriptionBadge": null,
+                        "descriptionIcon": null,
+                        "descriptions": null,
+                        "extremeDescriptions": null,
+                        "hideQuestionMark": false,
+                        "logistics": true,
+                        "loyaltyButtonText": null,
+                        "rocketWowQuestionMark": false,
+                        "speedType": "",
+                        "title": null,
+                        "type": "ROCKET_DELIVERY"
+                    }
+                ],
+                "freebieBenefit": null,
+                "freebieBenefitV2": null,
+                "moduleData": [
+                    {
+                        "abFlags": {
+                            "displayTwoPricesWow": "A",
+                            "sdpCartUpdateNewPmcPolicy": "false",
+                            "deliveryFeeToggleShow": "false"
+                        },
+                        "detailPriceBundle": {
+                            "finalPrice": {
+                                "bestPriceInfo": {
+                                    "currency": "KRW",
+                                    "discountRateValid": false,
+                                    "doubleElevenPromoted": false,
+                                    "firstPurchase": false,
+                                    "goldbox": false,
+                                    "hasEligibilityConditions": false,
+                                    "lightning": false,
+                                    "lightningOrGoldbox": false,
+                                    "memberPrice": false,
+                                    "notExpired": true,
+                                    "percentageDiscount": false,
+                                    "price": 18000,
+                                    "priceType": "FINAL_PRICE",
+                                    "priceWithDeliveryFee": 18000,
+                                    "unitCCIDuration": 1,
+                                    "unitPrice": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 18000,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "priceEx": {
+                                            "amount": 18000,
+                                            "currency": "KRW"
+                                        },
+                                        "unit": "개"
+                                    },
+                                    "unitPriceAmount": 18000,
+                                    "unitPriceAmountWithDeliveryFee": 18000,
+                                    "unitPriceDescription": "(1개당 18,000원)",
+                                    "unitPriceDescriptionWithoutParenthesis": "1개당 18,000원",
+                                    "unitPriceIncludeDeliveryFeeDescription": "(1개당 18,000원)",
+                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1개당 18,000원",
+                                    "unitPriceWithDeliveryFee": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 18000,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "unit": "개"
+                                    },
+                                    "valid": true
+                                },
+                                "displayType": "FINAL",
+                                "downloadCouponType": "NONE",
+                                "downloadDiscountAmount": 0,
+                                "instantDiscountAmount": 0,
+                                "instantDiscountType": "NONE",
+                                "memberPrice": false,
+                                "price": 18000,
+                                "priceWithDeliveryFee": 18000,
+                                "realType": "SALES",
+                                "unitPriceAmount": 18000,
+                                "unitPriceAmountWithDeliveryFee": 18000,
+                                "unitPriceDescription": "(1개당 18,000원)",
+                                "unitPriceDescriptionWithoutParenthesis": "1개당 18,000원",
+                                "unitPriceIncludeDeliveryFeeDescription": "(1개당 18,000원)"
+                            },
+                            "nonWowMemberPrice": {
+                                "price": 18000,
+                                "priceWithDeliveryFee": 18000
+                            },
+                            "wowMemberPrice": {
+                                "price": 18000,
+                                "priceWithDeliveryFee": 18000
+                            }
+                        },
+                        "logging": {},
+                        "normalCouponDiscount": false,
+                        "normalInstantDiscount": false,
+                        "priceLogData": {
+                            "unitPrice": "(1개당 18,000원)",
+                            "discountRate": "null",
+                            "underThresholdCouponSavingAmount": "null",
+                            "targetedCouponSavingAmount": "null",
+                            "instantDiscountSavingAmount": "null",
+                            "overThresholdCouponSavingAmount": "null",
+                            "salesPrice": 18000,
+                            "finalPrice": 18000,
+                            "underThresholdCouponThreshold": "null",
+                            "isBadDiscount": "noClearingPrice",
+                            "wowUnderThresholdCouponThreshold": "null",
+                            "anchorPrice": "null",
+                            "ccidEligibleSavingAmount": "null",
+                            "wowInstantDiscountSavingAmount": "null",
+                            "wowUnderThresholdCouponSavingAmount": "null",
+                            "wowCcidEligibleSavingAmount": "null",
+                            "myCcidDiscountSavingAmount": "null",
+                            "businessType": "1p",
+                            "wowOverThresholdCouponSavingAmount": "null"
+                        },
+                        "priceWithDeliveryFee": false,
+                        "targetedDiscount": false,
+                        "viewType": "PRODUCT_DETAIL_PRICE_INFO",
+                        "wowCouponDiscount": false,
+                        "wowDiscountAndNormalOtAndNonWowMember": false,
+                        "wowInstantDiscount": false
+                    },
+                    {
+                        "title": "베이포레소 크로스 메쉬 팟 0.8옴 2ml x 4p 세트",
+                        "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
+                    },
+                    {
+                        "viewType": "PRODUCT_WEB_DATA_AB_FLAGS"
+                    },
+                    {
+                        "deliveryInfo": {
+                            "nonMemberDelivery": {
+                                "deliveryBadge": {
+                                    "height": 16,
+                                    "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/xhdpi/logo_rocket_medium.png",
+                                    "width": 64
+                                },
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "무료배송"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": " "
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "(로켓배송 상품 19,800원 이상 구매 시 구매 가능)"
+                                    }
+                                ]
+                            },
+                            "wowMemberDelivery": {
+                                "deliveryBadge": {
+                                    "height": 16,
+                                    "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/xhdpi/logo_rocket_medium.png",
+                                    "width": 64
+                                },
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "무료배송"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": " "
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "(로켓배송 상품 19,800원 이상 구매 시 구매 가능)"
+                                    }
+                                ]
+                            }
+                        },
+                        "itemInfo": {
+                            "itemId": 21979955819,
+                            "itemName": "베이포레소 크로스 메쉬 팟 0.8옴 2ml x 4p 세트",
+                            "productId": 7665797791,
+                            "thumbnailImage": {
+                                "height": 60,
+                                "url": "https://image8.coupangcdn.com/image/retail/images/2024/03/12/18/3/1ff9593a-0b4f-49d5-bc6b-05ca7fea5062.png",
+                                "width": 60
+                            },
+                            "vendorItemId": 89027617943
+                        },
+                        "priceInfo": {
+                            "finalPrice": {
+                                "applicable": true,
+                                "displayPrice": "18,000원",
+                                "price": 18000
+                            }
+                        },
+                        "viewType": "PRODUCT_DETAIL_HANDLEBAR_BASE_INFO"
+                    },
+                    {
+                        "pddList": [
+                            {
+                                "deliveryBadge": {
+                                    "alpha": 0.5,
+                                    "height": 20,
+                                    "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/hdpi/logo_rocket_symbol_large.png",
+                                    "width": 20
+                                },
+                                "deliveryBadgeLabel": "로켓배송",
+                                "deliveryBadgeV2": {
+                                    "height": 16,
+                                    "url": "https://image6.coupangcdn.com/image/coupang/rds/logo/xhdpi/logo_rocket_medium.png",
+                                    "width": 64
+                                },
+                                "deliveryType": "ROCKET"
+                            }
+                        ],
+                        "viewType": "PRODUCT_DETAIL_DELIVERY_INFO"
+                    }
+                ],
+                "price": {
+                    "cashPromotionMessage": null,
+                    "couponDiscountAmount": null,
+                    "couponPrice": "18,000",
+                    "couponPriceTitle": "",
+                    "couponUnitPrice": "1개당 18,000원",
+                    "description": null,
+                    "discountRate": null,
+                    "finalPrice": "18,000",
+                    "gppuPricePolicy": null,
+                    "hasNormalCouponDiscount": false,
+                    "hasNormalInstantDiscount": false,
+                    "hasWowCouponDiscount": false,
+                    "hasWowInstantDiscount": false,
+                    "i18nCouponDiscountAmount": null,
+                    "i18nCouponPrice": {
+                        "amount": "18000",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "i18nOriginPrice": null,
+                    "i18nPriceAmount": null,
+                    "i18nSalePrice": {
+                        "amount": "18000",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "instantDiscount": false,
+                    "instantPriceType": null,
+                    "loyaltyButtonText": null,
+                    "loyaltyRegistrationUrl": null,
+                    "originPrice": null,
+                    "originalPriceDesc": "",
+                    "priceAmount": null,
+                    "salePrice": "18,000",
+                    "salePriceTitle": "",
+                    "saleUnitPrice": "1개당 18,000원",
+                    "title": null,
+                    "type": null,
+                    "unitDiscountRate": null,
+                    "unitPrice": null,
+                    "wowCouponDiscount": false
+                },
+                "priceList": [
+                    {
+                        "cashPromotionMessage": null,
+                        "couponDiscountAmount": null,
+                        "couponPrice": null,
+                        "couponPriceTitle": null,
+                        "couponUnitPrice": null,
+                        "description": null,
+                        "discountRate": null,
+                        "finalPrice": null,
+                        "gppuPricePolicy": null,
+                        "hasNormalCouponDiscount": false,
+                        "hasNormalInstantDiscount": false,
+                        "hasWowCouponDiscount": false,
+                        "hasWowInstantDiscount": false,
+                        "i18nCouponDiscountAmount": null,
+                        "i18nCouponPrice": null,
+                        "i18nOriginPrice": null,
+                        "i18nPriceAmount": {
+                            "amount": "18000",
+                            "currency": "KRW",
+                            "fractionDigits": 0,
+                            "rawAmount": null
+                        },
+                        "i18nSalePrice": null,
+                        "instantDiscount": null,
+                        "instantPriceType": null,
+                        "loyaltyButtonText": null,
+                        "loyaltyRegistrationUrl": null,
+                        "originPrice": null,
+                        "originalPriceDesc": null,
+                        "priceAmount": "18,000",
+                        "salePrice": null,
+                        "salePriceTitle": null,
+                        "saleUnitPrice": null,
+                        "title": "쿠팡판매가",
+                        "type": "SALES",
+                        "unitDiscountRate": null,
+                        "unitPrice": "1개당 18,000원",
+                        "wowCouponDiscount": false
+                    }
+                ],
+                "priceUnit": "원",
+                "quantity": 1,
+                "quantityLimitationVO": null,
+                "selectedIndex": 0,
+                "shipmentDisplayType": "NORMAL",
+                "shippingFee": {
+                    "dividerIcon": null,
+                    "extremeMessage": null,
+                    "freeShippingConditionMessage": null,
+                    "message": "무료배송(로켓배송 상품 19,800원 이상 구매 시)",
+                    "popupFreeShippingConditionMessage": null,
+                    "returnFeeMessage": null,
+                    "shippingFee": "2,500원",
+                    "shippingFeeIcon": null,
+                    "shippingFeeType": "ROCKET",
+                    "title": null,
+                    "titleIcon": null
+                },
+                "shippingFeeList": [
+                    {
+                        "dividerIcon": null,
+                        "extremeMessage": null,
+                        "freeShippingConditionMessage": null,
+                        "message": "<em class='prod-txt-bold'>무료배송</em><em class='prod-txt-black'> (로켓배송 상품 19,800원 이상 구매 시)</em>",
+                        "popupFreeShippingConditionMessage": null,
+                        "returnFeeMessage": null,
+                        "shippingFee": null,
+                        "shippingFeeIcon": null,
+                        "shippingFeeType": "ROCKET",
+                        "title": null,
+                        "titleIcon": null
+                    }
+                ],
+                "subscriptionDelivery": null,
+                "subscriptionDiscountRate": -1,
+                "subscriptionPrice": null,
+                "subscriptionPriceList": [],
+                "wowOnlyInstantDiscountRate": 0
+            }
+        ],
+        "restockNotification": false,
+        "retail": true,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": 3,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": {
+            "countryOfOrigin": null,
+            "sellingInfo": [
+                "쿠팡상품번호: 7665797791 - 21979955819"
+            ]
+        },
+        "shippingConsolidationLink": null,
+        "soldOut": true,
+        "stickBanners": [],
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": 89027617943,
+        "warrantyServiceVo": null,
+        "wishList": false,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7955687213?itemId=21979955819&vendorItemId=89027617943&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=6e360be95078494e9d226382dbb1d09a&rank=31"
+        },
+        "status": "normal",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 0,
+                    "ratingAverage": 0,
+                    "ratingSummaries": [
+                        {
+                            "id": 389162493,
+                            "productId": 7955687213,
+                            "rating": 5,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 394706974,
+                            "productId": 7955687213,
+                            "rating": 4,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 389726617,
+                            "productId": 7955687213,
+                            "rating": 3,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 389726616,
+                            "productId": 7955687213,
+                            "rating": 2,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 389726429,
+                            "productId": 7955687213,
+                            "rating": 1,
+                            "count": 0,
+                            "percentage": 0
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 0,
+                    "startPage": 1,
+                    "endPage": 0,
+                    "totalPage": 0,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [],
+                    "contents": []
+                },
+                "videoAvailable": true,
+                "reviewTotalCount": 0,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7523533325?itemId=19737577693&vendorItemId=86976655204&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=6e360be95078494e9d226382dbb1d09a&rank=32"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/5606744376?itemId=19274721197&vendorItemId=87430948370&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=6e360be95078494e9d226382dbb1d09a&rank=33"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/5601165445?itemId=20029726966&vendorItemId=87126283849&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=6e360be95078494e9d226382dbb1d09a&rank=34"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    }
+]

@@ -1,0 +1,1211 @@
+[
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": false,
+        "apiUrlMap": {
+            "addToCartUrl": "coupang://addCart?itemId=20353393233&productId=5608586798&vendorItemId=87430733460&sourceType=offerDetail&price=17900&sdpVisitKey=&isLoser=false&offerStatus=NEW",
+            "shippingConsolidationUrl": "/vp/products/5608586798/vendor-items/87430733460/shipping-consolidation-widget-v2?vendorId=A00178565&shippingPlaceId=3987397"
+        },
+        "attributeTitle": "1개",
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {
+            "USAGE_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            },
+            "OFFER_BADGE": {
+                "helpLink": "coupang://popupWebView?hidden=N&url=https%3A%2F%2Fm.coupang.com%2Fvm%2Fproducts%2Fused-status-description",
+                "iconUrl": null,
+                "showPopup": false,
+                "text": null,
+                "type": "TEXT"
+            }
+        },
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": {
+            "optionDetails": null,
+            "options": [],
+            "viewType": null
+        },
+        "buyableQuantity": 50,
+        "cashBackSummary": {
+            "basicCashBackList": [
+                {
+                    "amount": 179,
+                    "benefit": "쿠페이 머니 결제 시 1% 적립",
+                    "expired": false,
+                    "i18nAmount": {
+                        "amount": "179",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 179
+                    },
+                    "leftDays": null,
+                    "rate": "1",
+                    "type": "BASIC",
+                    "validity": "월 최대 1만원"
+                }
+            ],
+            "basicRocketPayCashAmt": 179,
+            "basicRocketPayRate": "1",
+            "cashBackTitle": "캐시적립 혜택",
+            "cashIconUrl": "https://image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+            "cashWidgetIconUrl": "https://image6.coupangcdn.com/image/badges/sdp/cashback/web/cash-icon@2x.png",
+            "clubMemberCashAmt": null,
+            "clubMemberRate": null,
+            "clubMemberRewardExpires": null,
+            "clubMemberRewardExpiryTime": null,
+            "clubMemberRewardLeftDays": null,
+            "couPayBankAmt": 358,
+            "couPayBankExpires": false,
+            "couPayBankLeftDays": 2035,
+            "couPayBankRate": "2",
+            "couPayMoneyAmt": 716,
+            "couPayMoneyExpires": false,
+            "couPayMoneyLeftDays": 2035,
+            "couPayMoneyRate": "4",
+            "extraCashBackList": [
+                {
+                    "amount": 358,
+                    "benefit": "[로켓와우 + 쿠페이 계좌이체] 결제 시 2% 적립",
+                    "expired": false,
+                    "i18nAmount": {
+                        "amount": "358",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 358
+                    },
+                    "leftDays": 2035,
+                    "rate": "2",
+                    "type": "COU_BANK",
+                    "validity": "이벤트 기간 30일, 최대 2만원"
+                },
+                {
+                    "amount": 716,
+                    "benefit": "[로켓와우 + 쿠페이 머니] 결제 시 4% 추가적립",
+                    "expired": false,
+                    "i18nAmount": {
+                        "amount": "716",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 716
+                    },
+                    "leftDays": 2035,
+                    "rate": "4",
+                    "type": "COU_MONEY",
+                    "validity": "이벤트 기간 30일, 최대 4만원"
+                }
+            ],
+            "finalCashBackAmt": 895,
+            "finalCashBackAmtIncludeRewardCashAmount": 895,
+            "giftRewardCashAmount": null,
+            "i18nBasicRocketPayCashAmt": {
+                "amount": "179",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 179
+            },
+            "i18nClubMemberCashAmt": null,
+            "i18nCouPayBankAmt": {
+                "amount": "358",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 358
+            },
+            "i18nCouPayMoneyAmt": {
+                "amount": "716",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 716
+            },
+            "i18nFinalCashBackAmt": {
+                "amount": "895",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 895
+            },
+            "i18nFinalCashBackAmtIncludeRewardCashAmount": {
+                "amount": "895",
+                "currency": "KRW",
+                "fractionDigits": 0,
+                "rawAmount": 895
+            },
+            "i18nRewardCashAmount": null,
+            "luxuryItem": false,
+            "popupType": "WITHEXTRA",
+            "rewardCashAmount": null,
+            "targetedPromotionBanner": null
+        },
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": [],
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": {
+            "digitPwdIcon": "https://image7.coupangcdn.com/image/coupang/common/payment/passcode_lock_color@4x.png",
+            "digitPwdText": "6자리 비밀번호 최초 1회 등록 시",
+            "easePaymentMessageForRegABTestOption": "B",
+            "easyPaymentText": "안전하게 간편 결제",
+            "list": [
+                {
+                    "icon": "https://image7.coupangcdn.com/image/coupang/common/payment/coupaymoney_color@4x.png",
+                    "text": "쿠페이머니"
+                },
+                {
+                    "icon": "https://image10.coupangcdn.com/image/coupang/common/payment/card_color@4x.png",
+                    "text": "카드"
+                },
+                {
+                    "icon": "https://image8.coupangcdn.com/image/coupang/common/payment/bankbook_color@4x.png",
+                    "text": "계좌이체"
+                }
+            ],
+            "title": "PC에서도 간편한 결제"
+        },
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": [],
+        "images": [
+            {
+                "detailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2884/ea303824c2947fbe95ad32ca32392005ed621a654bf7f3cc3059917ce688.jpg",
+                "origin": "//image9.coupangcdn.com/image/vendor_inventory/2884/ea303824c2947fbe95ad32ca32392005ed621a654bf7f3cc3059917ce688.jpg",
+                "preloadImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/2884/ea303824c2947fbe95ad32ca32392005ed621a654bf7f3cc3059917ce688.jpg",
+                "thumbnailImage": "//thumbnail9.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/2884/ea303824c2947fbe95ad32ca32392005ed621a654bf7f3cc3059917ce688.jpg"
+            },
+            {
+                "detailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/da10/fc828122c1c3225f3f2ea4f5ac9d449af2ea793ad9f57faf9f143a7e040e.jpg",
+                "origin": "//image8.coupangcdn.com/image/vendor_inventory/da10/fc828122c1c3225f3f2ea4f5ac9d449af2ea793ad9f57faf9f143a7e040e.jpg",
+                "preloadImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/da10/fc828122c1c3225f3f2ea4f5ac9d449af2ea793ad9f57faf9f143a7e040e.jpg",
+                "thumbnailImage": "//thumbnail8.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/da10/fc828122c1c3225f3f2ea4f5ac9d449af2ea793ad9f57faf9f143a7e040e.jpg"
+            },
+            {
+                "detailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b30b/7a8aab4d637c7c36953ef3de980a309175871572b78b70a61d9a86e8664d.jpg",
+                "origin": "//image10.coupangcdn.com/image/vendor_inventory/b30b/7a8aab4d637c7c36953ef3de980a309175871572b78b70a61d9a86e8664d.jpg",
+                "preloadImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b30b/7a8aab4d637c7c36953ef3de980a309175871572b78b70a61d9a86e8664d.jpg",
+                "thumbnailImage": "//thumbnail10.coupangcdn.com/thumbnails/remote/48x48ex/image/vendor_inventory/b30b/7a8aab4d637c7c36953ef3de980a309175871572b78b70a61d9a86e8664d.jpg"
+            }
+        ],
+        "invalid": false,
+        "inventory": null,
+        "itemId": 20353393233,
+        "itemName": "깨끗한 퀸베이퍼 / 닷모드 닷팟나노 아스파이어 페보 리필액상 VS 하카시그니처, 1개",
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": {
+            "eligibleAddress": true,
+            "loyaltyMember": false,
+            "loyaltyMemberExcludePseudoMember": false,
+            "memberName": null,
+            "onHoldMember": false,
+            "pseudoMember": false,
+            "redCarpetPromotionPopupInfoVo": null,
+            "withdraw": false,
+            "withdrawOrOnHold": false
+        },
+        "offerBanner": null,
+        "offerDescription": "",
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": [
+            {
+                "abFlags": {
+                    "applyExtremeProminenceFreeDeliveryMessages": "A",
+                    "jikgu1PWarrantyAB": "NOT_APPLICABLE",
+                    "ab54632": "B"
+                },
+                "appliedCoupon": null,
+                "benefitDisplayType": null,
+                "bundleOption": {
+                    "optionDetails": null,
+                    "options": [],
+                    "viewType": null
+                },
+                "cashBackSummary": {
+                    "basicCashBackList": [
+                        {
+                            "amount": 179,
+                            "benefit": "쿠페이 머니 결제 시 1% 적립",
+                            "expired": false,
+                            "i18nAmount": {
+                                "amount": "179",
+                                "currency": "KRW",
+                                "fractionDigits": 0,
+                                "rawAmount": 179
+                            },
+                            "leftDays": null,
+                            "rate": "1",
+                            "type": "BASIC",
+                            "validity": "월 최대 1만원"
+                        }
+                    ],
+                    "basicRocketPayCashAmt": 179,
+                    "basicRocketPayRate": "1",
+                    "cashBackTitle": "캐시적립 혜택",
+                    "cashIconUrl": "https://image6.coupangcdn.com/image/badges/cashback/web/list-cash-icon@2x.png",
+                    "cashWidgetIconUrl": "https://image6.coupangcdn.com/image/badges/sdp/cashback/web/cash-icon@2x.png",
+                    "clubMemberCashAmt": null,
+                    "clubMemberRate": null,
+                    "clubMemberRewardExpires": null,
+                    "clubMemberRewardExpiryTime": null,
+                    "clubMemberRewardLeftDays": null,
+                    "couPayBankAmt": 358,
+                    "couPayBankExpires": false,
+                    "couPayBankLeftDays": 2035,
+                    "couPayBankRate": "2",
+                    "couPayMoneyAmt": 716,
+                    "couPayMoneyExpires": false,
+                    "couPayMoneyLeftDays": 2035,
+                    "couPayMoneyRate": "4",
+                    "extraCashBackList": [
+                        {
+                            "amount": 358,
+                            "benefit": "[로켓와우 + 쿠페이 계좌이체] 결제 시 2% 적립",
+                            "expired": false,
+                            "i18nAmount": {
+                                "amount": "358",
+                                "currency": "KRW",
+                                "fractionDigits": 0,
+                                "rawAmount": 358
+                            },
+                            "leftDays": 2035,
+                            "rate": "2",
+                            "type": "COU_BANK",
+                            "validity": "이벤트 기간 30일, 최대 2만원"
+                        },
+                        {
+                            "amount": 716,
+                            "benefit": "[로켓와우 + 쿠페이 머니] 결제 시 4% 추가적립",
+                            "expired": false,
+                            "i18nAmount": {
+                                "amount": "716",
+                                "currency": "KRW",
+                                "fractionDigits": 0,
+                                "rawAmount": 716
+                            },
+                            "leftDays": 2035,
+                            "rate": "4",
+                            "type": "COU_MONEY",
+                            "validity": "이벤트 기간 30일, 최대 4만원"
+                        }
+                    ],
+                    "finalCashBackAmt": 895,
+                    "finalCashBackAmtIncludeRewardCashAmount": 895,
+                    "giftRewardCashAmount": null,
+                    "i18nBasicRocketPayCashAmt": {
+                        "amount": "179",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 179
+                    },
+                    "i18nClubMemberCashAmt": null,
+                    "i18nCouPayBankAmt": {
+                        "amount": "358",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 358
+                    },
+                    "i18nCouPayMoneyAmt": {
+                        "amount": "716",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 716
+                    },
+                    "i18nFinalCashBackAmt": {
+                        "amount": "895",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 895
+                    },
+                    "i18nFinalCashBackAmtIncludeRewardCashAmount": {
+                        "amount": "895",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": 895
+                    },
+                    "i18nRewardCashAmount": null,
+                    "luxuryItem": false,
+                    "popupType": "WITHEXTRA",
+                    "rewardCashAmount": null,
+                    "targetedPromotionBanner": null
+                },
+                "delivery": {
+                    "badgeUrl": null,
+                    "company": "우체국",
+                    "companyLabel": "배송사: ",
+                    "countDownMessage": null,
+                    "countDownMillisecond": null,
+                    "delayMessage": "",
+                    "deliveryExtraInfo": null,
+                    "deliveryNotice": null,
+                    "deliveryReminderMessage": null,
+                    "descriptionBadge": null,
+                    "descriptionIcon": null,
+                    "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>화요일 8/5</em><em class='prod-txt-onyx'> 도착 예정</em>",
+                    "extremeDescriptions": null,
+                    "hideQuestionMark": false,
+                    "logistics": false,
+                    "loyaltyButtonText": null,
+                    "rocketWowQuestionMark": false,
+                    "speedType": null,
+                    "title": null,
+                    "type": "VENDOR_DELIVERY"
+                },
+                "deliveryList": [
+                    {
+                        "badgeUrl": null,
+                        "company": "우체국",
+                        "companyLabel": "배송사: ",
+                        "countDownMessage": null,
+                        "countDownMillisecond": null,
+                        "delayMessage": "",
+                        "deliveryExtraInfo": null,
+                        "deliveryNotice": null,
+                        "deliveryReminderMessage": null,
+                        "descriptionBadge": null,
+                        "descriptionIcon": null,
+                        "descriptions": "<em class='prod-txt-onyx prod-txt-font-14'>화요일 8/5</em><em class='prod-txt-onyx'> 도착 예정</em>",
+                        "extremeDescriptions": null,
+                        "hideQuestionMark": false,
+                        "logistics": false,
+                        "loyaltyButtonText": null,
+                        "rocketWowQuestionMark": false,
+                        "speedType": null,
+                        "title": null,
+                        "type": "VENDOR_DELIVERY"
+                    }
+                ],
+                "freebieBenefit": null,
+                "freebieBenefitV2": null,
+                "moduleData": [
+                    {
+                        "abFlags": {
+                            "displayTwoPricesWow": "A",
+                            "sdpCartUpdateNewPmcPolicy": "false",
+                            "deliveryFeeToggleShow": "true"
+                        },
+                        "detailPriceBundle": {
+                            "finalPrice": {
+                                "bestPriceInfo": {
+                                    "currency": "KRW",
+                                    "discountRate": 28,
+                                    "discountRateValid": true,
+                                    "doubleElevenPromoted": false,
+                                    "firstPurchase": false,
+                                    "goldbox": false,
+                                    "hasEligibilityConditions": false,
+                                    "lightning": false,
+                                    "lightningOrGoldbox": false,
+                                    "memberPrice": false,
+                                    "notExpired": true,
+                                    "percentageDiscount": false,
+                                    "price": 17900,
+                                    "priceBasedDiscountRate": 28,
+                                    "priceType": "FINAL_PRICE",
+                                    "priceWithDeliveryFee": 20500,
+                                    "unitCCIDuration": 1,
+                                    "unitPrice": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 17900,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "priceEx": {
+                                            "amount": 17900,
+                                            "currency": "KRW"
+                                        },
+                                        "unit": "개"
+                                    },
+                                    "unitPriceAmount": 17900,
+                                    "unitPriceAmountWithDeliveryFee": 20500,
+                                    "unitPriceDescription": "(1개당 17,900원)",
+                                    "unitPriceDescriptionWithoutParenthesis": "1개당 17,900원",
+                                    "unitPriceIncludeDeliveryFeeDescription": "(1개당 20,500원)",
+                                    "unitPriceIncludeDeliveryFeeDescriptionWithoutParenthesis": "1개당 20,500원",
+                                    "unitPriceWithDeliveryFee": {
+                                        "amount": 1,
+                                        "extendedPrice": {
+                                            "money": {
+                                                "amount": 20500,
+                                                "currency": "KRW"
+                                            },
+                                            "offset": 0
+                                        },
+                                        "unit": "개"
+                                    },
+                                    "valid": true
+                                },
+                                "displayType": "FINAL",
+                                "downloadCouponType": "NONE",
+                                "downloadDiscountAmount": 0,
+                                "instantDiscountAmount": 0,
+                                "instantDiscountType": "NONE",
+                                "memberPrice": false,
+                                "price": 17900,
+                                "priceBaseDiscountRate": 28,
+                                "priceWithDeliveryFee": 20500,
+                                "realType": "SALES",
+                                "unitPriceAmount": 17900,
+                                "unitPriceAmountWithDeliveryFee": 20500,
+                                "unitPriceDescription": "(1개당 17,900원)",
+                                "unitPriceDescriptionWithoutParenthesis": "1개당 17,900원",
+                                "unitPriceIncludeDeliveryFeeDescription": "(1개당 20,500원)"
+                            },
+                            "finalPriceDiscountRate": 28,
+                            "nonWowMemberPrice": {
+                                "price": 17900,
+                                "priceWithDeliveryFee": 20500
+                            },
+                            "originalPrice": {
+                                "displayType": "ORIGINAL",
+                                "downloadCouponType": "NONE",
+                                "instantDiscountType": "NONE",
+                                "memberPrice": false,
+                                "price": 25000,
+                                "priceWithDeliveryFee": 27600,
+                                "realType": "ORIGINAL",
+                                "unitPriceDescription": "(1개당 25,000원)"
+                            },
+                            "wowMemberPrice": {
+                                "price": 17900,
+                                "priceWithDeliveryFee": 20500
+                            }
+                        },
+                        "logging": {},
+                        "normalCouponDiscount": false,
+                        "normalInstantDiscount": false,
+                        "priceLogData": {
+                            "unitPrice": "(1개당 17,900원)",
+                            "discountRate": "28.0",
+                            "underThresholdCouponSavingAmount": "null",
+                            "targetedCouponSavingAmount": "null",
+                            "instantDiscountSavingAmount": "null",
+                            "overThresholdCouponSavingAmount": "null",
+                            "salesPrice": 17900,
+                            "finalPrice": 17900,
+                            "underThresholdCouponThreshold": "null",
+                            "isBadDiscount": "false",
+                            "wowUnderThresholdCouponThreshold": "null",
+                            "shippingFee": 2600,
+                            "anchorPrice": "25000",
+                            "ccidEligibleSavingAmount": "null",
+                            "wowInstantDiscountSavingAmount": "null",
+                            "wowUnderThresholdCouponSavingAmount": "null",
+                            "wowCcidEligibleSavingAmount": "null",
+                            "myCcidDiscountSavingAmount": "null",
+                            "businessType": "3p",
+                            "wowOverThresholdCouponSavingAmount": "null"
+                        },
+                        "pricePolicies": [
+                            {
+                                "currency": "원",
+                                "description": "쿠팡 판매를 위한 할인 적용 이전의 가격(업체가 쿠팡에 제공한 희망소매가격 또는 공식판매처 판매가 등. 도서정가제 대상 도서인 경우, 도서 정가)입니다.<br><br>*할인율은 배송비를 제외한 상품 가격을 기준으로 적용됩니다.",
+                                "discountRate": 28,
+                                "formattedPrice": "25,000원",
+                                "price": "25,000",
+                                "priceWithDeliveryFee": "27,600",
+                                "type": "ORIGINAL"
+                            }
+                        ],
+                        "priceWithDeliveryFee": false,
+                        "targetedDiscount": false,
+                        "viewType": "PRODUCT_DETAIL_PRICE_INFO",
+                        "wowCouponDiscount": false,
+                        "wowDiscountAndNormalOtAndNonWowMember": false,
+                        "wowInstantDiscount": false
+                    },
+                    {
+                        "title": "깨끗한 퀸베이퍼 / 닷모드 닷팟나노 아스파이어 페보 리필액상 VS 하카시그니처",
+                        "viewType": "PRODUCT_DETAIL_PRODUCT_INFO"
+                    },
+                    {
+                        "viewType": "PRODUCT_WEB_DATA_AB_FLAGS"
+                    },
+                    {
+                        "deliveryInfo": {
+                            "nonMemberDelivery": {
+                                "arrivalMessage": [
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "화요일 8/5 도착 예정"
+                                    }
+                                ],
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "무료배송"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": " "
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "(같은 판매자 상품 50000 이상 구매 시)"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "그 외 배송비 2600"
+                                    }
+                                ]
+                            },
+                            "wowMemberDelivery": {
+                                "arrivalMessage": [
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "화요일 8/5 도착 예정"
+                                    }
+                                ],
+                                "shippingFeeTag": [
+                                    {
+                                        "bold": true,
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "무료배송"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": " "
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "(같은 판매자 상품 50000 이상 구매 시)"
+                                    },
+                                    {
+                                        "color": "#222222",
+                                        "size": 14,
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "color": "#212B36",
+                                        "size": 14,
+                                        "text": "그 외 배송비 2600"
+                                    }
+                                ]
+                            }
+                        },
+                        "itemInfo": {
+                            "itemId": 20353393233,
+                            "itemName": "깨끗한 퀸베이퍼 / 닷모드 닷팟나노 아스파이어 페보 리필액상 VS 하카시그니처",
+                            "productId": 5608586798,
+                            "thumbnailImage": {
+                                "height": 60,
+                                "url": "https://image9.coupangcdn.com/image/vendor_inventory/2884/ea303824c2947fbe95ad32ca32392005ed621a654bf7f3cc3059917ce688.jpg",
+                                "width": 60
+                            },
+                            "vendorItemId": 87430733460
+                        },
+                        "priceInfo": {
+                            "finalPrice": {
+                                "applicable": true,
+                                "displayPrice": "17,900원",
+                                "price": 17900
+                            },
+                            "finalPriceDiscountRate": 28,
+                            "originalPrice": {
+                                "applicable": true,
+                                "displayPrice": "25,000원",
+                                "price": 25000
+                            }
+                        },
+                        "viewType": "PRODUCT_DETAIL_HANDLEBAR_BASE_INFO"
+                    },
+                    {
+                        "pddList": [
+                            {
+                                "arrivalMessage": "화요일 8/5 도착 예정",
+                                "deliveryCharge": "2,600원",
+                                "deliveryCompany": "우체국",
+                                "deliveryMessages": [
+                                    "배송비 2,600원"
+                                ],
+                                "deliveryType": "CONDITIONAL_FREE",
+                                "is3pDelivery": true,
+                                "shippingFeeButton": "배송비 포함됨",
+                                "shippingFeeTag": "*상품 가격에 배송비가 포함되어 있습니다."
+                            }
+                        ],
+                        "viewType": "PRODUCT_DETAIL_DELIVERY_INFO"
+                    }
+                ],
+                "price": {
+                    "cashPromotionMessage": null,
+                    "couponDiscountAmount": null,
+                    "couponPrice": "17,900",
+                    "couponPriceTitle": "",
+                    "couponUnitPrice": "1개당 17,900원",
+                    "description": null,
+                    "discountRate": "28",
+                    "finalPrice": "17,900",
+                    "gppuPricePolicy": [
+                        {
+                            "description": "업체의 권장소비자가 또는 공식 판매처 판매가 또는 도서 정가(도서 정가제 대상인 경우)입니다. 해당 가격이 없는 경우 90일 내 쿠팡에서 판매된 가격 중 가장 높은 가격을 표시합니다.",
+                            "priceInfo": "<span class='discount-rate'>28%</span><span class='origin-price'>25,000원</span>"
+                        }
+                    ],
+                    "hasNormalCouponDiscount": false,
+                    "hasNormalInstantDiscount": false,
+                    "hasWowCouponDiscount": false,
+                    "hasWowInstantDiscount": false,
+                    "i18nCouponDiscountAmount": null,
+                    "i18nCouponPrice": {
+                        "amount": "17900",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "i18nOriginPrice": {
+                        "amount": "25000",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "i18nPriceAmount": null,
+                    "i18nSalePrice": {
+                        "amount": "17900",
+                        "currency": "KRW",
+                        "fractionDigits": 0,
+                        "rawAmount": null
+                    },
+                    "instantDiscount": false,
+                    "instantPriceType": null,
+                    "loyaltyButtonText": null,
+                    "loyaltyRegistrationUrl": null,
+                    "originPrice": "25,000",
+                    "originalPriceDesc": null,
+                    "priceAmount": null,
+                    "salePrice": "17,900",
+                    "salePriceTitle": "",
+                    "saleUnitPrice": "1개당 17,900원",
+                    "title": null,
+                    "type": null,
+                    "unitDiscountRate": null,
+                    "unitPrice": null,
+                    "wowCouponDiscount": false
+                },
+                "priceList": [
+                    {
+                        "cashPromotionMessage": null,
+                        "couponDiscountAmount": null,
+                        "couponPrice": null,
+                        "couponPriceTitle": null,
+                        "couponUnitPrice": null,
+                        "description": null,
+                        "discountRate": null,
+                        "finalPrice": null,
+                        "gppuPricePolicy": null,
+                        "hasNormalCouponDiscount": false,
+                        "hasNormalInstantDiscount": false,
+                        "hasWowCouponDiscount": false,
+                        "hasWowInstantDiscount": false,
+                        "i18nCouponDiscountAmount": null,
+                        "i18nCouponPrice": null,
+                        "i18nOriginPrice": null,
+                        "i18nPriceAmount": {
+                            "amount": "17900",
+                            "currency": "KRW",
+                            "fractionDigits": 0,
+                            "rawAmount": null
+                        },
+                        "i18nSalePrice": null,
+                        "instantDiscount": null,
+                        "instantPriceType": null,
+                        "loyaltyButtonText": null,
+                        "loyaltyRegistrationUrl": null,
+                        "originPrice": null,
+                        "originalPriceDesc": null,
+                        "priceAmount": "17,900",
+                        "salePrice": null,
+                        "salePriceTitle": null,
+                        "saleUnitPrice": null,
+                        "title": "쿠팡판매가",
+                        "type": "SALES",
+                        "unitDiscountRate": null,
+                        "unitPrice": "1개당 17,900원",
+                        "wowCouponDiscount": false
+                    }
+                ],
+                "priceUnit": "원",
+                "quantity": 1,
+                "quantityLimitationVO": null,
+                "selectedIndex": 0,
+                "shipmentDisplayType": "NORMAL",
+                "shippingFee": {
+                    "dividerIcon": null,
+                    "extremeMessage": null,
+                    "freeShippingConditionMessage": "<em class='prod-shipping-fee-divider'>그 외 배송비 2,600원</em>",
+                    "message": "<em class='prod-txt-bold'>무료배송</em><em class='prod-StrSupplier-black'> (같은 판매자 상품 50,000원 이상 구매 시)</em>",
+                    "popupFreeShippingConditionMessage": null,
+                    "returnFeeMessage": null,
+                    "shippingFee": "2,600원",
+                    "shippingFeeIcon": null,
+                    "shippingFeeType": "THREE_P_CONDITIONAL_FREE",
+                    "title": null,
+                    "titleIcon": null
+                },
+                "shippingFeeList": [
+                    {
+                        "dividerIcon": null,
+                        "extremeMessage": null,
+                        "freeShippingConditionMessage": "같은 판매자 상품 50,000원 이상 구매 시",
+                        "message": "<em class='prod-txt-bold'>무료배송</em><em class='prod-StrSupplier-black'> (같은 판매자 상품 50,000원 이상 구매 시)</em>",
+                        "popupFreeShippingConditionMessage": "같은 판매자 상품 50,000원 이상 구매 시",
+                        "returnFeeMessage": null,
+                        "shippingFee": null,
+                        "shippingFeeIcon": null,
+                        "shippingFeeType": "THREE_P_CONDITIONAL_FREE",
+                        "title": null,
+                        "titleIcon": null
+                    }
+                ],
+                "subscriptionDelivery": null,
+                "subscriptionDiscountRate": -1,
+                "subscriptionPrice": null,
+                "subscriptionPriceList": [],
+                "wowOnlyInstantDiscountRate": 0
+            }
+        ],
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": 2,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": {
+            "countryOfOrigin": null,
+            "sellingInfo": [
+                "개당 용량: 30ml",
+                "쿠팡상품번호: 5608586798 - 20353393233"
+            ]
+        },
+        "shippingConsolidationLink": null,
+        "soldOut": false,
+        "stickBanners": [],
+        "subscribeInfo": null,
+        "summary": [],
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": {
+            "id": "A00178565",
+            "link": "https://shop.coupang.com/vid/A00178565?source=brandstore_sdp_atf&pid=5608586798&viid=87430733460&ocid=3987397&platform=p",
+            "name": "쏘올플레이스",
+            "sellerStoreRating": {
+                "display": {
+                    "descriptionText": "374",
+                    "icon": "https://image9.coupangcdn.com/image/mobile_app/v3/badges/thumbs_up/xxhdpi/ic_thumbsup_outline_black_buybox.png",
+                    "label": "판매자 평가",
+                    "score": "96%"
+                },
+                "notice": {
+                    "declaration": "이 판매자가 제공하는 전체적인 서비스에 대한 고객의 만족도입니다.<br/>(배송, 포장, 고객응대, 가격, 유통기한 등) ",
+                    "noReviewReminder": null,
+                    "storeIcon": "https://image10.coupangcdn.com/image/coupang/rds/icon/xxhdpi/ic_seller_outline.png",
+                    "storeName": "쏘올플레이스",
+                    "title": "판매자 평가"
+                },
+                "total": 374
+            }
+        },
+        "vendorItemId": 87430733460,
+        "warrantyServiceVo": null,
+        "wishList": false,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7650234084?itemId=20353393233&vendorItemId=87430733460&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=22"
+        },
+        "status": "normal",
+        "thomas_error": false,
+        "rating": {
+            "rCode": "RET0000",
+            "rRedirectCode": null,
+            "rRedirectUrl": null,
+            "rViewName": "page/productReview/sdp/template/reviewArticleList",
+            "rMessage": "",
+            "rData": {
+                "webbuildNo": "20250801173531",
+                "isLogin": false,
+                "memberId": null,
+                "trCid": null,
+                "trAid": null,
+                "isIncentiveForReviewTarget": true,
+                "ratingSummaryTotal": {
+                    "ratingCount": 0,
+                    "ratingAverage": 0,
+                    "ratingSummaries": [
+                        {
+                            "id": 261296726,
+                            "productId": 7650234084,
+                            "rating": 5,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 261296725,
+                            "productId": 7650234084,
+                            "rating": 4,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 261296724,
+                            "productId": 7650234084,
+                            "rating": 3,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 261296719,
+                            "productId": 7650234084,
+                            "rating": 2,
+                            "count": 0,
+                            "percentage": 0
+                        },
+                        {
+                            "id": 261296714,
+                            "productId": 7650234084,
+                            "rating": 1,
+                            "count": 0,
+                            "percentage": 0
+                        }
+                    ]
+                },
+                "selectedMarketRatingSummaryTotal": null,
+                "ratingSelectedCount": null,
+                "paging": {
+                    "page": 1,
+                    "currentPage": 1,
+                    "sizePerPage": 30,
+                    "displayPageBarLimit": 10,
+                    "totalCount": 0,
+                    "startPage": 1,
+                    "endPage": 0,
+                    "totalPage": 0,
+                    "isPrev": false,
+                    "isNext": false,
+                    "isPaging": false,
+                    "pageList": [],
+                    "contents": []
+                },
+                "videoAvailable": true,
+                "reviewTotalCount": 0,
+                "tabContainer": null
+            },
+            "rCookies": null
+        }
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7554324817?itemId=19887759057&vendorItemId=87126275783&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=23"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7551846422?itemId=19876032357&vendorItemId=86976654611&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=24"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7478764982?itemId=19530432539&vendorItemId=87153653636&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=25"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    },
+    {
+        "additionalData": {
+            "isFarfetch": false,
+            "isRlux": false
+        },
+        "almostSoldOut": null,
+        "apiUrlMap": {},
+        "attributeTitle": null,
+        "authenticity": null,
+        "authors": null,
+        "badgeMap": {},
+        "bizBadge": null,
+        "blockInfo": null,
+        "bundleOption": null,
+        "buyableQuantity": null,
+        "cashBackSummary": null,
+        "ccidEligible": false,
+        "ccidInfo": null,
+        "couponList": null,
+        "dawnOnly": false,
+        "deliveryAttribute": false,
+        "discountBenefitDescription": null,
+        "discountBenefitDescriptionList": null,
+        "easePayment": null,
+        "freshEligible": false,
+        "giftcard": false,
+        "goldFish": false,
+        "highlights": null,
+        "images": null,
+        "invalid": false,
+        "inventory": null,
+        "itemId": null,
+        "itemName": null,
+        "limitNoticeVo": null,
+        "linkedVendorItemInfo": null,
+        "luxuryDiscountBenefit": null,
+        "memberInfo": null,
+        "offerBanner": null,
+        "offerDescription": null,
+        "otherSellerCount": null,
+        "parentItemId": null,
+        "preOrderVo": null,
+        "quantityBase": null,
+        "restockNotification": false,
+        "retail": false,
+        "rocketLuxuryDisclaimer": null,
+        "roleCode": null,
+        "ruleBasedTitle": null,
+        "sellingInfoVo": null,
+        "shippingConsolidationLink": null,
+        "soldOut": null,
+        "stickBanners": null,
+        "subscribeInfo": null,
+        "summary": null,
+        "supplier": null,
+        "topSellingInfo": null,
+        "used": false,
+        "vendor": null,
+        "vendorItemId": null,
+        "warrantyServiceVo": null,
+        "wishList": null,
+        "input_obj": {
+            "Category": "VAP",
+            "er": "KR",
+            "Website": "Coupang",
+            "URL": "https://www.coupang.com/vp/products/7749206964?itemId=23467600239&vendorItemId=90494169490&q=haka+%EB%B2%A0%EC%9D%B4%ED%94%84&itemsCount=36&searchId=cc41a890a6734b45a08aced06203036f&rank=26"
+        },
+        "status": "not applicable",
+        "thomas_error": false,
+        "rating": null
+    }
+]

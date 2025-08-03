@@ -97,7 +97,9 @@ def extract_all_ratings(productID):
     except KeyError:
         print("Invalid structure in first page")
         return []
-    total_pages = 10
+    
+    if total_pages > 10:
+        total_pages = 10
     with ThreadPoolExecutor(max_workers=3) as executor:
         futures = []
         for start_page in range(2, total_pages + 1):
